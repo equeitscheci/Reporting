@@ -1,0 +1,65 @@
+# Mapping: Acme ERP (source) → canonical model.
+# Onboarding a new ERP == authoring a file like this. No code changes required.
+source_system: acme_erp
+version: 1
+entities:
+  - source_stream: customers
+    target_entity: customer
+    source_id: CustNum
+    fields:
+      name: CustName
+      region: Region
+      segment: Segment
+
+  - source_stream: products
+    target_entity: product
+    source_id: PartNum
+    fields:
+      sku: PartNum
+      description: Description
+      product_group: ProductGroup
+      standard_cost: { transform: { op: cast, type: float, from: StdUnitCost } }
+      list_price: { transform: { op: cast, type: float, from: ListPrice } }
+
+  - source_stream: sales_orders
+    target_entity: order
+    source_id: OrderNum
+    fields:
+      order_number: { transform: { op: cast, type: str, from: OrderNum } }
+      customer_id: CustNum
+      order_date: { transform: { op: cast, type: date, from: OrderDate } }
+      status: OrderStatus
+
+  - source_stream: order_lines
+    target_entity: order_line
+    source_id: [OrderNum, LineNum]
+    fields:
+      order_number: { transform: { op: cast, type: str, from: OrderNum } }
+      line_number: { transform: { op: cast, type: int, from: LineNum } }
+      sku: PartNum
+      order_qty: { transform: { op: cast, type: float, from: OrderQty } }
+      ship_qty: { transform: { op: cast, type: float, from: ShipQty } }
+      unit_price: { transform: { op: cast, type: float, from: UnitPrice } }
+      unit_cost: { transform: { op: cast, type: float, from: UnitCost } }
+
+  - source_stream: invoices
+    target_entity: invoice
+    source_id: InvoiceNum
+    fields:
+      invoice_number: { transform: { op: cast, type: str, from: InvoiceNum } }
+      order_number: { transform: { op: cast, type: str, from: OrderNum } }
+      customer_id: CustNum
+      invoice_date: { transform: { op: cast, type: date, from: InvoiceDate } }
+      due_date: { transform: { op: cast, type: date, from: DueDate } }
+      amount: { transform: { op: cast, type: float, from: InvoiceAmt } }
+      amount_paid: { transform: { op: cast, type: float, from: AmountPaid } }
+
+  - source_stream: inventory_snapshots
+    target_entity: inventory_level
+    source_id: [PartNum, SnapshotDate]
+    fields:
+      sku: PartNum
+      location: Warehouse
+      snapshot_date: { transform: { op: cast, type: date, from: SnapshotDate } }
+      qty_on_hand: { transform: { op: cast, type: float, from: QtyOnHand } }
+      unit_cost: { transform: { op: cast, type: float, from: UnitCost } }

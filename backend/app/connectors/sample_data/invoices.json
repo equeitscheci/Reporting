@@ -1,0 +1,6222 @@
+[
+  {
+    "InvoiceNum": 80001,
+    "OrderNum": 50001,
+    "CustNum": "C1001",
+    "InvoiceDate": "2025-06-05",
+    "DueDate": "2025-07-11",
+    "InvoiceAmt": 1589.69,
+    "AmountPaid": 744.39,
+    "ChangedDate": "2025-06-02"
+  },
+  {
+    "InvoiceNum": 80002,
+    "OrderNum": 50002,
+    "CustNum": "C1003",
+    "InvoiceDate": "2025-06-20",
+    "DueDate": "2025-07-27",
+    "InvoiceAmt": 657.5,
+    "AmountPaid": 657.5,
+    "ChangedDate": "2025-06-18"
+  },
+  {
+    "InvoiceNum": 80003,
+    "OrderNum": 50003,
+    "CustNum": "C1003",
+    "InvoiceDate": "2025-07-05",
+    "DueDate": "2025-08-04",
+    "InvoiceAmt": 272.75,
+    "AmountPaid": 272.75,
+    "ChangedDate": "2025-06-26"
+  },
+  {
+    "InvoiceNum": 80004,
+    "OrderNum": 50004,
+    "CustNum": "C1004",
+    "InvoiceDate": "2025-07-02",
+    "DueDate": "2025-08-05",
+    "InvoiceAmt": 3976.14,
+    "AmountPaid": 1003.57,
+    "ChangedDate": "2025-06-27"
+  },
+  {
+    "InvoiceNum": 80005,
+    "OrderNum": 50005,
+    "CustNum": "C1002",
+    "InvoiceDate": "2025-06-21",
+    "DueDate": "2025-07-22",
+    "InvoiceAmt": 1518.67,
+    "AmountPaid": 1518.67,
+    "ChangedDate": "2025-06-13"
+  },
+  {
+    "InvoiceNum": 80006,
+    "OrderNum": 50006,
+    "CustNum": "C1003",
+    "InvoiceDate": "2025-06-24",
+    "DueDate": "2025-08-01",
+    "InvoiceAmt": 392.94,
+    "AmountPaid": 392.94,
+    "ChangedDate": "2025-06-23"
+  },
+  {
+    "InvoiceNum": 80007,
+    "OrderNum": 50007,
+    "CustNum": "C1003",
+    "InvoiceDate": "2025-06-28",
+    "DueDate": "2025-07-29",
+    "InvoiceAmt": 2546.22,
+    "AmountPaid": 2546.22,
+    "ChangedDate": "2025-06-20"
+  },
+  {
+    "InvoiceNum": 80008,
+    "OrderNum": 50008,
+    "CustNum": "C1004",
+    "InvoiceDate": "2025-07-03",
+    "DueDate": "2025-08-03",
+    "InvoiceAmt": 1539.71,
+    "AmountPaid": 1539.71,
+    "ChangedDate": "2025-06-25"
+  },
+  {
+    "InvoiceNum": 80009,
+    "OrderNum": 50009,
+    "CustNum": "C1004",
+    "InvoiceDate": "2025-06-26",
+    "DueDate": "2025-07-28",
+    "InvoiceAmt": 163.46,
+    "AmountPaid": 31.57,
+    "ChangedDate": "2025-06-19"
+  },
+  {
+    "InvoiceNum": 80010,
+    "OrderNum": 50010,
+    "CustNum": "C1000",
+    "InvoiceDate": "2025-07-03",
+    "DueDate": "2025-08-03",
+    "InvoiceAmt": 1563.3,
+    "AmountPaid": 1563.3,
+    "ChangedDate": "2025-06-25"
+  },
+  {
+    "InvoiceNum": 80011,
+    "OrderNum": 50011,
+    "CustNum": "C1000",
+    "InvoiceDate": "2025-06-23",
+    "DueDate": "2025-07-30",
+    "InvoiceAmt": 657.55,
+    "AmountPaid": 48.96,
+    "ChangedDate": "2025-06-21"
+  },
+  {
+    "InvoiceNum": 80012,
+    "OrderNum": 50012,
+    "CustNum": "C1004",
+    "InvoiceDate": "2025-06-21",
+    "DueDate": "2025-07-27",
+    "InvoiceAmt": 3437.34,
+    "AmountPaid": 3437.34,
+    "ChangedDate": "2025-06-18"
+  },
+  {
+    "InvoiceNum": 80013,
+    "OrderNum": 50013,
+    "CustNum": "C1003",
+    "InvoiceDate": "2025-06-04",
+    "DueDate": "2025-07-13",
+    "InvoiceAmt": 5226.14,
+    "AmountPaid": 5226.14,
+    "ChangedDate": "2025-06-04"
+  },
+  {
+    "InvoiceNum": 80014,
+    "OrderNum": 50014,
+    "CustNum": "C1003",
+    "InvoiceDate": "2025-06-07",
+    "DueDate": "2025-07-13",
+    "InvoiceAmt": 6283.95,
+    "AmountPaid": 4259.46,
+    "ChangedDate": "2025-06-04"
+  },
+  {
+    "InvoiceNum": 80015,
+    "OrderNum": 50015,
+    "CustNum": "C1001",
+    "InvoiceDate": "2025-06-07",
+    "DueDate": "2025-07-14",
+    "InvoiceAmt": 1229.46,
+    "AmountPaid": 1229.46,
+    "ChangedDate": "2025-06-05"
+  },
+  {
+    "InvoiceNum": 80016,
+    "OrderNum": 50016,
+    "CustNum": "C1006",
+    "InvoiceDate": "2025-06-13",
+    "DueDate": "2025-07-16",
+    "InvoiceAmt": 2012.68,
+    "AmountPaid": 2012.68,
+    "ChangedDate": "2025-06-07"
+  },
+  {
+    "InvoiceNum": 80017,
+    "OrderNum": 50017,
+    "CustNum": "C1000",
+    "InvoiceDate": "2025-06-11",
+    "DueDate": "2025-07-16",
+    "InvoiceAmt": 613.87,
+    "AmountPaid": 191.55,
+    "ChangedDate": "2025-06-07"
+  },
+  {
+    "InvoiceNum": 80018,
+    "OrderNum": 50018,
+    "CustNum": "C1006",
+    "InvoiceDate": "2025-07-02",
+    "DueDate": "2025-08-02",
+    "InvoiceAmt": 2801.8,
+    "AmountPaid": 1847.15,
+    "ChangedDate": "2025-06-24"
+  },
+  {
+    "InvoiceNum": 80019,
+    "OrderNum": 50019,
+    "CustNum": "C1002",
+    "InvoiceDate": "2025-06-12",
+    "DueDate": "2025-07-12",
+    "InvoiceAmt": 715.14,
+    "AmountPaid": 715.14,
+    "ChangedDate": "2025-06-03"
+  },
+  {
+    "InvoiceNum": 80020,
+    "OrderNum": 50020,
+    "CustNum": "C1000",
+    "InvoiceDate": "2025-06-22",
+    "DueDate": "2025-07-30",
+    "InvoiceAmt": 2986.11,
+    "AmountPaid": 2986.11,
+    "ChangedDate": "2025-06-21"
+  },
+  {
+    "InvoiceNum": 80021,
+    "OrderNum": 50021,
+    "CustNum": "C1001",
+    "InvoiceDate": "2025-06-27",
+    "DueDate": "2025-07-28",
+    "InvoiceAmt": 1809.2,
+    "AmountPaid": 1809.2,
+    "ChangedDate": "2025-06-19"
+  },
+  {
+    "InvoiceNum": 80022,
+    "OrderNum": 50022,
+    "CustNum": "C1000",
+    "InvoiceDate": "2025-07-01",
+    "DueDate": "2025-08-01",
+    "InvoiceAmt": 808.52,
+    "AmountPaid": 808.52,
+    "ChangedDate": "2025-06-23"
+  },
+  {
+    "InvoiceNum": 80023,
+    "OrderNum": 50023,
+    "CustNum": "C1002",
+    "InvoiceDate": "2025-06-11",
+    "DueDate": "2025-07-19",
+    "InvoiceAmt": 1492.71,
+    "AmountPaid": 1492.71,
+    "ChangedDate": "2025-06-10"
+  },
+  {
+    "InvoiceNum": 80024,
+    "OrderNum": 50024,
+    "CustNum": "C1006",
+    "InvoiceDate": "2025-07-02",
+    "DueDate": "2025-08-06",
+    "InvoiceAmt": 185.68,
+    "AmountPaid": 16.62,
+    "ChangedDate": "2025-06-28"
+  },
+  {
+    "InvoiceNum": 80025,
+    "OrderNum": 50025,
+    "CustNum": "C1002",
+    "InvoiceDate": "2025-06-26",
+    "DueDate": "2025-08-03",
+    "InvoiceAmt": 3280.53,
+    "AmountPaid": 3280.53,
+    "ChangedDate": "2025-06-25"
+  },
+  {
+    "InvoiceNum": 80026,
+    "OrderNum": 50026,
+    "CustNum": "C1005",
+    "InvoiceDate": "2025-07-02",
+    "DueDate": "2025-08-04",
+    "InvoiceAmt": 1496.65,
+    "AmountPaid": 1496.65,
+    "ChangedDate": "2025-06-26"
+  },
+  {
+    "InvoiceNum": 80027,
+    "OrderNum": 50027,
+    "CustNum": "C1003",
+    "InvoiceDate": "2025-06-17",
+    "DueDate": "2025-07-19",
+    "InvoiceAmt": 108.96,
+    "AmountPaid": 108.96,
+    "ChangedDate": "2025-06-10"
+  },
+  {
+    "InvoiceNum": 80028,
+    "OrderNum": 50028,
+    "CustNum": "C1005",
+    "InvoiceDate": "2025-06-19",
+    "DueDate": "2025-07-20",
+    "InvoiceAmt": 305.65,
+    "AmountPaid": 305.65,
+    "ChangedDate": "2025-06-11"
+  },
+  {
+    "InvoiceNum": 80029,
+    "OrderNum": 50029,
+    "CustNum": "C1005",
+    "InvoiceDate": "2025-06-08",
+    "DueDate": "2025-07-11",
+    "InvoiceAmt": 2816.9,
+    "AmountPaid": 2816.9,
+    "ChangedDate": "2025-06-02"
+  },
+  {
+    "InvoiceNum": 80030,
+    "OrderNum": 50030,
+    "CustNum": "C1003",
+    "InvoiceDate": "2025-06-16",
+    "DueDate": "2025-07-19",
+    "InvoiceAmt": 4821.33,
+    "AmountPaid": 4821.33,
+    "ChangedDate": "2025-06-10"
+  },
+  {
+    "InvoiceNum": 80031,
+    "OrderNum": 50031,
+    "CustNum": "C1004",
+    "InvoiceDate": "2025-06-23",
+    "DueDate": "2025-07-28",
+    "InvoiceAmt": 1108.67,
+    "AmountPaid": 1108.67,
+    "ChangedDate": "2025-06-19"
+  },
+  {
+    "InvoiceNum": 80032,
+    "OrderNum": 50032,
+    "CustNum": "C1003",
+    "InvoiceDate": "2025-06-15",
+    "DueDate": "2025-07-24",
+    "InvoiceAmt": 2513.33,
+    "AmountPaid": 2513.33,
+    "ChangedDate": "2025-06-15"
+  },
+  {
+    "InvoiceNum": 80033,
+    "OrderNum": 50033,
+    "CustNum": "C1003",
+    "InvoiceDate": "2025-06-18",
+    "DueDate": "2025-07-26",
+    "InvoiceAmt": 3590.01,
+    "AmountPaid": 3590.01,
+    "ChangedDate": "2025-06-17"
+  },
+  {
+    "InvoiceNum": 80034,
+    "OrderNum": 50034,
+    "CustNum": "C1007",
+    "InvoiceDate": "2025-06-10",
+    "DueDate": "2025-07-15",
+    "InvoiceAmt": 6091.15,
+    "AmountPaid": 1859.56,
+    "ChangedDate": "2025-06-06"
+  },
+  {
+    "InvoiceNum": 80035,
+    "OrderNum": 50035,
+    "CustNum": "C1007",
+    "InvoiceDate": "2025-06-25",
+    "DueDate": "2025-07-31",
+    "InvoiceAmt": 1563.87,
+    "AmountPaid": 1563.87,
+    "ChangedDate": "2025-06-22"
+  },
+  {
+    "InvoiceNum": 80036,
+    "OrderNum": 50036,
+    "CustNum": "C1001",
+    "InvoiceDate": "2025-06-21",
+    "DueDate": "2025-07-24",
+    "InvoiceAmt": 4512.56,
+    "AmountPaid": 4512.56,
+    "ChangedDate": "2025-06-15"
+  },
+  {
+    "InvoiceNum": 80037,
+    "OrderNum": 50037,
+    "CustNum": "C1006",
+    "InvoiceDate": "2025-06-26",
+    "DueDate": "2025-07-28",
+    "InvoiceAmt": 4982.84,
+    "AmountPaid": 4982.84,
+    "ChangedDate": "2025-06-19"
+  },
+  {
+    "InvoiceNum": 80038,
+    "OrderNum": 50038,
+    "CustNum": "C1002",
+    "InvoiceDate": "2025-06-03",
+    "DueDate": "2025-07-12",
+    "InvoiceAmt": 1270.62,
+    "AmountPaid": 1270.62,
+    "ChangedDate": "2025-06-03"
+  },
+  {
+    "InvoiceNum": 80039,
+    "OrderNum": 50039,
+    "CustNum": "C1000",
+    "InvoiceDate": "2025-06-18",
+    "DueDate": "2025-07-18",
+    "InvoiceAmt": 760.32,
+    "AmountPaid": 145.91,
+    "ChangedDate": "2025-06-09"
+  },
+  {
+    "InvoiceNum": 80040,
+    "OrderNum": 50040,
+    "CustNum": "C1003",
+    "InvoiceDate": "2025-06-22",
+    "DueDate": "2025-07-25",
+    "InvoiceAmt": 2064.58,
+    "AmountPaid": 2064.58,
+    "ChangedDate": "2025-06-16"
+  },
+  {
+    "InvoiceNum": 80041,
+    "OrderNum": 50041,
+    "CustNum": "C1006",
+    "InvoiceDate": "2025-07-03",
+    "DueDate": "2025-08-02",
+    "InvoiceAmt": 925.33,
+    "AmountPaid": 925.33,
+    "ChangedDate": "2025-06-24"
+  },
+  {
+    "InvoiceNum": 80042,
+    "OrderNum": 50042,
+    "CustNum": "C1001",
+    "InvoiceDate": "2025-07-05",
+    "DueDate": "2025-08-05",
+    "InvoiceAmt": 1921.89,
+    "AmountPaid": 1921.89,
+    "ChangedDate": "2025-06-27"
+  },
+  {
+    "InvoiceNum": 80043,
+    "OrderNum": 50043,
+    "CustNum": "C1004",
+    "InvoiceDate": "2025-06-24",
+    "DueDate": "2025-07-30",
+    "InvoiceAmt": 4436.28,
+    "AmountPaid": 3019.92,
+    "ChangedDate": "2025-06-21"
+  },
+  {
+    "InvoiceNum": 80044,
+    "OrderNum": 50044,
+    "CustNum": "C1005",
+    "InvoiceDate": "2025-07-04",
+    "DueDate": "2025-08-05",
+    "InvoiceAmt": 1751.64,
+    "AmountPaid": 998.74,
+    "ChangedDate": "2025-06-27"
+  },
+  {
+    "InvoiceNum": 80045,
+    "OrderNum": 50045,
+    "CustNum": "C1007",
+    "InvoiceDate": "2025-06-25",
+    "DueDate": "2025-07-25",
+    "InvoiceAmt": 108.9,
+    "AmountPaid": 108.9,
+    "ChangedDate": "2025-06-16"
+  },
+  {
+    "InvoiceNum": 80046,
+    "OrderNum": 50046,
+    "CustNum": "C1005",
+    "InvoiceDate": "2025-06-26",
+    "DueDate": "2025-07-26",
+    "InvoiceAmt": 2897.31,
+    "AmountPaid": 2897.31,
+    "ChangedDate": "2025-06-17"
+  },
+  {
+    "InvoiceNum": 80047,
+    "OrderNum": 50047,
+    "CustNum": "C1004",
+    "InvoiceDate": "2025-06-06",
+    "DueDate": "2025-07-14",
+    "InvoiceAmt": 4236.78,
+    "AmountPaid": 4236.78,
+    "ChangedDate": "2025-06-05"
+  },
+  {
+    "InvoiceNum": 80048,
+    "OrderNum": 50048,
+    "CustNum": "C1000",
+    "InvoiceDate": "2025-06-21",
+    "DueDate": "2025-07-29",
+    "InvoiceAmt": 3053.79,
+    "AmountPaid": 935.75,
+    "ChangedDate": "2025-06-20"
+  },
+  {
+    "InvoiceNum": 80049,
+    "OrderNum": 50049,
+    "CustNum": "C1003",
+    "InvoiceDate": "2025-06-06",
+    "DueDate": "2025-07-14",
+    "InvoiceAmt": 1793.53,
+    "AmountPaid": 1793.53,
+    "ChangedDate": "2025-06-05"
+  },
+  {
+    "InvoiceNum": 80050,
+    "OrderNum": 50050,
+    "CustNum": "C1003",
+    "InvoiceDate": "2025-06-26",
+    "DueDate": "2025-07-31",
+    "InvoiceAmt": 1529.51,
+    "AmountPaid": 1529.51,
+    "ChangedDate": "2025-06-22"
+  },
+  {
+    "InvoiceNum": 80051,
+    "OrderNum": 50051,
+    "CustNum": "C1007",
+    "InvoiceDate": "2025-06-08",
+    "DueDate": "2025-07-13",
+    "InvoiceAmt": 5605.22,
+    "AmountPaid": 5605.22,
+    "ChangedDate": "2025-06-04"
+  },
+  {
+    "InvoiceNum": 80052,
+    "OrderNum": 50052,
+    "CustNum": "C1007",
+    "InvoiceDate": "2025-06-14",
+    "DueDate": "2025-07-14",
+    "InvoiceAmt": 2133.3,
+    "AmountPaid": 2133.3,
+    "ChangedDate": "2025-06-05"
+  },
+  {
+    "InvoiceNum": 80053,
+    "OrderNum": 50053,
+    "CustNum": "C1000",
+    "InvoiceDate": "2025-06-30",
+    "DueDate": "2025-08-04",
+    "InvoiceAmt": 1426.31,
+    "AmountPaid": 3.59,
+    "ChangedDate": "2025-06-26"
+  },
+  {
+    "InvoiceNum": 80054,
+    "OrderNum": 50054,
+    "CustNum": "C1002",
+    "InvoiceDate": "2025-06-26",
+    "DueDate": "2025-07-29",
+    "InvoiceAmt": 1052.6,
+    "AmountPaid": 1052.6,
+    "ChangedDate": "2025-06-20"
+  },
+  {
+    "InvoiceNum": 80055,
+    "OrderNum": 50055,
+    "CustNum": "C1000",
+    "InvoiceDate": "2025-06-26",
+    "DueDate": "2025-08-01",
+    "InvoiceAmt": 2973.53,
+    "AmountPaid": 2973.53,
+    "ChangedDate": "2025-06-23"
+  },
+  {
+    "InvoiceNum": 80056,
+    "OrderNum": 50056,
+    "CustNum": "C1002",
+    "InvoiceDate": "2025-06-17",
+    "DueDate": "2025-07-20",
+    "InvoiceAmt": 3120.35,
+    "AmountPaid": 2028.35,
+    "ChangedDate": "2025-06-11"
+  },
+  {
+    "InvoiceNum": 80057,
+    "OrderNum": 50057,
+    "CustNum": "C1003",
+    "InvoiceDate": "2025-06-25",
+    "DueDate": "2025-07-30",
+    "InvoiceAmt": 197.1,
+    "AmountPaid": 197.1,
+    "ChangedDate": "2025-06-21"
+  },
+  {
+    "InvoiceNum": 80058,
+    "OrderNum": 50058,
+    "CustNum": "C1000",
+    "InvoiceDate": "2025-06-17",
+    "DueDate": "2025-07-20",
+    "InvoiceAmt": 7549.97,
+    "AmountPaid": 7549.97,
+    "ChangedDate": "2025-06-11"
+  },
+  {
+    "InvoiceNum": 80059,
+    "OrderNum": 50059,
+    "CustNum": "C1006",
+    "InvoiceDate": "2025-06-28",
+    "DueDate": "2025-08-01",
+    "InvoiceAmt": 712.15,
+    "AmountPaid": 712.15,
+    "ChangedDate": "2025-06-23"
+  },
+  {
+    "InvoiceNum": 80060,
+    "OrderNum": 50060,
+    "CustNum": "C1006",
+    "InvoiceDate": "2025-06-23",
+    "DueDate": "2025-07-31",
+    "InvoiceAmt": 3396.24,
+    "AmountPaid": 3396.24,
+    "ChangedDate": "2025-06-22"
+  },
+  {
+    "InvoiceNum": 80061,
+    "OrderNum": 50061,
+    "CustNum": "C1004",
+    "InvoiceDate": "2025-07-17",
+    "DueDate": "2025-08-21",
+    "InvoiceAmt": 3424.24,
+    "AmountPaid": 3424.24,
+    "ChangedDate": "2025-07-13"
+  },
+  {
+    "InvoiceNum": 80062,
+    "OrderNum": 50062,
+    "CustNum": "C1000",
+    "InvoiceDate": "2025-07-28",
+    "DueDate": "2025-09-04",
+    "InvoiceAmt": 519.72,
+    "AmountPaid": 519.72,
+    "ChangedDate": "2025-07-27"
+  },
+  {
+    "InvoiceNum": 80063,
+    "OrderNum": 50063,
+    "CustNum": "C1003",
+    "InvoiceDate": "2025-07-18",
+    "DueDate": "2025-08-22",
+    "InvoiceAmt": 350.92,
+    "AmountPaid": 350.92,
+    "ChangedDate": "2025-07-14"
+  },
+  {
+    "InvoiceNum": 80064,
+    "OrderNum": 50064,
+    "CustNum": "C1003",
+    "InvoiceDate": "2025-07-25",
+    "DueDate": "2025-08-29",
+    "InvoiceAmt": 5799.31,
+    "AmountPaid": 909.05,
+    "ChangedDate": "2025-07-21"
+  },
+  {
+    "InvoiceNum": 80065,
+    "OrderNum": 50065,
+    "CustNum": "C1007",
+    "InvoiceDate": "2025-07-08",
+    "DueDate": "2025-08-11",
+    "InvoiceAmt": 1384.2,
+    "AmountPaid": 1384.2,
+    "ChangedDate": "2025-07-03"
+  },
+  {
+    "InvoiceNum": 80066,
+    "OrderNum": 50066,
+    "CustNum": "C1004",
+    "InvoiceDate": "2025-08-02",
+    "DueDate": "2025-09-05",
+    "InvoiceAmt": 4949.22,
+    "AmountPaid": 4949.22,
+    "ChangedDate": "2025-07-28"
+  },
+  {
+    "InvoiceNum": 80067,
+    "OrderNum": 50067,
+    "CustNum": "C1001",
+    "InvoiceDate": "2025-07-31",
+    "DueDate": "2025-09-04",
+    "InvoiceAmt": 260.05,
+    "AmountPaid": 260.05,
+    "ChangedDate": "2025-07-27"
+  },
+  {
+    "InvoiceNum": 80068,
+    "OrderNum": 50068,
+    "CustNum": "C1006",
+    "InvoiceDate": "2025-08-05",
+    "DueDate": "2025-09-05",
+    "InvoiceAmt": 4331.32,
+    "AmountPaid": 4331.32,
+    "ChangedDate": "2025-07-28"
+  },
+  {
+    "InvoiceNum": 80069,
+    "OrderNum": 50069,
+    "CustNum": "C1005",
+    "InvoiceDate": "2025-07-21",
+    "DueDate": "2025-08-29",
+    "InvoiceAmt": 1365.2,
+    "AmountPaid": 1365.2,
+    "ChangedDate": "2025-07-21"
+  },
+  {
+    "InvoiceNum": 80070,
+    "OrderNum": 50070,
+    "CustNum": "C1000",
+    "InvoiceDate": "2025-07-18",
+    "DueDate": "2025-08-19",
+    "InvoiceAmt": 163.52,
+    "AmountPaid": 99.97,
+    "ChangedDate": "2025-07-11"
+  },
+  {
+    "InvoiceNum": 80071,
+    "OrderNum": 50071,
+    "CustNum": "C1005",
+    "InvoiceDate": "2025-07-30",
+    "DueDate": "2025-08-31",
+    "InvoiceAmt": 276.07,
+    "AmountPaid": 189.39,
+    "ChangedDate": "2025-07-23"
+  },
+  {
+    "InvoiceNum": 80072,
+    "OrderNum": 50072,
+    "CustNum": "C1003",
+    "InvoiceDate": "2025-07-29",
+    "DueDate": "2025-09-06",
+    "InvoiceAmt": 876.75,
+    "AmountPaid": 876.75,
+    "ChangedDate": "2025-07-29"
+  },
+  {
+    "InvoiceNum": 80073,
+    "OrderNum": 50073,
+    "CustNum": "C1006",
+    "InvoiceDate": "2025-07-19",
+    "DueDate": "2025-08-18",
+    "InvoiceAmt": 409.08,
+    "AmountPaid": 33.27,
+    "ChangedDate": "2025-07-10"
+  },
+  {
+    "InvoiceNum": 80074,
+    "OrderNum": 50074,
+    "CustNum": "C1000",
+    "InvoiceDate": "2025-07-08",
+    "DueDate": "2025-08-11",
+    "InvoiceAmt": 6974.81,
+    "AmountPaid": 6974.81,
+    "ChangedDate": "2025-07-03"
+  },
+  {
+    "InvoiceNum": 80075,
+    "OrderNum": 50075,
+    "CustNum": "C1002",
+    "InvoiceDate": "2025-07-27",
+    "DueDate": "2025-09-04",
+    "InvoiceAmt": 5617.19,
+    "AmountPaid": 5617.19,
+    "ChangedDate": "2025-07-27"
+  },
+  {
+    "InvoiceNum": 80076,
+    "OrderNum": 50076,
+    "CustNum": "C1002",
+    "InvoiceDate": "2025-08-03",
+    "DueDate": "2025-09-02",
+    "InvoiceAmt": 328.91,
+    "AmountPaid": 328.91,
+    "ChangedDate": "2025-07-25"
+  },
+  {
+    "InvoiceNum": 80077,
+    "OrderNum": 50077,
+    "CustNum": "C1001",
+    "InvoiceDate": "2025-07-23",
+    "DueDate": "2025-08-24",
+    "InvoiceAmt": 213.3,
+    "AmountPaid": 213.3,
+    "ChangedDate": "2025-07-16"
+  },
+  {
+    "InvoiceNum": 80078,
+    "OrderNum": 50078,
+    "CustNum": "C1006",
+    "InvoiceDate": "2025-07-16",
+    "DueDate": "2025-08-23",
+    "InvoiceAmt": 3453.78,
+    "AmountPaid": 3453.78,
+    "ChangedDate": "2025-07-15"
+  },
+  {
+    "InvoiceNum": 80079,
+    "OrderNum": 50079,
+    "CustNum": "C1003",
+    "InvoiceDate": "2025-07-20",
+    "DueDate": "2025-08-23",
+    "InvoiceAmt": 1024.26,
+    "AmountPaid": 1024.26,
+    "ChangedDate": "2025-07-15"
+  },
+  {
+    "InvoiceNum": 80080,
+    "OrderNum": 50080,
+    "CustNum": "C1002",
+    "InvoiceDate": "2025-07-28",
+    "DueDate": "2025-08-31",
+    "InvoiceAmt": 65.52,
+    "AmountPaid": 65.52,
+    "ChangedDate": "2025-07-23"
+  },
+  {
+    "InvoiceNum": 80081,
+    "OrderNum": 50081,
+    "CustNum": "C1002",
+    "InvoiceDate": "2025-07-26",
+    "DueDate": "2025-08-27",
+    "InvoiceAmt": 612.8,
+    "AmountPaid": 385.35,
+    "ChangedDate": "2025-07-19"
+  },
+  {
+    "InvoiceNum": 80082,
+    "OrderNum": 50082,
+    "CustNum": "C1003",
+    "InvoiceDate": "2025-08-02",
+    "DueDate": "2025-09-06",
+    "InvoiceAmt": 1822.23,
+    "AmountPaid": 1822.23,
+    "ChangedDate": "2025-07-29"
+  },
+  {
+    "InvoiceNum": 80083,
+    "OrderNum": 50083,
+    "CustNum": "C1000",
+    "InvoiceDate": "2025-07-13",
+    "DueDate": "2025-08-15",
+    "InvoiceAmt": 864.33,
+    "AmountPaid": 864.33,
+    "ChangedDate": "2025-07-07"
+  },
+  {
+    "InvoiceNum": 80084,
+    "OrderNum": 50084,
+    "CustNum": "C1007",
+    "InvoiceDate": "2025-07-19",
+    "DueDate": "2025-08-20",
+    "InvoiceAmt": 243.87,
+    "AmountPaid": 243.87,
+    "ChangedDate": "2025-07-12"
+  },
+  {
+    "InvoiceNum": 80085,
+    "OrderNum": 50085,
+    "CustNum": "C1007",
+    "InvoiceDate": "2025-07-21",
+    "DueDate": "2025-08-23",
+    "InvoiceAmt": 2561.7,
+    "AmountPaid": 637.45,
+    "ChangedDate": "2025-07-15"
+  },
+  {
+    "InvoiceNum": 80086,
+    "OrderNum": 50086,
+    "CustNum": "C1000",
+    "InvoiceDate": "2025-07-10",
+    "DueDate": "2025-08-10",
+    "InvoiceAmt": 2342.27,
+    "AmountPaid": 2342.27,
+    "ChangedDate": "2025-07-02"
+  },
+  {
+    "InvoiceNum": 80087,
+    "OrderNum": 50087,
+    "CustNum": "C1005",
+    "InvoiceDate": "2025-07-09",
+    "DueDate": "2025-08-12",
+    "InvoiceAmt": 75.14,
+    "AmountPaid": 75.14,
+    "ChangedDate": "2025-07-04"
+  },
+  {
+    "InvoiceNum": 80088,
+    "OrderNum": 50088,
+    "CustNum": "C1006",
+    "InvoiceDate": "2025-07-24",
+    "DueDate": "2025-08-28",
+    "InvoiceAmt": 3498.14,
+    "AmountPaid": 3498.14,
+    "ChangedDate": "2025-07-20"
+  },
+  {
+    "InvoiceNum": 80089,
+    "OrderNum": 50089,
+    "CustNum": "C1005",
+    "InvoiceDate": "2025-07-11",
+    "DueDate": "2025-08-17",
+    "InvoiceAmt": 3474.13,
+    "AmountPaid": 1598.52,
+    "ChangedDate": "2025-07-09"
+  },
+  {
+    "InvoiceNum": 80090,
+    "OrderNum": 50090,
+    "CustNum": "C1003",
+    "InvoiceDate": "2025-07-14",
+    "DueDate": "2025-08-13",
+    "InvoiceAmt": 4222.86,
+    "AmountPaid": 4222.86,
+    "ChangedDate": "2025-07-05"
+  },
+  {
+    "InvoiceNum": 80091,
+    "OrderNum": 50091,
+    "CustNum": "C1005",
+    "InvoiceDate": "2025-08-02",
+    "DueDate": "2025-09-06",
+    "InvoiceAmt": 630.36,
+    "AmountPaid": 630.36,
+    "ChangedDate": "2025-07-29"
+  },
+  {
+    "InvoiceNum": 80092,
+    "OrderNum": 50092,
+    "CustNum": "C1007",
+    "InvoiceDate": "2025-07-17",
+    "DueDate": "2025-08-24",
+    "InvoiceAmt": 509.77,
+    "AmountPaid": 509.77,
+    "ChangedDate": "2025-07-16"
+  },
+  {
+    "InvoiceNum": 80093,
+    "OrderNum": 50093,
+    "CustNum": "C1006",
+    "InvoiceDate": "2025-07-25",
+    "DueDate": "2025-08-24",
+    "InvoiceAmt": 6950.15,
+    "AmountPaid": 6950.15,
+    "ChangedDate": "2025-07-16"
+  },
+  {
+    "InvoiceNum": 80094,
+    "OrderNum": 50094,
+    "CustNum": "C1002",
+    "InvoiceDate": "2025-07-22",
+    "DueDate": "2025-08-21",
+    "InvoiceAmt": 1910.55,
+    "AmountPaid": 1910.55,
+    "ChangedDate": "2025-07-13"
+  },
+  {
+    "InvoiceNum": 80095,
+    "OrderNum": 50095,
+    "CustNum": "C1002",
+    "InvoiceDate": "2025-07-16",
+    "DueDate": "2025-08-20",
+    "InvoiceAmt": 832.46,
+    "AmountPaid": 832.46,
+    "ChangedDate": "2025-07-12"
+  },
+  {
+    "InvoiceNum": 80096,
+    "OrderNum": 50096,
+    "CustNum": "C1006",
+    "InvoiceDate": "2025-07-29",
+    "DueDate": "2025-08-30",
+    "InvoiceAmt": 378.56,
+    "AmountPaid": 378.56,
+    "ChangedDate": "2025-07-22"
+  },
+  {
+    "InvoiceNum": 80097,
+    "OrderNum": 50097,
+    "CustNum": "C1003",
+    "InvoiceDate": "2025-07-18",
+    "DueDate": "2025-08-17",
+    "InvoiceAmt": 379.08,
+    "AmountPaid": 379.08,
+    "ChangedDate": "2025-07-09"
+  },
+  {
+    "InvoiceNum": 80098,
+    "OrderNum": 50098,
+    "CustNum": "C1006",
+    "InvoiceDate": "2025-07-13",
+    "DueDate": "2025-08-14",
+    "InvoiceAmt": 5248.71,
+    "AmountPaid": 5248.71,
+    "ChangedDate": "2025-07-06"
+  },
+  {
+    "InvoiceNum": 80099,
+    "OrderNum": 50099,
+    "CustNum": "C1003",
+    "InvoiceDate": "2025-07-21",
+    "DueDate": "2025-08-27",
+    "InvoiceAmt": 3336.49,
+    "AmountPaid": 1032.74,
+    "ChangedDate": "2025-07-19"
+  },
+  {
+    "InvoiceNum": 80100,
+    "OrderNum": 50100,
+    "CustNum": "C1004",
+    "InvoiceDate": "2025-07-10",
+    "DueDate": "2025-08-11",
+    "InvoiceAmt": 1397.66,
+    "AmountPaid": 1397.66,
+    "ChangedDate": "2025-07-03"
+  },
+  {
+    "InvoiceNum": 80101,
+    "OrderNum": 50101,
+    "CustNum": "C1005",
+    "InvoiceDate": "2025-07-03",
+    "DueDate": "2025-08-10",
+    "InvoiceAmt": 1248.39,
+    "AmountPaid": 550.37,
+    "ChangedDate": "2025-07-02"
+  },
+  {
+    "InvoiceNum": 80102,
+    "OrderNum": 50102,
+    "CustNum": "C1000",
+    "InvoiceDate": "2025-08-20",
+    "DueDate": "2025-09-19",
+    "InvoiceAmt": 2135.62,
+    "AmountPaid": 2135.62,
+    "ChangedDate": "2025-08-11"
+  },
+  {
+    "InvoiceNum": 80103,
+    "OrderNum": 50103,
+    "CustNum": "C1006",
+    "InvoiceDate": "2025-08-14",
+    "DueDate": "2025-09-13",
+    "InvoiceAmt": 416.56,
+    "AmountPaid": 416.56,
+    "ChangedDate": "2025-08-05"
+  },
+  {
+    "InvoiceNum": 80104,
+    "OrderNum": 50104,
+    "CustNum": "C1000",
+    "InvoiceDate": "2025-08-27",
+    "DueDate": "2025-09-30",
+    "InvoiceAmt": 653.16,
+    "AmountPaid": 653.16,
+    "ChangedDate": "2025-08-22"
+  },
+  {
+    "InvoiceNum": 80105,
+    "OrderNum": 50105,
+    "CustNum": "C1001",
+    "InvoiceDate": "2025-08-20",
+    "DueDate": "2025-09-26",
+    "InvoiceAmt": 1381.22,
+    "AmountPaid": 1381.22,
+    "ChangedDate": "2025-08-18"
+  },
+  {
+    "InvoiceNum": 80106,
+    "OrderNum": 50106,
+    "CustNum": "C1007",
+    "InvoiceDate": "2025-08-24",
+    "DueDate": "2025-10-02",
+    "InvoiceAmt": 394.4,
+    "AmountPaid": 394.4,
+    "ChangedDate": "2025-08-24"
+  },
+  {
+    "InvoiceNum": 80107,
+    "OrderNum": 50107,
+    "CustNum": "C1005",
+    "InvoiceDate": "2025-08-18",
+    "DueDate": "2025-09-19",
+    "InvoiceAmt": 2127.8,
+    "AmountPaid": 713.46,
+    "ChangedDate": "2025-08-11"
+  },
+  {
+    "InvoiceNum": 80108,
+    "OrderNum": 50108,
+    "CustNum": "C1005",
+    "InvoiceDate": "2025-08-29",
+    "DueDate": "2025-10-05",
+    "InvoiceAmt": 225.96,
+    "AmountPaid": 225.96,
+    "ChangedDate": "2025-08-27"
+  },
+  {
+    "InvoiceNum": 80109,
+    "OrderNum": 50109,
+    "CustNum": "C1004",
+    "InvoiceDate": "2025-08-18",
+    "DueDate": "2025-09-20",
+    "InvoiceAmt": 500.46,
+    "AmountPaid": 500.46,
+    "ChangedDate": "2025-08-12"
+  },
+  {
+    "InvoiceNum": 80110,
+    "OrderNum": 50110,
+    "CustNum": "C1002",
+    "InvoiceDate": "2025-09-01",
+    "DueDate": "2025-10-02",
+    "InvoiceAmt": 912.03,
+    "AmountPaid": 912.03,
+    "ChangedDate": "2025-08-24"
+  },
+  {
+    "InvoiceNum": 80111,
+    "OrderNum": 50111,
+    "CustNum": "C1002",
+    "InvoiceDate": "2025-08-07",
+    "DueDate": "2025-09-10",
+    "InvoiceAmt": 2397.63,
+    "AmountPaid": 956.08,
+    "ChangedDate": "2025-08-02"
+  },
+  {
+    "InvoiceNum": 80112,
+    "OrderNum": 50112,
+    "CustNum": "C1004",
+    "InvoiceDate": "2025-08-10",
+    "DueDate": "2025-09-17",
+    "InvoiceAmt": 1472.32,
+    "AmountPaid": 1472.32,
+    "ChangedDate": "2025-08-09"
+  },
+  {
+    "InvoiceNum": 80113,
+    "OrderNum": 50113,
+    "CustNum": "C1004",
+    "InvoiceDate": "2025-09-03",
+    "DueDate": "2025-10-04",
+    "InvoiceAmt": 7419.22,
+    "AmountPaid": 1464.78,
+    "ChangedDate": "2025-08-26"
+  },
+  {
+    "InvoiceNum": 80114,
+    "OrderNum": 50114,
+    "CustNum": "C1004",
+    "InvoiceDate": "2025-08-19",
+    "DueDate": "2025-09-19",
+    "InvoiceAmt": 1594.52,
+    "AmountPaid": 1594.52,
+    "ChangedDate": "2025-08-11"
+  },
+  {
+    "InvoiceNum": 80115,
+    "OrderNum": 50115,
+    "CustNum": "C1005",
+    "InvoiceDate": "2025-08-23",
+    "DueDate": "2025-09-24",
+    "InvoiceAmt": 213.0,
+    "AmountPaid": 213.0,
+    "ChangedDate": "2025-08-16"
+  },
+  {
+    "InvoiceNum": 80116,
+    "OrderNum": 50116,
+    "CustNum": "C1006",
+    "InvoiceDate": "2025-09-03",
+    "DueDate": "2025-10-04",
+    "InvoiceAmt": 956.13,
+    "AmountPaid": 956.13,
+    "ChangedDate": "2025-08-26"
+  },
+  {
+    "InvoiceNum": 80117,
+    "OrderNum": 50117,
+    "CustNum": "C1005",
+    "InvoiceDate": "2025-08-11",
+    "DueDate": "2025-09-14",
+    "InvoiceAmt": 1562.86,
+    "AmountPaid": 1562.86,
+    "ChangedDate": "2025-08-06"
+  },
+  {
+    "InvoiceNum": 80118,
+    "OrderNum": 50118,
+    "CustNum": "C1003",
+    "InvoiceDate": "2025-08-15",
+    "DueDate": "2025-09-21",
+    "InvoiceAmt": 92.56,
+    "AmountPaid": 9.3,
+    "ChangedDate": "2025-08-13"
+  },
+  {
+    "InvoiceNum": 80119,
+    "OrderNum": 50119,
+    "CustNum": "C1004",
+    "InvoiceDate": "2025-08-22",
+    "DueDate": "2025-09-29",
+    "InvoiceAmt": 1495.84,
+    "AmountPaid": 1495.84,
+    "ChangedDate": "2025-08-21"
+  },
+  {
+    "InvoiceNum": 80120,
+    "OrderNum": 50120,
+    "CustNum": "C1000",
+    "InvoiceDate": "2025-08-28",
+    "DueDate": "2025-09-30",
+    "InvoiceAmt": 1624.6,
+    "AmountPaid": 1624.6,
+    "ChangedDate": "2025-08-22"
+  },
+  {
+    "InvoiceNum": 80121,
+    "OrderNum": 50121,
+    "CustNum": "C1004",
+    "InvoiceDate": "2025-08-21",
+    "DueDate": "2025-09-24",
+    "InvoiceAmt": 1345.6,
+    "AmountPaid": 1345.6,
+    "ChangedDate": "2025-08-16"
+  },
+  {
+    "InvoiceNum": 80122,
+    "OrderNum": 50122,
+    "CustNum": "C1002",
+    "InvoiceDate": "2025-08-18",
+    "DueDate": "2025-09-20",
+    "InvoiceAmt": 1695.3,
+    "AmountPaid": 1695.3,
+    "ChangedDate": "2025-08-12"
+  },
+  {
+    "InvoiceNum": 80123,
+    "OrderNum": 50123,
+    "CustNum": "C1006",
+    "InvoiceDate": "2025-08-12",
+    "DueDate": "2025-09-17",
+    "InvoiceAmt": 2746.19,
+    "AmountPaid": 2746.19,
+    "ChangedDate": "2025-08-09"
+  },
+  {
+    "InvoiceNum": 80124,
+    "OrderNum": 50124,
+    "CustNum": "C1005",
+    "InvoiceDate": "2025-08-09",
+    "DueDate": "2025-09-11",
+    "InvoiceAmt": 4245.42,
+    "AmountPaid": 2230.17,
+    "ChangedDate": "2025-08-03"
+  },
+  {
+    "InvoiceNum": 80125,
+    "OrderNum": 50125,
+    "CustNum": "C1005",
+    "InvoiceDate": "2025-08-11",
+    "DueDate": "2025-09-11",
+    "InvoiceAmt": 3211.2,
+    "AmountPaid": 224.18,
+    "ChangedDate": "2025-08-03"
+  },
+  {
+    "InvoiceNum": 80126,
+    "OrderNum": 50126,
+    "CustNum": "C1007",
+    "InvoiceDate": "2025-08-31",
+    "DueDate": "2025-10-04",
+    "InvoiceAmt": 325.43,
+    "AmountPaid": 325.43,
+    "ChangedDate": "2025-08-26"
+  },
+  {
+    "InvoiceNum": 80127,
+    "OrderNum": 50127,
+    "CustNum": "C1005",
+    "InvoiceDate": "2025-09-03",
+    "DueDate": "2025-10-04",
+    "InvoiceAmt": 2084.99,
+    "AmountPaid": 19.78,
+    "ChangedDate": "2025-08-26"
+  },
+  {
+    "InvoiceNum": 80128,
+    "OrderNum": 50128,
+    "CustNum": "C1002",
+    "InvoiceDate": "2025-08-21",
+    "DueDate": "2025-09-20",
+    "InvoiceAmt": 2299.53,
+    "AmountPaid": 2299.53,
+    "ChangedDate": "2025-08-12"
+  },
+  {
+    "InvoiceNum": 80129,
+    "OrderNum": 50129,
+    "CustNum": "C1004",
+    "InvoiceDate": "2025-08-26",
+    "DueDate": "2025-09-25",
+    "InvoiceAmt": 1070.62,
+    "AmountPaid": 1070.62,
+    "ChangedDate": "2025-08-17"
+  },
+  {
+    "InvoiceNum": 80130,
+    "OrderNum": 50130,
+    "CustNum": "C1006",
+    "InvoiceDate": "2025-08-08",
+    "DueDate": "2025-09-14",
+    "InvoiceAmt": 142.74,
+    "AmountPaid": 76.95,
+    "ChangedDate": "2025-08-06"
+  },
+  {
+    "InvoiceNum": 80131,
+    "OrderNum": 50131,
+    "CustNum": "C1006",
+    "InvoiceDate": "2025-08-27",
+    "DueDate": "2025-10-02",
+    "InvoiceAmt": 2844.94,
+    "AmountPaid": 2844.94,
+    "ChangedDate": "2025-08-24"
+  },
+  {
+    "InvoiceNum": 80132,
+    "OrderNum": 50132,
+    "CustNum": "C1004",
+    "InvoiceDate": "2025-08-23",
+    "DueDate": "2025-09-27",
+    "InvoiceAmt": 1588.56,
+    "AmountPaid": 1588.56,
+    "ChangedDate": "2025-08-19"
+  },
+  {
+    "InvoiceNum": 80133,
+    "OrderNum": 50133,
+    "CustNum": "C1004",
+    "InvoiceDate": "2025-08-08",
+    "DueDate": "2025-09-13",
+    "InvoiceAmt": 1556.7,
+    "AmountPaid": 1556.7,
+    "ChangedDate": "2025-08-05"
+  },
+  {
+    "InvoiceNum": 80134,
+    "OrderNum": 50134,
+    "CustNum": "C1003",
+    "InvoiceDate": "2025-08-05",
+    "DueDate": "2025-09-11",
+    "InvoiceAmt": 159.9,
+    "AmountPaid": 159.9,
+    "ChangedDate": "2025-08-03"
+  },
+  {
+    "InvoiceNum": 80135,
+    "OrderNum": 50135,
+    "CustNum": "C1006",
+    "InvoiceDate": "2025-08-26",
+    "DueDate": "2025-09-30",
+    "InvoiceAmt": 3314.78,
+    "AmountPaid": 1836.93,
+    "ChangedDate": "2025-08-22"
+  },
+  {
+    "InvoiceNum": 80136,
+    "OrderNum": 50136,
+    "CustNum": "C1000",
+    "InvoiceDate": "2025-08-10",
+    "DueDate": "2025-09-10",
+    "InvoiceAmt": 494.38,
+    "AmountPaid": 494.38,
+    "ChangedDate": "2025-08-02"
+  },
+  {
+    "InvoiceNum": 80137,
+    "OrderNum": 50137,
+    "CustNum": "C1007",
+    "InvoiceDate": "2025-08-15",
+    "DueDate": "2025-09-14",
+    "InvoiceAmt": 1442.98,
+    "AmountPaid": 1442.98,
+    "ChangedDate": "2025-08-06"
+  },
+  {
+    "InvoiceNum": 80138,
+    "OrderNum": 50138,
+    "CustNum": "C1006",
+    "InvoiceDate": "2025-09-02",
+    "DueDate": "2025-10-06",
+    "InvoiceAmt": 1904.22,
+    "AmountPaid": 1904.22,
+    "ChangedDate": "2025-08-28"
+  },
+  {
+    "InvoiceNum": 80139,
+    "OrderNum": 50139,
+    "CustNum": "C1004",
+    "InvoiceDate": "2025-08-25",
+    "DueDate": "2025-09-28",
+    "InvoiceAmt": 566.74,
+    "AmountPaid": 55.24,
+    "ChangedDate": "2025-08-20"
+  },
+  {
+    "InvoiceNum": 80140,
+    "OrderNum": 50140,
+    "CustNum": "C1003",
+    "InvoiceDate": "2025-08-10",
+    "DueDate": "2025-09-17",
+    "InvoiceAmt": 5134.12,
+    "AmountPaid": 5134.12,
+    "ChangedDate": "2025-08-09"
+  },
+  {
+    "InvoiceNum": 80141,
+    "OrderNum": 50141,
+    "CustNum": "C1001",
+    "InvoiceDate": "2025-08-10",
+    "DueDate": "2025-09-11",
+    "InvoiceAmt": 6051.26,
+    "AmountPaid": 6051.26,
+    "ChangedDate": "2025-08-03"
+  },
+  {
+    "InvoiceNum": 80142,
+    "OrderNum": 50142,
+    "CustNum": "C1000",
+    "InvoiceDate": "2025-08-17",
+    "DueDate": "2025-09-24",
+    "InvoiceAmt": 8309.7,
+    "AmountPaid": 8309.7,
+    "ChangedDate": "2025-08-16"
+  },
+  {
+    "InvoiceNum": 80143,
+    "OrderNum": 50143,
+    "CustNum": "C1007",
+    "InvoiceDate": "2025-08-09",
+    "DueDate": "2025-09-11",
+    "InvoiceAmt": 3329.31,
+    "AmountPaid": 3329.31,
+    "ChangedDate": "2025-08-03"
+  },
+  {
+    "InvoiceNum": 80144,
+    "OrderNum": 50144,
+    "CustNum": "C1002",
+    "InvoiceDate": "2025-08-31",
+    "DueDate": "2025-10-03",
+    "InvoiceAmt": 173.4,
+    "AmountPaid": 173.4,
+    "ChangedDate": "2025-08-25"
+  },
+  {
+    "InvoiceNum": 80145,
+    "OrderNum": 50145,
+    "CustNum": "C1006",
+    "InvoiceDate": "2025-08-28",
+    "DueDate": "2025-10-06",
+    "InvoiceAmt": 1666.4,
+    "AmountPaid": 634.01,
+    "ChangedDate": "2025-08-28"
+  },
+  {
+    "InvoiceNum": 80146,
+    "OrderNum": 50146,
+    "CustNum": "C1003",
+    "InvoiceDate": "2025-10-03",
+    "DueDate": "2025-11-03",
+    "InvoiceAmt": 2483.98,
+    "AmountPaid": 2483.98,
+    "ChangedDate": "2025-09-25"
+  },
+  {
+    "InvoiceNum": 80147,
+    "OrderNum": 50147,
+    "CustNum": "C1003",
+    "InvoiceDate": "2025-09-21",
+    "DueDate": "2025-10-24",
+    "InvoiceAmt": 2216.38,
+    "AmountPaid": 2216.38,
+    "ChangedDate": "2025-09-15"
+  },
+  {
+    "InvoiceNum": 80148,
+    "OrderNum": 50148,
+    "CustNum": "C1006",
+    "InvoiceDate": "2025-09-13",
+    "DueDate": "2025-10-15",
+    "InvoiceAmt": 5033.76,
+    "AmountPaid": 156.89,
+    "ChangedDate": "2025-09-06"
+  },
+  {
+    "InvoiceNum": 80149,
+    "OrderNum": 50149,
+    "CustNum": "C1005",
+    "InvoiceDate": "2025-09-05",
+    "DueDate": "2025-10-13",
+    "InvoiceAmt": 177.5,
+    "AmountPaid": 177.5,
+    "ChangedDate": "2025-09-04"
+  },
+  {
+    "InvoiceNum": 80150,
+    "OrderNum": 50150,
+    "CustNum": "C1003",
+    "InvoiceDate": "2025-10-03",
+    "DueDate": "2025-11-05",
+    "InvoiceAmt": 6369.38,
+    "AmountPaid": 3952.33,
+    "ChangedDate": "2025-09-27"
+  },
+  {
+    "InvoiceNum": 80151,
+    "OrderNum": 50151,
+    "CustNum": "C1007",
+    "InvoiceDate": "2025-09-22",
+    "DueDate": "2025-10-28",
+    "InvoiceAmt": 3768.79,
+    "AmountPaid": 3768.79,
+    "ChangedDate": "2025-09-19"
+  },
+  {
+    "InvoiceNum": 80152,
+    "OrderNum": 50152,
+    "CustNum": "C1002",
+    "InvoiceDate": "2025-09-04",
+    "DueDate": "2025-10-11",
+    "InvoiceAmt": 6918.21,
+    "AmountPaid": 1086.29,
+    "ChangedDate": "2025-09-02"
+  },
+  {
+    "InvoiceNum": 80153,
+    "OrderNum": 50153,
+    "CustNum": "C1002",
+    "InvoiceDate": "2025-09-28",
+    "DueDate": "2025-11-03",
+    "InvoiceAmt": 314.02,
+    "AmountPaid": 84.71,
+    "ChangedDate": "2025-09-25"
+  },
+  {
+    "InvoiceNum": 80154,
+    "OrderNum": 50154,
+    "CustNum": "C1001",
+    "InvoiceDate": "2025-10-03",
+    "DueDate": "2025-11-02",
+    "InvoiceAmt": 4451.37,
+    "AmountPaid": 4451.37,
+    "ChangedDate": "2025-09-24"
+  },
+  {
+    "InvoiceNum": 80155,
+    "OrderNum": 50155,
+    "CustNum": "C1007",
+    "InvoiceDate": "2025-10-01",
+    "DueDate": "2025-11-01",
+    "InvoiceAmt": 301.0,
+    "AmountPaid": 301.0,
+    "ChangedDate": "2025-09-23"
+  },
+  {
+    "InvoiceNum": 80156,
+    "OrderNum": 50156,
+    "CustNum": "C1004",
+    "InvoiceDate": "2025-09-21",
+    "DueDate": "2025-10-28",
+    "InvoiceAmt": 464.04,
+    "AmountPaid": 464.04,
+    "ChangedDate": "2025-09-19"
+  },
+  {
+    "InvoiceNum": 80157,
+    "OrderNum": 50157,
+    "CustNum": "C1003",
+    "InvoiceDate": "2025-09-08",
+    "DueDate": "2025-10-17",
+    "InvoiceAmt": 2848.56,
+    "AmountPaid": 2848.56,
+    "ChangedDate": "2025-09-08"
+  },
+  {
+    "InvoiceNum": 80158,
+    "OrderNum": 50158,
+    "CustNum": "C1001",
+    "InvoiceDate": "2025-09-23",
+    "DueDate": "2025-10-23",
+    "InvoiceAmt": 1655.32,
+    "AmountPaid": 1655.32,
+    "ChangedDate": "2025-09-14"
+  },
+  {
+    "InvoiceNum": 80159,
+    "OrderNum": 50159,
+    "CustNum": "C1007",
+    "InvoiceDate": "2025-09-15",
+    "DueDate": "2025-10-19",
+    "InvoiceAmt": 250.6,
+    "AmountPaid": 250.6,
+    "ChangedDate": "2025-09-10"
+  },
+  {
+    "InvoiceNum": 80160,
+    "OrderNum": 50160,
+    "CustNum": "C1000",
+    "InvoiceDate": "2025-09-13",
+    "DueDate": "2025-10-17",
+    "InvoiceAmt": 1883.46,
+    "AmountPaid": 1883.46,
+    "ChangedDate": "2025-09-08"
+  },
+  {
+    "InvoiceNum": 80161,
+    "OrderNum": 50161,
+    "CustNum": "C1006",
+    "InvoiceDate": "2025-10-02",
+    "DueDate": "2025-11-04",
+    "InvoiceAmt": 209.09,
+    "AmountPaid": 209.09,
+    "ChangedDate": "2025-09-26"
+  },
+  {
+    "InvoiceNum": 80162,
+    "OrderNum": 50162,
+    "CustNum": "C1006",
+    "InvoiceDate": "2025-09-09",
+    "DueDate": "2025-10-16",
+    "InvoiceAmt": 113.12,
+    "AmountPaid": 113.12,
+    "ChangedDate": "2025-09-07"
+  },
+  {
+    "InvoiceNum": 80163,
+    "OrderNum": 50163,
+    "CustNum": "C1006",
+    "InvoiceDate": "2025-09-25",
+    "DueDate": "2025-11-02",
+    "InvoiceAmt": 1409.72,
+    "AmountPaid": 943.84,
+    "ChangedDate": "2025-09-24"
+  },
+  {
+    "InvoiceNum": 80164,
+    "OrderNum": 50164,
+    "CustNum": "C1005",
+    "InvoiceDate": "2025-10-07",
+    "DueDate": "2025-11-07",
+    "InvoiceAmt": 196.29,
+    "AmountPaid": 196.29,
+    "ChangedDate": "2025-09-29"
+  },
+  {
+    "InvoiceNum": 80165,
+    "OrderNum": 50165,
+    "CustNum": "C1003",
+    "InvoiceDate": "2025-09-21",
+    "DueDate": "2025-10-29",
+    "InvoiceAmt": 5144.66,
+    "AmountPaid": 1201.83,
+    "ChangedDate": "2025-09-20"
+  },
+  {
+    "InvoiceNum": 80166,
+    "OrderNum": 50166,
+    "CustNum": "C1002",
+    "InvoiceDate": "2025-09-16",
+    "DueDate": "2025-10-20",
+    "InvoiceAmt": 7742.92,
+    "AmountPaid": 7742.92,
+    "ChangedDate": "2025-09-11"
+  },
+  {
+    "InvoiceNum": 80167,
+    "OrderNum": 50167,
+    "CustNum": "C1004",
+    "InvoiceDate": "2025-10-03",
+    "DueDate": "2025-11-03",
+    "InvoiceAmt": 859.67,
+    "AmountPaid": 859.67,
+    "ChangedDate": "2025-09-25"
+  },
+  {
+    "InvoiceNum": 80168,
+    "OrderNum": 50168,
+    "CustNum": "C1002",
+    "InvoiceDate": "2025-09-30",
+    "DueDate": "2025-11-01",
+    "InvoiceAmt": 5168.95,
+    "AmountPaid": 156.84,
+    "ChangedDate": "2025-09-23"
+  },
+  {
+    "InvoiceNum": 80169,
+    "OrderNum": 50169,
+    "CustNum": "C1006",
+    "InvoiceDate": "2025-09-20",
+    "DueDate": "2025-10-28",
+    "InvoiceAmt": 900.2,
+    "AmountPaid": 270.1,
+    "ChangedDate": "2025-09-19"
+  },
+  {
+    "InvoiceNum": 80170,
+    "OrderNum": 50170,
+    "CustNum": "C1003",
+    "InvoiceDate": "2025-09-23",
+    "DueDate": "2025-11-01",
+    "InvoiceAmt": 1098.51,
+    "AmountPaid": 1098.51,
+    "ChangedDate": "2025-09-23"
+  },
+  {
+    "InvoiceNum": 80171,
+    "OrderNum": 50171,
+    "CustNum": "C1001",
+    "InvoiceDate": "2025-09-14",
+    "DueDate": "2025-10-19",
+    "InvoiceAmt": 2689.91,
+    "AmountPaid": 800.71,
+    "ChangedDate": "2025-09-10"
+  },
+  {
+    "InvoiceNum": 80172,
+    "OrderNum": 50172,
+    "CustNum": "C1006",
+    "InvoiceDate": "2025-09-11",
+    "DueDate": "2025-10-13",
+    "InvoiceAmt": 2118.18,
+    "AmountPaid": 2118.18,
+    "ChangedDate": "2025-09-04"
+  },
+  {
+    "InvoiceNum": 80173,
+    "OrderNum": 50173,
+    "CustNum": "C1005",
+    "InvoiceDate": "2025-09-06",
+    "DueDate": "2025-10-13",
+    "InvoiceAmt": 20.5,
+    "AmountPaid": 20.5,
+    "ChangedDate": "2025-09-04"
+  },
+  {
+    "InvoiceNum": 80174,
+    "OrderNum": 50174,
+    "CustNum": "C1003",
+    "InvoiceDate": "2025-09-24",
+    "DueDate": "2025-10-27",
+    "InvoiceAmt": 1399.92,
+    "AmountPaid": 1399.92,
+    "ChangedDate": "2025-09-18"
+  },
+  {
+    "InvoiceNum": 80175,
+    "OrderNum": 50175,
+    "CustNum": "C1000",
+    "InvoiceDate": "2025-10-04",
+    "DueDate": "2025-11-03",
+    "InvoiceAmt": 2362.26,
+    "AmountPaid": 2362.26,
+    "ChangedDate": "2025-09-25"
+  },
+  {
+    "InvoiceNum": 80176,
+    "OrderNum": 50176,
+    "CustNum": "C1006",
+    "InvoiceDate": "2025-09-25",
+    "DueDate": "2025-10-30",
+    "InvoiceAmt": 578.91,
+    "AmountPaid": 578.91,
+    "ChangedDate": "2025-09-21"
+  },
+  {
+    "InvoiceNum": 80177,
+    "OrderNum": 50177,
+    "CustNum": "C1001",
+    "InvoiceDate": "2025-09-25",
+    "DueDate": "2025-11-01",
+    "InvoiceAmt": 2782.27,
+    "AmountPaid": 2782.27,
+    "ChangedDate": "2025-09-23"
+  },
+  {
+    "InvoiceNum": 80178,
+    "OrderNum": 50178,
+    "CustNum": "C1002",
+    "InvoiceDate": "2025-09-23",
+    "DueDate": "2025-10-26",
+    "InvoiceAmt": 966.12,
+    "AmountPaid": 966.12,
+    "ChangedDate": "2025-09-17"
+  },
+  {
+    "InvoiceNum": 80179,
+    "OrderNum": 50179,
+    "CustNum": "C1007",
+    "InvoiceDate": "2025-09-19",
+    "DueDate": "2025-10-24",
+    "InvoiceAmt": 7489.74,
+    "AmountPaid": 7489.74,
+    "ChangedDate": "2025-09-15"
+  },
+  {
+    "InvoiceNum": 80180,
+    "OrderNum": 50180,
+    "CustNum": "C1005",
+    "InvoiceDate": "2025-09-24",
+    "DueDate": "2025-10-28",
+    "InvoiceAmt": 6825.46,
+    "AmountPaid": 6825.46,
+    "ChangedDate": "2025-09-19"
+  },
+  {
+    "InvoiceNum": 80181,
+    "OrderNum": 50181,
+    "CustNum": "C1006",
+    "InvoiceDate": "2025-09-16",
+    "DueDate": "2025-10-16",
+    "InvoiceAmt": 1463.52,
+    "AmountPaid": 1463.52,
+    "ChangedDate": "2025-09-07"
+  },
+  {
+    "InvoiceNum": 80182,
+    "OrderNum": 50182,
+    "CustNum": "C1004",
+    "InvoiceDate": "2025-10-02",
+    "DueDate": "2025-11-07",
+    "InvoiceAmt": 566.96,
+    "AmountPaid": 566.96,
+    "ChangedDate": "2025-09-29"
+  },
+  {
+    "InvoiceNum": 80183,
+    "OrderNum": 50183,
+    "CustNum": "C1006",
+    "InvoiceDate": "2025-09-17",
+    "DueDate": "2025-10-26",
+    "InvoiceAmt": 1962.55,
+    "AmountPaid": 1962.55,
+    "ChangedDate": "2025-09-17"
+  },
+  {
+    "InvoiceNum": 80184,
+    "OrderNum": 50184,
+    "CustNum": "C1001",
+    "InvoiceDate": "2025-10-02",
+    "DueDate": "2025-11-03",
+    "InvoiceAmt": 5683.43,
+    "AmountPaid": 5683.43,
+    "ChangedDate": "2025-09-25"
+  },
+  {
+    "InvoiceNum": 80185,
+    "OrderNum": 50185,
+    "CustNum": "C1005",
+    "InvoiceDate": "2025-09-25",
+    "DueDate": "2025-11-01",
+    "InvoiceAmt": 329.7,
+    "AmountPaid": 329.7,
+    "ChangedDate": "2025-09-23"
+  },
+  {
+    "InvoiceNum": 80186,
+    "OrderNum": 50186,
+    "CustNum": "C1007",
+    "InvoiceDate": "2025-09-16",
+    "DueDate": "2025-10-25",
+    "InvoiceAmt": 5224.01,
+    "AmountPaid": 5224.01,
+    "ChangedDate": "2025-09-16"
+  },
+  {
+    "InvoiceNum": 80187,
+    "OrderNum": 50187,
+    "CustNum": "C1000",
+    "InvoiceDate": "2025-10-03",
+    "DueDate": "2025-11-10",
+    "InvoiceAmt": 337.59,
+    "AmountPaid": 34.92,
+    "ChangedDate": "2025-10-02"
+  },
+  {
+    "InvoiceNum": 80188,
+    "OrderNum": 50188,
+    "CustNum": "C1001",
+    "InvoiceDate": "2025-10-07",
+    "DueDate": "2025-11-13",
+    "InvoiceAmt": 1895.68,
+    "AmountPaid": 1895.68,
+    "ChangedDate": "2025-10-05"
+  },
+  {
+    "InvoiceNum": 80189,
+    "OrderNum": 50189,
+    "CustNum": "C1006",
+    "InvoiceDate": "2025-10-23",
+    "DueDate": "2025-11-29",
+    "InvoiceAmt": 903.93,
+    "AmountPaid": 903.93,
+    "ChangedDate": "2025-10-21"
+  },
+  {
+    "InvoiceNum": 80190,
+    "OrderNum": 50190,
+    "CustNum": "C1003",
+    "InvoiceDate": "2025-10-16",
+    "DueDate": "2025-11-18",
+    "InvoiceAmt": 114.64,
+    "AmountPaid": 114.64,
+    "ChangedDate": "2025-10-10"
+  },
+  {
+    "InvoiceNum": 80191,
+    "OrderNum": 50191,
+    "CustNum": "C1004",
+    "InvoiceDate": "2025-10-27",
+    "DueDate": "2025-11-30",
+    "InvoiceAmt": 2131.23,
+    "AmountPaid": 2131.23,
+    "ChangedDate": "2025-10-22"
+  },
+  {
+    "InvoiceNum": 80192,
+    "OrderNum": 50192,
+    "CustNum": "C1005",
+    "InvoiceDate": "2025-10-12",
+    "DueDate": "2025-11-14",
+    "InvoiceAmt": 2560.8,
+    "AmountPaid": 766.24,
+    "ChangedDate": "2025-10-06"
+  },
+  {
+    "InvoiceNum": 80193,
+    "OrderNum": 50193,
+    "CustNum": "C1006",
+    "InvoiceDate": "2025-10-27",
+    "DueDate": "2025-12-02",
+    "InvoiceAmt": 858.24,
+    "AmountPaid": 858.24,
+    "ChangedDate": "2025-10-24"
+  },
+  {
+    "InvoiceNum": 80194,
+    "OrderNum": 50194,
+    "CustNum": "C1002",
+    "InvoiceDate": "2025-10-19",
+    "DueDate": "2025-11-27",
+    "InvoiceAmt": 1454.24,
+    "AmountPaid": 328.86,
+    "ChangedDate": "2025-10-19"
+  },
+  {
+    "InvoiceNum": 80195,
+    "OrderNum": 50195,
+    "CustNum": "C1002",
+    "InvoiceDate": "2025-10-26",
+    "DueDate": "2025-11-25",
+    "InvoiceAmt": 1869.22,
+    "AmountPaid": 1004.28,
+    "ChangedDate": "2025-10-17"
+  },
+  {
+    "InvoiceNum": 80196,
+    "OrderNum": 50196,
+    "CustNum": "C1001",
+    "InvoiceDate": "2025-10-17",
+    "DueDate": "2025-11-25",
+    "InvoiceAmt": 1188.92,
+    "AmountPaid": 1188.92,
+    "ChangedDate": "2025-10-17"
+  },
+  {
+    "InvoiceNum": 80197,
+    "OrderNum": 50197,
+    "CustNum": "C1003",
+    "InvoiceDate": "2025-10-08",
+    "DueDate": "2025-11-11",
+    "InvoiceAmt": 1257.52,
+    "AmountPaid": 1257.52,
+    "ChangedDate": "2025-10-03"
+  },
+  {
+    "InvoiceNum": 80198,
+    "OrderNum": 50198,
+    "CustNum": "C1004",
+    "InvoiceDate": "2025-11-01",
+    "DueDate": "2025-12-06",
+    "InvoiceAmt": 5037.07,
+    "AmountPaid": 5037.07,
+    "ChangedDate": "2025-10-28"
+  },
+  {
+    "InvoiceNum": 80199,
+    "OrderNum": 50199,
+    "CustNum": "C1005",
+    "InvoiceDate": "2025-10-13",
+    "DueDate": "2025-11-12",
+    "InvoiceAmt": 342.81,
+    "AmountPaid": 342.81,
+    "ChangedDate": "2025-10-04"
+  },
+  {
+    "InvoiceNum": 80200,
+    "OrderNum": 50200,
+    "CustNum": "C1003",
+    "InvoiceDate": "2025-10-22",
+    "DueDate": "2025-11-24",
+    "InvoiceAmt": 5093.92,
+    "AmountPaid": 5093.92,
+    "ChangedDate": "2025-10-16"
+  },
+  {
+    "InvoiceNum": 80201,
+    "OrderNum": 50201,
+    "CustNum": "C1007",
+    "InvoiceDate": "2025-10-04",
+    "DueDate": "2025-11-11",
+    "InvoiceAmt": 1291.29,
+    "AmountPaid": 1291.29,
+    "ChangedDate": "2025-10-03"
+  },
+  {
+    "InvoiceNum": 80202,
+    "OrderNum": 50202,
+    "CustNum": "C1000",
+    "InvoiceDate": "2025-10-16",
+    "DueDate": "2025-11-23",
+    "InvoiceAmt": 917.04,
+    "AmountPaid": 606.0,
+    "ChangedDate": "2025-10-15"
+  },
+  {
+    "InvoiceNum": 80203,
+    "OrderNum": 50203,
+    "CustNum": "C1003",
+    "InvoiceDate": "2025-10-13",
+    "DueDate": "2025-11-14",
+    "InvoiceAmt": 490.4,
+    "AmountPaid": 490.4,
+    "ChangedDate": "2025-10-06"
+  },
+  {
+    "InvoiceNum": 80204,
+    "OrderNum": 50204,
+    "CustNum": "C1004",
+    "InvoiceDate": "2025-10-25",
+    "DueDate": "2025-11-24",
+    "InvoiceAmt": 113.19,
+    "AmountPaid": 113.19,
+    "ChangedDate": "2025-10-16"
+  },
+  {
+    "InvoiceNum": 80205,
+    "OrderNum": 50205,
+    "CustNum": "C1000",
+    "InvoiceDate": "2025-10-08",
+    "DueDate": "2025-11-16",
+    "InvoiceAmt": 338.6,
+    "AmountPaid": 338.6,
+    "ChangedDate": "2025-10-08"
+  },
+  {
+    "InvoiceNum": 80206,
+    "OrderNum": 50206,
+    "CustNum": "C1006",
+    "InvoiceDate": "2025-11-01",
+    "DueDate": "2025-12-07",
+    "InvoiceAmt": 338.25,
+    "AmountPaid": 338.25,
+    "ChangedDate": "2025-10-29"
+  },
+  {
+    "InvoiceNum": 80207,
+    "OrderNum": 50207,
+    "CustNum": "C1002",
+    "InvoiceDate": "2025-10-13",
+    "DueDate": "2025-11-16",
+    "InvoiceAmt": 1061.71,
+    "AmountPaid": 1061.71,
+    "ChangedDate": "2025-10-08"
+  },
+  {
+    "InvoiceNum": 80208,
+    "OrderNum": 50208,
+    "CustNum": "C1001",
+    "InvoiceDate": "2025-10-10",
+    "DueDate": "2025-11-11",
+    "InvoiceAmt": 1714.58,
+    "AmountPaid": 1714.58,
+    "ChangedDate": "2025-10-03"
+  },
+  {
+    "InvoiceNum": 80209,
+    "OrderNum": 50209,
+    "CustNum": "C1000",
+    "InvoiceDate": "2025-10-17",
+    "DueDate": "2025-11-22",
+    "InvoiceAmt": 1068.56,
+    "AmountPaid": 62.55,
+    "ChangedDate": "2025-10-14"
+  },
+  {
+    "InvoiceNum": 80210,
+    "OrderNum": 50210,
+    "CustNum": "C1004",
+    "InvoiceDate": "2025-10-23",
+    "DueDate": "2025-11-25",
+    "InvoiceAmt": 6463.96,
+    "AmountPaid": 6463.96,
+    "ChangedDate": "2025-10-17"
+  },
+  {
+    "InvoiceNum": 80211,
+    "OrderNum": 50211,
+    "CustNum": "C1004",
+    "InvoiceDate": "2025-10-11",
+    "DueDate": "2025-11-15",
+    "InvoiceAmt": 2054.84,
+    "AmountPaid": 2054.84,
+    "ChangedDate": "2025-10-07"
+  },
+  {
+    "InvoiceNum": 80212,
+    "OrderNum": 50212,
+    "CustNum": "C1000",
+    "InvoiceDate": "2025-10-27",
+    "DueDate": "2025-12-04",
+    "InvoiceAmt": 5442.18,
+    "AmountPaid": 5442.18,
+    "ChangedDate": "2025-10-26"
+  },
+  {
+    "InvoiceNum": 80213,
+    "OrderNum": 50213,
+    "CustNum": "C1000",
+    "InvoiceDate": "2025-10-11",
+    "DueDate": "2025-11-17",
+    "InvoiceAmt": 70.09,
+    "AmountPaid": 70.09,
+    "ChangedDate": "2025-10-09"
+  },
+  {
+    "InvoiceNum": 80214,
+    "OrderNum": 50214,
+    "CustNum": "C1005",
+    "InvoiceDate": "2025-11-02",
+    "DueDate": "2025-12-02",
+    "InvoiceAmt": 624.9,
+    "AmountPaid": 38.17,
+    "ChangedDate": "2025-10-24"
+  },
+  {
+    "InvoiceNum": 80215,
+    "OrderNum": 50215,
+    "CustNum": "C1001",
+    "InvoiceDate": "2025-10-18",
+    "DueDate": "2025-11-20",
+    "InvoiceAmt": 2371.49,
+    "AmountPaid": 2371.49,
+    "ChangedDate": "2025-10-12"
+  },
+  {
+    "InvoiceNum": 80216,
+    "OrderNum": 50216,
+    "CustNum": "C1004",
+    "InvoiceDate": "2025-11-03",
+    "DueDate": "2025-12-03",
+    "InvoiceAmt": 1483.66,
+    "AmountPaid": 883.4,
+    "ChangedDate": "2025-10-25"
+  },
+  {
+    "InvoiceNum": 80217,
+    "OrderNum": 50217,
+    "CustNum": "C1003",
+    "InvoiceDate": "2025-10-22",
+    "DueDate": "2025-11-30",
+    "InvoiceAmt": 2305.14,
+    "AmountPaid": 2305.14,
+    "ChangedDate": "2025-10-22"
+  },
+  {
+    "InvoiceNum": 80218,
+    "OrderNum": 50218,
+    "CustNum": "C1000",
+    "InvoiceDate": "2025-10-15",
+    "DueDate": "2025-11-22",
+    "InvoiceAmt": 3155.1,
+    "AmountPaid": 3155.1,
+    "ChangedDate": "2025-10-14"
+  },
+  {
+    "InvoiceNum": 80219,
+    "OrderNum": 50219,
+    "CustNum": "C1001",
+    "InvoiceDate": "2025-10-15",
+    "DueDate": "2025-11-20",
+    "InvoiceAmt": 1026.23,
+    "AmountPaid": 79.13,
+    "ChangedDate": "2025-10-12"
+  },
+  {
+    "InvoiceNum": 80220,
+    "OrderNum": 50220,
+    "CustNum": "C1006",
+    "InvoiceDate": "2025-10-31",
+    "DueDate": "2025-12-02",
+    "InvoiceAmt": 1031.07,
+    "AmountPaid": 1031.07,
+    "ChangedDate": "2025-10-24"
+  },
+  {
+    "InvoiceNum": 80221,
+    "OrderNum": 50221,
+    "CustNum": "C1003",
+    "InvoiceDate": "2025-10-09",
+    "DueDate": "2025-11-13",
+    "InvoiceAmt": 1046.95,
+    "AmountPaid": 1046.95,
+    "ChangedDate": "2025-10-05"
+  },
+  {
+    "InvoiceNum": 80222,
+    "OrderNum": 50222,
+    "CustNum": "C1001",
+    "InvoiceDate": "2025-10-26",
+    "DueDate": "2025-11-30",
+    "InvoiceAmt": 864.38,
+    "AmountPaid": 864.38,
+    "ChangedDate": "2025-10-22"
+  },
+  {
+    "InvoiceNum": 80223,
+    "OrderNum": 50223,
+    "CustNum": "C1000",
+    "InvoiceDate": "2025-10-09",
+    "DueDate": "2025-11-14",
+    "InvoiceAmt": 913.85,
+    "AmountPaid": 913.85,
+    "ChangedDate": "2025-10-06"
+  },
+  {
+    "InvoiceNum": 80224,
+    "OrderNum": 50224,
+    "CustNum": "C1000",
+    "InvoiceDate": "2025-11-03",
+    "DueDate": "2025-12-06",
+    "InvoiceAmt": 3724.9,
+    "AmountPaid": 1200.43,
+    "ChangedDate": "2025-10-28"
+  },
+  {
+    "InvoiceNum": 80225,
+    "OrderNum": 50225,
+    "CustNum": "C1001",
+    "InvoiceDate": "2025-10-28",
+    "DueDate": "2025-12-01",
+    "InvoiceAmt": 1897.35,
+    "AmountPaid": 1897.35,
+    "ChangedDate": "2025-10-23"
+  },
+  {
+    "InvoiceNum": 80226,
+    "OrderNum": 50226,
+    "CustNum": "C1004",
+    "InvoiceDate": "2025-10-27",
+    "DueDate": "2025-11-26",
+    "InvoiceAmt": 301.68,
+    "AmountPaid": 301.68,
+    "ChangedDate": "2025-10-18"
+  },
+  {
+    "InvoiceNum": 80227,
+    "OrderNum": 50227,
+    "CustNum": "C1001",
+    "InvoiceDate": "2025-10-08",
+    "DueDate": "2025-11-13",
+    "InvoiceAmt": 1039.95,
+    "AmountPaid": 1039.95,
+    "ChangedDate": "2025-10-05"
+  },
+  {
+    "InvoiceNum": 80228,
+    "OrderNum": 50228,
+    "CustNum": "C1000",
+    "InvoiceDate": "2025-11-01",
+    "DueDate": "2025-12-03",
+    "InvoiceAmt": 341.56,
+    "AmountPaid": 341.56,
+    "ChangedDate": "2025-10-25"
+  },
+  {
+    "InvoiceNum": 80229,
+    "OrderNum": 50229,
+    "CustNum": "C1005",
+    "InvoiceDate": "2025-10-17",
+    "DueDate": "2025-11-18",
+    "InvoiceAmt": 3991.27,
+    "AmountPaid": 627.47,
+    "ChangedDate": "2025-10-10"
+  },
+  {
+    "InvoiceNum": 80230,
+    "OrderNum": 50230,
+    "CustNum": "C1005",
+    "InvoiceDate": "2025-10-28",
+    "DueDate": "2025-12-06",
+    "InvoiceAmt": 313.92,
+    "AmountPaid": 313.92,
+    "ChangedDate": "2025-10-28"
+  },
+  {
+    "InvoiceNum": 80231,
+    "OrderNum": 50231,
+    "CustNum": "C1003",
+    "InvoiceDate": "2025-10-11",
+    "DueDate": "2025-11-11",
+    "InvoiceAmt": 343.33,
+    "AmountPaid": 167.22,
+    "ChangedDate": "2025-10-03"
+  },
+  {
+    "InvoiceNum": 80232,
+    "OrderNum": 50232,
+    "CustNum": "C1006",
+    "InvoiceDate": "2025-10-29",
+    "DueDate": "2025-11-30",
+    "InvoiceAmt": 3228.72,
+    "AmountPaid": 1656.84,
+    "ChangedDate": "2025-10-22"
+  },
+  {
+    "InvoiceNum": 80233,
+    "OrderNum": 50233,
+    "CustNum": "C1005",
+    "InvoiceDate": "2025-10-13",
+    "DueDate": "2025-11-21",
+    "InvoiceAmt": 2394.0,
+    "AmountPaid": 2394.0,
+    "ChangedDate": "2025-10-13"
+  },
+  {
+    "InvoiceNum": 80234,
+    "OrderNum": 50234,
+    "CustNum": "C1007",
+    "InvoiceDate": "2025-10-10",
+    "DueDate": "2025-11-14",
+    "InvoiceAmt": 2264.23,
+    "AmountPaid": 2264.23,
+    "ChangedDate": "2025-10-06"
+  },
+  {
+    "InvoiceNum": 80235,
+    "OrderNum": 50235,
+    "CustNum": "C1006",
+    "InvoiceDate": "2025-10-18",
+    "DueDate": "2025-11-22",
+    "InvoiceAmt": 2542.99,
+    "AmountPaid": 188.71,
+    "ChangedDate": "2025-10-14"
+  },
+  {
+    "InvoiceNum": 80236,
+    "OrderNum": 50236,
+    "CustNum": "C1005",
+    "InvoiceDate": "2025-11-02",
+    "DueDate": "2025-12-07",
+    "InvoiceAmt": 526.98,
+    "AmountPaid": 526.98,
+    "ChangedDate": "2025-10-29"
+  },
+  {
+    "InvoiceNum": 80237,
+    "OrderNum": 50237,
+    "CustNum": "C1006",
+    "InvoiceDate": "2025-10-22",
+    "DueDate": "2025-11-22",
+    "InvoiceAmt": 2900.92,
+    "AmountPaid": 2900.92,
+    "ChangedDate": "2025-10-14"
+  },
+  {
+    "InvoiceNum": 80238,
+    "OrderNum": 50238,
+    "CustNum": "C1007",
+    "InvoiceDate": "2025-10-26",
+    "DueDate": "2025-12-01",
+    "InvoiceAmt": 3472.32,
+    "AmountPaid": 3472.32,
+    "ChangedDate": "2025-10-23"
+  },
+  {
+    "InvoiceNum": 80239,
+    "OrderNum": 50239,
+    "CustNum": "C1004",
+    "InvoiceDate": "2025-10-21",
+    "DueDate": "2025-11-23",
+    "InvoiceAmt": 863.02,
+    "AmountPaid": 88.74,
+    "ChangedDate": "2025-10-15"
+  },
+  {
+    "InvoiceNum": 80240,
+    "OrderNum": 50240,
+    "CustNum": "C1004",
+    "InvoiceDate": "2025-10-16",
+    "DueDate": "2025-11-23",
+    "InvoiceAmt": 1308.64,
+    "AmountPaid": 224.47,
+    "ChangedDate": "2025-10-15"
+  },
+  {
+    "InvoiceNum": 80241,
+    "OrderNum": 50241,
+    "CustNum": "C1004",
+    "InvoiceDate": "2025-11-08",
+    "DueDate": "2025-12-17",
+    "InvoiceAmt": 1406.66,
+    "AmountPaid": 818.32,
+    "ChangedDate": "2025-11-08"
+  },
+  {
+    "InvoiceNum": 80242,
+    "OrderNum": 50242,
+    "CustNum": "C1000",
+    "InvoiceDate": "2025-11-28",
+    "DueDate": "2025-12-28",
+    "InvoiceAmt": 720.61,
+    "AmountPaid": 720.61,
+    "ChangedDate": "2025-11-19"
+  },
+  {
+    "InvoiceNum": 80243,
+    "OrderNum": 50243,
+    "CustNum": "C1004",
+    "InvoiceDate": "2025-11-15",
+    "DueDate": "2025-12-16",
+    "InvoiceAmt": 137.37,
+    "AmountPaid": 137.37,
+    "ChangedDate": "2025-11-07"
+  },
+  {
+    "InvoiceNum": 80244,
+    "OrderNum": 50244,
+    "CustNum": "C1005",
+    "InvoiceDate": "2025-11-17",
+    "DueDate": "2025-12-24",
+    "InvoiceAmt": 2265.74,
+    "AmountPaid": 2265.74,
+    "ChangedDate": "2025-11-15"
+  },
+  {
+    "InvoiceNum": 80245,
+    "OrderNum": 50245,
+    "CustNum": "C1001",
+    "InvoiceDate": "2025-11-13",
+    "DueDate": "2025-12-22",
+    "InvoiceAmt": 815.21,
+    "AmountPaid": 300.99,
+    "ChangedDate": "2025-11-13"
+  },
+  {
+    "InvoiceNum": 80246,
+    "OrderNum": 50246,
+    "CustNum": "C1004",
+    "InvoiceDate": "2025-11-23",
+    "DueDate": "2025-12-24",
+    "InvoiceAmt": 6789.61,
+    "AmountPaid": 6789.61,
+    "ChangedDate": "2025-11-15"
+  },
+  {
+    "InvoiceNum": 80247,
+    "OrderNum": 50247,
+    "CustNum": "C1003",
+    "InvoiceDate": "2025-11-15",
+    "DueDate": "2025-12-22",
+    "InvoiceAmt": 1774.08,
+    "AmountPaid": 1774.08,
+    "ChangedDate": "2025-11-13"
+  },
+  {
+    "InvoiceNum": 80248,
+    "OrderNum": 50248,
+    "CustNum": "C1001",
+    "InvoiceDate": "2025-11-30",
+    "DueDate": "2026-01-04",
+    "InvoiceAmt": 108.45,
+    "AmountPaid": 108.45,
+    "ChangedDate": "2025-11-26"
+  },
+  {
+    "InvoiceNum": 80249,
+    "OrderNum": 50249,
+    "CustNum": "C1007",
+    "InvoiceDate": "2025-11-03",
+    "DueDate": "2025-12-12",
+    "InvoiceAmt": 475.66,
+    "AmountPaid": 475.66,
+    "ChangedDate": "2025-11-03"
+  },
+  {
+    "InvoiceNum": 80250,
+    "OrderNum": 50250,
+    "CustNum": "C1000",
+    "InvoiceDate": "2025-11-30",
+    "DueDate": "2026-01-07",
+    "InvoiceAmt": 620.29,
+    "AmountPaid": 620.29,
+    "ChangedDate": "2025-11-29"
+  },
+  {
+    "InvoiceNum": 80251,
+    "OrderNum": 50251,
+    "CustNum": "C1006",
+    "InvoiceDate": "2025-11-23",
+    "DueDate": "2025-12-23",
+    "InvoiceAmt": 1836.22,
+    "AmountPaid": 143.02,
+    "ChangedDate": "2025-11-14"
+  },
+  {
+    "InvoiceNum": 80252,
+    "OrderNum": 50252,
+    "CustNum": "C1007",
+    "InvoiceDate": "2025-11-16",
+    "DueDate": "2025-12-16",
+    "InvoiceAmt": 1230.27,
+    "AmountPaid": 553.27,
+    "ChangedDate": "2025-11-07"
+  },
+  {
+    "InvoiceNum": 80253,
+    "OrderNum": 50253,
+    "CustNum": "C1003",
+    "InvoiceDate": "2025-11-29",
+    "DueDate": "2026-01-01",
+    "InvoiceAmt": 600.0,
+    "AmountPaid": 600.0,
+    "ChangedDate": "2025-11-23"
+  },
+  {
+    "InvoiceNum": 80254,
+    "OrderNum": 50254,
+    "CustNum": "C1002",
+    "InvoiceDate": "2025-11-30",
+    "DueDate": "2026-01-06",
+    "InvoiceAmt": 1476.42,
+    "AmountPaid": 165.72,
+    "ChangedDate": "2025-11-28"
+  },
+  {
+    "InvoiceNum": 80255,
+    "OrderNum": 50255,
+    "CustNum": "C1001",
+    "InvoiceDate": "2025-12-03",
+    "DueDate": "2026-01-04",
+    "InvoiceAmt": 8430.46,
+    "AmountPaid": 8430.46,
+    "ChangedDate": "2025-11-26"
+  },
+  {
+    "InvoiceNum": 80256,
+    "OrderNum": 50256,
+    "CustNum": "C1001",
+    "InvoiceDate": "2025-12-06",
+    "DueDate": "2026-01-07",
+    "InvoiceAmt": 546.87,
+    "AmountPaid": 546.87,
+    "ChangedDate": "2025-11-29"
+  },
+  {
+    "InvoiceNum": 80257,
+    "OrderNum": 50257,
+    "CustNum": "C1005",
+    "InvoiceDate": "2025-11-16",
+    "DueDate": "2025-12-22",
+    "InvoiceAmt": 3142.06,
+    "AmountPaid": 3142.06,
+    "ChangedDate": "2025-11-13"
+  },
+  {
+    "InvoiceNum": 80258,
+    "OrderNum": 50258,
+    "CustNum": "C1000",
+    "InvoiceDate": "2025-11-19",
+    "DueDate": "2025-12-21",
+    "InvoiceAmt": 2509.87,
+    "AmountPaid": 2509.87,
+    "ChangedDate": "2025-11-12"
+  },
+  {
+    "InvoiceNum": 80259,
+    "OrderNum": 50259,
+    "CustNum": "C1003",
+    "InvoiceDate": "2025-12-03",
+    "DueDate": "2026-01-02",
+    "InvoiceAmt": 108.33,
+    "AmountPaid": 108.33,
+    "ChangedDate": "2025-11-24"
+  },
+  {
+    "InvoiceNum": 80260,
+    "OrderNum": 50260,
+    "CustNum": "C1001",
+    "InvoiceDate": "2025-12-01",
+    "DueDate": "2026-01-04",
+    "InvoiceAmt": 5019.02,
+    "AmountPaid": 5019.02,
+    "ChangedDate": "2025-11-26"
+  },
+  {
+    "InvoiceNum": 80261,
+    "OrderNum": 50261,
+    "CustNum": "C1006",
+    "InvoiceDate": "2025-11-23",
+    "DueDate": "2025-12-24",
+    "InvoiceAmt": 1460.4,
+    "AmountPaid": 1460.4,
+    "ChangedDate": "2025-11-15"
+  },
+  {
+    "InvoiceNum": 80262,
+    "OrderNum": 50262,
+    "CustNum": "C1003",
+    "InvoiceDate": "2025-11-14",
+    "DueDate": "2025-12-17",
+    "InvoiceAmt": 1981.01,
+    "AmountPaid": 1981.01,
+    "ChangedDate": "2025-11-08"
+  },
+  {
+    "InvoiceNum": 80263,
+    "OrderNum": 50263,
+    "CustNum": "C1004",
+    "InvoiceDate": "2025-11-29",
+    "DueDate": "2026-01-07",
+    "InvoiceAmt": 21.32,
+    "AmountPaid": 13.9,
+    "ChangedDate": "2025-11-29"
+  },
+  {
+    "InvoiceNum": 80264,
+    "OrderNum": 50264,
+    "CustNum": "C1003",
+    "InvoiceDate": "2025-11-18",
+    "DueDate": "2025-12-19",
+    "InvoiceAmt": 647.85,
+    "AmountPaid": 647.85,
+    "ChangedDate": "2025-11-10"
+  },
+  {
+    "InvoiceNum": 80265,
+    "OrderNum": 50265,
+    "CustNum": "C1003",
+    "InvoiceDate": "2025-11-28",
+    "DueDate": "2026-01-03",
+    "InvoiceAmt": 995.44,
+    "AmountPaid": 263.09,
+    "ChangedDate": "2025-11-25"
+  },
+  {
+    "InvoiceNum": 80266,
+    "OrderNum": 50266,
+    "CustNum": "C1007",
+    "InvoiceDate": "2025-12-02",
+    "DueDate": "2026-01-06",
+    "InvoiceAmt": 2173.03,
+    "AmountPaid": 2173.03,
+    "ChangedDate": "2025-11-28"
+  },
+  {
+    "InvoiceNum": 80267,
+    "OrderNum": 50267,
+    "CustNum": "C1002",
+    "InvoiceDate": "2025-11-09",
+    "DueDate": "2025-12-16",
+    "InvoiceAmt": 764.1,
+    "AmountPaid": 764.1,
+    "ChangedDate": "2025-11-07"
+  },
+  {
+    "InvoiceNum": 80268,
+    "OrderNum": 50268,
+    "CustNum": "C1005",
+    "InvoiceDate": "2025-11-27",
+    "DueDate": "2025-12-30",
+    "InvoiceAmt": 3806.77,
+    "AmountPaid": 3806.77,
+    "ChangedDate": "2025-11-21"
+  },
+  {
+    "InvoiceNum": 80269,
+    "OrderNum": 50269,
+    "CustNum": "C1001",
+    "InvoiceDate": "2025-11-13",
+    "DueDate": "2025-12-22",
+    "InvoiceAmt": 2998.2,
+    "AmountPaid": 823.32,
+    "ChangedDate": "2025-11-13"
+  },
+  {
+    "InvoiceNum": 80270,
+    "OrderNum": 50270,
+    "CustNum": "C1001",
+    "InvoiceDate": "2025-12-01",
+    "DueDate": "2026-01-01",
+    "InvoiceAmt": 5926.92,
+    "AmountPaid": 5926.92,
+    "ChangedDate": "2025-11-23"
+  },
+  {
+    "InvoiceNum": 80271,
+    "OrderNum": 50271,
+    "CustNum": "C1007",
+    "InvoiceDate": "2025-11-18",
+    "DueDate": "2025-12-26",
+    "InvoiceAmt": 6251.63,
+    "AmountPaid": 6251.63,
+    "ChangedDate": "2025-11-17"
+  },
+  {
+    "InvoiceNum": 80272,
+    "OrderNum": 50272,
+    "CustNum": "C1003",
+    "InvoiceDate": "2025-11-20",
+    "DueDate": "2025-12-28",
+    "InvoiceAmt": 92.48,
+    "AmountPaid": 92.48,
+    "ChangedDate": "2025-11-19"
+  },
+  {
+    "InvoiceNum": 80273,
+    "OrderNum": 50273,
+    "CustNum": "C1001",
+    "InvoiceDate": "2025-11-03",
+    "DueDate": "2025-12-12",
+    "InvoiceAmt": 1372.43,
+    "AmountPaid": 665.21,
+    "ChangedDate": "2025-11-03"
+  },
+  {
+    "InvoiceNum": 80274,
+    "OrderNum": 50274,
+    "CustNum": "C1001",
+    "InvoiceDate": "2025-11-30",
+    "DueDate": "2026-01-04",
+    "InvoiceAmt": 883.41,
+    "AmountPaid": 883.41,
+    "ChangedDate": "2025-11-26"
+  },
+  {
+    "InvoiceNum": 80275,
+    "OrderNum": 50275,
+    "CustNum": "C1001",
+    "InvoiceDate": "2025-11-12",
+    "DueDate": "2025-12-20",
+    "InvoiceAmt": 1342.48,
+    "AmountPaid": 1342.48,
+    "ChangedDate": "2025-11-11"
+  },
+  {
+    "InvoiceNum": 80276,
+    "OrderNum": 50276,
+    "CustNum": "C1000",
+    "InvoiceDate": "2025-11-07",
+    "DueDate": "2025-12-11",
+    "InvoiceAmt": 98.7,
+    "AmountPaid": 98.7,
+    "ChangedDate": "2025-11-02"
+  },
+  {
+    "InvoiceNum": 80277,
+    "OrderNum": 50277,
+    "CustNum": "C1003",
+    "InvoiceDate": "2025-11-15",
+    "DueDate": "2025-12-24",
+    "InvoiceAmt": 809.37,
+    "AmountPaid": 809.37,
+    "ChangedDate": "2025-11-15"
+  },
+  {
+    "InvoiceNum": 80278,
+    "OrderNum": 50278,
+    "CustNum": "C1007",
+    "InvoiceDate": "2025-11-25",
+    "DueDate": "2025-12-31",
+    "InvoiceAmt": 2681.82,
+    "AmountPaid": 697.37,
+    "ChangedDate": "2025-11-22"
+  },
+  {
+    "InvoiceNum": 80279,
+    "OrderNum": 50279,
+    "CustNum": "C1005",
+    "InvoiceDate": "2025-11-22",
+    "DueDate": "2025-12-26",
+    "InvoiceAmt": 4860.7,
+    "AmountPaid": 4860.7,
+    "ChangedDate": "2025-11-17"
+  },
+  {
+    "InvoiceNum": 80280,
+    "OrderNum": 50280,
+    "CustNum": "C1007",
+    "InvoiceDate": "2025-11-17",
+    "DueDate": "2025-12-25",
+    "InvoiceAmt": 2654.02,
+    "AmountPaid": 2654.02,
+    "ChangedDate": "2025-11-16"
+  },
+  {
+    "InvoiceNum": 80281,
+    "OrderNum": 50281,
+    "CustNum": "C1000",
+    "InvoiceDate": "2025-12-08",
+    "DueDate": "2026-01-07",
+    "InvoiceAmt": 2063.66,
+    "AmountPaid": 523.94,
+    "ChangedDate": "2025-11-29"
+  },
+  {
+    "InvoiceNum": 80282,
+    "OrderNum": 50282,
+    "CustNum": "C1002",
+    "InvoiceDate": "2025-12-02",
+    "DueDate": "2026-01-04",
+    "InvoiceAmt": 3121.47,
+    "AmountPaid": 3121.47,
+    "ChangedDate": "2025-11-26"
+  },
+  {
+    "InvoiceNum": 80283,
+    "OrderNum": 50283,
+    "CustNum": "C1007",
+    "InvoiceDate": "2025-11-20",
+    "DueDate": "2025-12-25",
+    "InvoiceAmt": 178.36,
+    "AmountPaid": 178.36,
+    "ChangedDate": "2025-11-16"
+  },
+  {
+    "InvoiceNum": 80284,
+    "OrderNum": 50284,
+    "CustNum": "C1004",
+    "InvoiceDate": "2025-11-20",
+    "DueDate": "2025-12-29",
+    "InvoiceAmt": 6673.18,
+    "AmountPaid": 760.29,
+    "ChangedDate": "2025-11-20"
+  },
+  {
+    "InvoiceNum": 80285,
+    "OrderNum": 50285,
+    "CustNum": "C1002",
+    "InvoiceDate": "2025-11-17",
+    "DueDate": "2025-12-25",
+    "InvoiceAmt": 856.9,
+    "AmountPaid": 127.11,
+    "ChangedDate": "2025-11-16"
+  },
+  {
+    "InvoiceNum": 80286,
+    "OrderNum": 50286,
+    "CustNum": "C1003",
+    "InvoiceDate": "2025-11-21",
+    "DueDate": "2025-12-24",
+    "InvoiceAmt": 2146.44,
+    "AmountPaid": 1366.81,
+    "ChangedDate": "2025-11-15"
+  },
+  {
+    "InvoiceNum": 80287,
+    "OrderNum": 50287,
+    "CustNum": "C1000",
+    "InvoiceDate": "2025-11-17",
+    "DueDate": "2025-12-18",
+    "InvoiceAmt": 599.66,
+    "AmountPaid": 84.68,
+    "ChangedDate": "2025-11-09"
+  },
+  {
+    "InvoiceNum": 80288,
+    "OrderNum": 50288,
+    "CustNum": "C1006",
+    "InvoiceDate": "2025-11-29",
+    "DueDate": "2025-12-30",
+    "InvoiceAmt": 2630.84,
+    "AmountPaid": 2630.84,
+    "ChangedDate": "2025-11-21"
+  },
+  {
+    "InvoiceNum": 80289,
+    "OrderNum": 50289,
+    "CustNum": "C1004",
+    "InvoiceDate": "2025-11-14",
+    "DueDate": "2025-12-16",
+    "InvoiceAmt": 945.61,
+    "AmountPaid": 56.29,
+    "ChangedDate": "2025-11-07"
+  },
+  {
+    "InvoiceNum": 80290,
+    "OrderNum": 50290,
+    "CustNum": "C1002",
+    "InvoiceDate": "2025-11-24",
+    "DueDate": "2025-12-30",
+    "InvoiceAmt": 2570.85,
+    "AmountPaid": 2570.85,
+    "ChangedDate": "2025-11-21"
+  },
+  {
+    "InvoiceNum": 80291,
+    "OrderNum": 50291,
+    "CustNum": "C1001",
+    "InvoiceDate": "2025-11-20",
+    "DueDate": "2025-12-20",
+    "InvoiceAmt": 1213.66,
+    "AmountPaid": 838.09,
+    "ChangedDate": "2025-11-11"
+  },
+  {
+    "InvoiceNum": 80292,
+    "OrderNum": 50292,
+    "CustNum": "C1004",
+    "InvoiceDate": "2025-11-16",
+    "DueDate": "2025-12-19",
+    "InvoiceAmt": 1164.74,
+    "AmountPaid": 1164.74,
+    "ChangedDate": "2025-11-10"
+  },
+  {
+    "InvoiceNum": 80293,
+    "OrderNum": 50293,
+    "CustNum": "C1002",
+    "InvoiceDate": "2025-11-29",
+    "DueDate": "2026-01-07",
+    "InvoiceAmt": 1709.74,
+    "AmountPaid": 111.56,
+    "ChangedDate": "2025-11-29"
+  },
+  {
+    "InvoiceNum": 80294,
+    "OrderNum": 50294,
+    "CustNum": "C1002",
+    "InvoiceDate": "2025-11-15",
+    "DueDate": "2025-12-23",
+    "InvoiceAmt": 1377.64,
+    "AmountPaid": 1377.64,
+    "ChangedDate": "2025-11-14"
+  },
+  {
+    "InvoiceNum": 80295,
+    "OrderNum": 50295,
+    "CustNum": "C1004",
+    "InvoiceDate": "2026-01-01",
+    "DueDate": "2026-02-01",
+    "InvoiceAmt": 2183.5,
+    "AmountPaid": 2183.5,
+    "ChangedDate": "2025-12-24"
+  },
+  {
+    "InvoiceNum": 80296,
+    "OrderNum": 50296,
+    "CustNum": "C1003",
+    "InvoiceDate": "2025-12-22",
+    "DueDate": "2026-01-29",
+    "InvoiceAmt": 409.44,
+    "AmountPaid": 409.44,
+    "ChangedDate": "2025-12-21"
+  },
+  {
+    "InvoiceNum": 80297,
+    "OrderNum": 50297,
+    "CustNum": "C1004",
+    "InvoiceDate": "2026-01-04",
+    "DueDate": "2026-02-03",
+    "InvoiceAmt": 1602.7,
+    "AmountPaid": 1602.7,
+    "ChangedDate": "2025-12-26"
+  },
+  {
+    "InvoiceNum": 80298,
+    "OrderNum": 50298,
+    "CustNum": "C1003",
+    "InvoiceDate": "2025-12-17",
+    "DueDate": "2026-01-24",
+    "InvoiceAmt": 87.12,
+    "AmountPaid": 87.12,
+    "ChangedDate": "2025-12-16"
+  },
+  {
+    "InvoiceNum": 80299,
+    "OrderNum": 50299,
+    "CustNum": "C1004",
+    "InvoiceDate": "2025-12-16",
+    "DueDate": "2026-01-20",
+    "InvoiceAmt": 5590.88,
+    "AmountPaid": 5590.88,
+    "ChangedDate": "2025-12-12"
+  },
+  {
+    "InvoiceNum": 80300,
+    "OrderNum": 50300,
+    "CustNum": "C1001",
+    "InvoiceDate": "2025-12-19",
+    "DueDate": "2026-01-22",
+    "InvoiceAmt": 823.32,
+    "AmountPaid": 823.32,
+    "ChangedDate": "2025-12-14"
+  },
+  {
+    "InvoiceNum": 80301,
+    "OrderNum": 50301,
+    "CustNum": "C1001",
+    "InvoiceDate": "2025-12-20",
+    "DueDate": "2026-01-27",
+    "InvoiceAmt": 8990.19,
+    "AmountPaid": 8990.19,
+    "ChangedDate": "2025-12-19"
+  },
+  {
+    "InvoiceNum": 80302,
+    "OrderNum": 50302,
+    "CustNum": "C1001",
+    "InvoiceDate": "2026-01-01",
+    "DueDate": "2026-01-31",
+    "InvoiceAmt": 270.63,
+    "AmountPaid": 127.81,
+    "ChangedDate": "2025-12-23"
+  },
+  {
+    "InvoiceNum": 80303,
+    "OrderNum": 50303,
+    "CustNum": "C1004",
+    "InvoiceDate": "2025-12-24",
+    "DueDate": "2026-01-25",
+    "InvoiceAmt": 2321.71,
+    "AmountPaid": 2321.71,
+    "ChangedDate": "2025-12-17"
+  },
+  {
+    "InvoiceNum": 80304,
+    "OrderNum": 50304,
+    "CustNum": "C1001",
+    "InvoiceDate": "2026-01-02",
+    "DueDate": "2026-02-01",
+    "InvoiceAmt": 1924.43,
+    "AmountPaid": 1924.43,
+    "ChangedDate": "2025-12-24"
+  },
+  {
+    "InvoiceNum": 80305,
+    "OrderNum": 50305,
+    "CustNum": "C1005",
+    "InvoiceDate": "2025-12-16",
+    "DueDate": "2026-01-21",
+    "InvoiceAmt": 3007.47,
+    "AmountPaid": 3007.47,
+    "ChangedDate": "2025-12-13"
+  },
+  {
+    "InvoiceNum": 80306,
+    "OrderNum": 50306,
+    "CustNum": "C1002",
+    "InvoiceDate": "2026-01-03",
+    "DueDate": "2026-02-04",
+    "InvoiceAmt": 3469.0,
+    "AmountPaid": 3469.0,
+    "ChangedDate": "2025-12-27"
+  },
+  {
+    "InvoiceNum": 80307,
+    "OrderNum": 50307,
+    "CustNum": "C1005",
+    "InvoiceDate": "2025-12-17",
+    "DueDate": "2026-01-18",
+    "InvoiceAmt": 5999.78,
+    "AmountPaid": 5999.78,
+    "ChangedDate": "2025-12-10"
+  },
+  {
+    "InvoiceNum": 80308,
+    "OrderNum": 50308,
+    "CustNum": "C1007",
+    "InvoiceDate": "2025-12-09",
+    "DueDate": "2026-01-12",
+    "InvoiceAmt": 1427.44,
+    "AmountPaid": 795.44,
+    "ChangedDate": "2025-12-04"
+  },
+  {
+    "InvoiceNum": 80309,
+    "OrderNum": 50309,
+    "CustNum": "C1004",
+    "InvoiceDate": "2025-12-25",
+    "DueDate": "2026-02-01",
+    "InvoiceAmt": 3001.21,
+    "AmountPaid": 3001.21,
+    "ChangedDate": "2025-12-24"
+  },
+  {
+    "InvoiceNum": 80310,
+    "OrderNum": 50310,
+    "CustNum": "C1007",
+    "InvoiceDate": "2025-12-23",
+    "DueDate": "2026-01-27",
+    "InvoiceAmt": 1244.74,
+    "AmountPaid": 1244.74,
+    "ChangedDate": "2025-12-19"
+  },
+  {
+    "InvoiceNum": 80311,
+    "OrderNum": 50311,
+    "CustNum": "C1002",
+    "InvoiceDate": "2025-12-11",
+    "DueDate": "2026-01-12",
+    "InvoiceAmt": 2714.4,
+    "AmountPaid": 306.34,
+    "ChangedDate": "2025-12-04"
+  },
+  {
+    "InvoiceNum": 80312,
+    "OrderNum": 50312,
+    "CustNum": "C1007",
+    "InvoiceDate": "2026-01-02",
+    "DueDate": "2026-02-06",
+    "InvoiceAmt": 5112.73,
+    "AmountPaid": 5112.73,
+    "ChangedDate": "2025-12-29"
+  },
+  {
+    "InvoiceNum": 80313,
+    "OrderNum": 50313,
+    "CustNum": "C1000",
+    "InvoiceDate": "2025-12-07",
+    "DueDate": "2026-01-10",
+    "InvoiceAmt": 2687.99,
+    "AmountPaid": 1177.79,
+    "ChangedDate": "2025-12-02"
+  },
+  {
+    "InvoiceNum": 80314,
+    "OrderNum": 50314,
+    "CustNum": "C1003",
+    "InvoiceDate": "2025-12-19",
+    "DueDate": "2026-01-23",
+    "InvoiceAmt": 6628.64,
+    "AmountPaid": 6628.64,
+    "ChangedDate": "2025-12-15"
+  },
+  {
+    "InvoiceNum": 80315,
+    "OrderNum": 50315,
+    "CustNum": "C1006",
+    "InvoiceDate": "2025-12-13",
+    "DueDate": "2026-01-16",
+    "InvoiceAmt": 2127.48,
+    "AmountPaid": 321.15,
+    "ChangedDate": "2025-12-08"
+  },
+  {
+    "InvoiceNum": 80316,
+    "OrderNum": 50316,
+    "CustNum": "C1000",
+    "InvoiceDate": "2025-12-13",
+    "DueDate": "2026-01-14",
+    "InvoiceAmt": 328.44,
+    "AmountPaid": 328.44,
+    "ChangedDate": "2025-12-06"
+  },
+  {
+    "InvoiceNum": 80317,
+    "OrderNum": 50317,
+    "CustNum": "C1000",
+    "InvoiceDate": "2025-12-14",
+    "DueDate": "2026-01-17",
+    "InvoiceAmt": 1946.8,
+    "AmountPaid": 979.22,
+    "ChangedDate": "2025-12-09"
+  },
+  {
+    "InvoiceNum": 80318,
+    "OrderNum": 50318,
+    "CustNum": "C1001",
+    "InvoiceDate": "2025-12-31",
+    "DueDate": "2026-02-05",
+    "InvoiceAmt": 193.96,
+    "AmountPaid": 193.96,
+    "ChangedDate": "2025-12-28"
+  },
+  {
+    "InvoiceNum": 80319,
+    "OrderNum": 50319,
+    "CustNum": "C1004",
+    "InvoiceDate": "2025-12-31",
+    "DueDate": "2026-02-05",
+    "InvoiceAmt": 170.56,
+    "AmountPaid": 170.56,
+    "ChangedDate": "2025-12-28"
+  },
+  {
+    "InvoiceNum": 80320,
+    "OrderNum": 50320,
+    "CustNum": "C1000",
+    "InvoiceDate": "2025-12-13",
+    "DueDate": "2026-01-16",
+    "InvoiceAmt": 4204.84,
+    "AmountPaid": 4204.84,
+    "ChangedDate": "2025-12-08"
+  },
+  {
+    "InvoiceNum": 80321,
+    "OrderNum": 50321,
+    "CustNum": "C1002",
+    "InvoiceDate": "2025-12-22",
+    "DueDate": "2026-01-30",
+    "InvoiceAmt": 220.72,
+    "AmountPaid": 220.72,
+    "ChangedDate": "2025-12-22"
+  },
+  {
+    "InvoiceNum": 80322,
+    "OrderNum": 50322,
+    "CustNum": "C1003",
+    "InvoiceDate": "2025-12-12",
+    "DueDate": "2026-01-13",
+    "InvoiceAmt": 1696.38,
+    "AmountPaid": 1696.38,
+    "ChangedDate": "2025-12-05"
+  },
+  {
+    "InvoiceNum": 80323,
+    "OrderNum": 50323,
+    "CustNum": "C1001",
+    "InvoiceDate": "2025-12-24",
+    "DueDate": "2026-01-31",
+    "InvoiceAmt": 196.42,
+    "AmountPaid": 196.42,
+    "ChangedDate": "2025-12-23"
+  },
+  {
+    "InvoiceNum": 80324,
+    "OrderNum": 50324,
+    "CustNum": "C1002",
+    "InvoiceDate": "2025-12-25",
+    "DueDate": "2026-01-25",
+    "InvoiceAmt": 1853.88,
+    "AmountPaid": 1853.88,
+    "ChangedDate": "2025-12-17"
+  },
+  {
+    "InvoiceNum": 80325,
+    "OrderNum": 50325,
+    "CustNum": "C1007",
+    "InvoiceDate": "2025-12-16",
+    "DueDate": "2026-01-16",
+    "InvoiceAmt": 1276.9,
+    "AmountPaid": 259.96,
+    "ChangedDate": "2025-12-08"
+  },
+  {
+    "InvoiceNum": 80326,
+    "OrderNum": 50326,
+    "CustNum": "C1006",
+    "InvoiceDate": "2026-01-02",
+    "DueDate": "2026-02-02",
+    "InvoiceAmt": 1059.2,
+    "AmountPaid": 1059.2,
+    "ChangedDate": "2025-12-25"
+  },
+  {
+    "InvoiceNum": 80327,
+    "OrderNum": 50327,
+    "CustNum": "C1006",
+    "InvoiceDate": "2025-12-10",
+    "DueDate": "2026-01-16",
+    "InvoiceAmt": 506.53,
+    "AmountPaid": 506.53,
+    "ChangedDate": "2025-12-08"
+  },
+  {
+    "InvoiceNum": 80328,
+    "OrderNum": 50328,
+    "CustNum": "C1002",
+    "InvoiceDate": "2026-01-02",
+    "DueDate": "2026-02-06",
+    "InvoiceAmt": 1542.08,
+    "AmountPaid": 769.4,
+    "ChangedDate": "2025-12-29"
+  },
+  {
+    "InvoiceNum": 80329,
+    "OrderNum": 50329,
+    "CustNum": "C1000",
+    "InvoiceDate": "2025-12-14",
+    "DueDate": "2026-01-21",
+    "InvoiceAmt": 119.42,
+    "AmountPaid": 119.42,
+    "ChangedDate": "2025-12-13"
+  },
+  {
+    "InvoiceNum": 80330,
+    "OrderNum": 50330,
+    "CustNum": "C1007",
+    "InvoiceDate": "2025-12-28",
+    "DueDate": "2026-02-04",
+    "InvoiceAmt": 1165.45,
+    "AmountPaid": 813.38,
+    "ChangedDate": "2025-12-27"
+  },
+  {
+    "InvoiceNum": 80331,
+    "OrderNum": 50331,
+    "CustNum": "C1001",
+    "InvoiceDate": "2025-12-31",
+    "DueDate": "2026-02-02",
+    "InvoiceAmt": 4032.27,
+    "AmountPaid": 4032.27,
+    "ChangedDate": "2025-12-25"
+  },
+  {
+    "InvoiceNum": 80332,
+    "OrderNum": 50332,
+    "CustNum": "C1005",
+    "InvoiceDate": "2025-12-30",
+    "DueDate": "2026-01-31",
+    "InvoiceAmt": 3559.14,
+    "AmountPaid": 3559.14,
+    "ChangedDate": "2025-12-23"
+  },
+  {
+    "InvoiceNum": 80333,
+    "OrderNum": 50333,
+    "CustNum": "C1007",
+    "InvoiceDate": "2025-12-18",
+    "DueDate": "2026-01-22",
+    "InvoiceAmt": 292.11,
+    "AmountPaid": 292.11,
+    "ChangedDate": "2025-12-14"
+  },
+  {
+    "InvoiceNum": 80334,
+    "OrderNum": 50334,
+    "CustNum": "C1000",
+    "InvoiceDate": "2025-12-20",
+    "DueDate": "2026-01-19",
+    "InvoiceAmt": 309.5,
+    "AmountPaid": 309.5,
+    "ChangedDate": "2025-12-11"
+  },
+  {
+    "InvoiceNum": 80335,
+    "OrderNum": 50335,
+    "CustNum": "C1002",
+    "InvoiceDate": "2025-12-14",
+    "DueDate": "2026-01-13",
+    "InvoiceAmt": 4486.66,
+    "AmountPaid": 46.93,
+    "ChangedDate": "2025-12-05"
+  },
+  {
+    "InvoiceNum": 80336,
+    "OrderNum": 50336,
+    "CustNum": "C1001",
+    "InvoiceDate": "2025-12-26",
+    "DueDate": "2026-01-29",
+    "InvoiceAmt": 219.42,
+    "AmountPaid": 219.42,
+    "ChangedDate": "2025-12-21"
+  },
+  {
+    "InvoiceNum": 80337,
+    "OrderNum": 50337,
+    "CustNum": "C1005",
+    "InvoiceDate": "2026-01-03",
+    "DueDate": "2026-02-05",
+    "InvoiceAmt": 2675.7,
+    "AmountPaid": 2675.7,
+    "ChangedDate": "2025-12-28"
+  },
+  {
+    "InvoiceNum": 80338,
+    "OrderNum": 50338,
+    "CustNum": "C1007",
+    "InvoiceDate": "2026-01-03",
+    "DueDate": "2026-02-03",
+    "InvoiceAmt": 850.27,
+    "AmountPaid": 850.27,
+    "ChangedDate": "2025-12-26"
+  },
+  {
+    "InvoiceNum": 80339,
+    "OrderNum": 50339,
+    "CustNum": "C1006",
+    "InvoiceDate": "2025-12-16",
+    "DueDate": "2026-01-18",
+    "InvoiceAmt": 7886.99,
+    "AmountPaid": 7886.99,
+    "ChangedDate": "2025-12-10"
+  },
+  {
+    "InvoiceNum": 80340,
+    "OrderNum": 50340,
+    "CustNum": "C1005",
+    "InvoiceDate": "2025-12-16",
+    "DueDate": "2026-01-21",
+    "InvoiceAmt": 4893.51,
+    "AmountPaid": 4893.51,
+    "ChangedDate": "2025-12-13"
+  },
+  {
+    "InvoiceNum": 80341,
+    "OrderNum": 50341,
+    "CustNum": "C1003",
+    "InvoiceDate": "2025-12-24",
+    "DueDate": "2026-01-31",
+    "InvoiceAmt": 993.85,
+    "AmountPaid": 993.85,
+    "ChangedDate": "2025-12-23"
+  },
+  {
+    "InvoiceNum": 80342,
+    "OrderNum": 50342,
+    "CustNum": "C1004",
+    "InvoiceDate": "2025-12-24",
+    "DueDate": "2026-01-24",
+    "InvoiceAmt": 355.6,
+    "AmountPaid": 355.6,
+    "ChangedDate": "2025-12-16"
+  },
+  {
+    "InvoiceNum": 80343,
+    "OrderNum": 50343,
+    "CustNum": "C1004",
+    "InvoiceDate": "2025-12-28",
+    "DueDate": "2026-01-27",
+    "InvoiceAmt": 365.46,
+    "AmountPaid": 75.62,
+    "ChangedDate": "2025-12-19"
+  },
+  {
+    "InvoiceNum": 80344,
+    "OrderNum": 50344,
+    "CustNum": "C1004",
+    "InvoiceDate": "2025-12-08",
+    "DueDate": "2026-01-11",
+    "InvoiceAmt": 260.5,
+    "AmountPaid": 105.13,
+    "ChangedDate": "2025-12-03"
+  },
+  {
+    "InvoiceNum": 80345,
+    "OrderNum": 50345,
+    "CustNum": "C1001",
+    "InvoiceDate": "2025-12-07",
+    "DueDate": "2026-01-10",
+    "InvoiceAmt": 4787.16,
+    "AmountPaid": 4787.16,
+    "ChangedDate": "2025-12-02"
+  },
+  {
+    "InvoiceNum": 80346,
+    "OrderNum": 50346,
+    "CustNum": "C1007",
+    "InvoiceDate": "2025-12-22",
+    "DueDate": "2026-01-22",
+    "InvoiceAmt": 603.29,
+    "AmountPaid": 300.11,
+    "ChangedDate": "2025-12-14"
+  },
+  {
+    "InvoiceNum": 80347,
+    "OrderNum": 50347,
+    "CustNum": "C1004",
+    "InvoiceDate": "2026-01-05",
+    "DueDate": "2026-02-04",
+    "InvoiceAmt": 1705.0,
+    "AmountPaid": 1705.0,
+    "ChangedDate": "2025-12-27"
+  },
+  {
+    "InvoiceNum": 80348,
+    "OrderNum": 50348,
+    "CustNum": "C1003",
+    "InvoiceDate": "2025-12-18",
+    "DueDate": "2026-01-23",
+    "InvoiceAmt": 1360.06,
+    "AmountPaid": 1360.06,
+    "ChangedDate": "2025-12-15"
+  },
+  {
+    "InvoiceNum": 80349,
+    "OrderNum": 50349,
+    "CustNum": "C1002",
+    "InvoiceDate": "2025-12-15",
+    "DueDate": "2026-01-19",
+    "InvoiceAmt": 2702.57,
+    "AmountPaid": 2702.57,
+    "ChangedDate": "2025-12-11"
+  },
+  {
+    "InvoiceNum": 80350,
+    "OrderNum": 50350,
+    "CustNum": "C1002",
+    "InvoiceDate": "2026-01-04",
+    "DueDate": "2026-02-03",
+    "InvoiceAmt": 574.8,
+    "AmountPaid": 574.8,
+    "ChangedDate": "2025-12-26"
+  },
+  {
+    "InvoiceNum": 80351,
+    "OrderNum": 50351,
+    "CustNum": "C1004",
+    "InvoiceDate": "2025-12-26",
+    "DueDate": "2026-01-29",
+    "InvoiceAmt": 893.95,
+    "AmountPaid": 893.95,
+    "ChangedDate": "2025-12-21"
+  },
+  {
+    "InvoiceNum": 80352,
+    "OrderNum": 50352,
+    "CustNum": "C1002",
+    "InvoiceDate": "2026-01-05",
+    "DueDate": "2026-02-06",
+    "InvoiceAmt": 5152.48,
+    "AmountPaid": 5152.48,
+    "ChangedDate": "2025-12-29"
+  },
+  {
+    "InvoiceNum": 80353,
+    "OrderNum": 50353,
+    "CustNum": "C1003",
+    "InvoiceDate": "2025-12-24",
+    "DueDate": "2026-01-23",
+    "InvoiceAmt": 793.17,
+    "AmountPaid": 793.17,
+    "ChangedDate": "2025-12-15"
+  },
+  {
+    "InvoiceNum": 80354,
+    "OrderNum": 50354,
+    "CustNum": "C1000",
+    "InvoiceDate": "2026-01-12",
+    "DueDate": "2026-02-17",
+    "InvoiceAmt": 1244.74,
+    "AmountPaid": 1244.74,
+    "ChangedDate": "2026-01-09"
+  },
+  {
+    "InvoiceNum": 80355,
+    "OrderNum": 50355,
+    "CustNum": "C1004",
+    "InvoiceDate": "2026-01-25",
+    "DueDate": "2026-02-24",
+    "InvoiceAmt": 912.94,
+    "AmountPaid": 912.94,
+    "ChangedDate": "2026-01-16"
+  },
+  {
+    "InvoiceNum": 80356,
+    "OrderNum": 50356,
+    "CustNum": "C1002",
+    "InvoiceDate": "2026-01-19",
+    "DueDate": "2026-02-22",
+    "InvoiceAmt": 4692.84,
+    "AmountPaid": 4692.84,
+    "ChangedDate": "2026-01-14"
+  },
+  {
+    "InvoiceNum": 80357,
+    "OrderNum": 50357,
+    "CustNum": "C1001",
+    "InvoiceDate": "2026-01-20",
+    "DueDate": "2026-02-26",
+    "InvoiceAmt": 2290.6,
+    "AmountPaid": 2290.6,
+    "ChangedDate": "2026-01-18"
+  },
+  {
+    "InvoiceNum": 80358,
+    "OrderNum": 50358,
+    "CustNum": "C1002",
+    "InvoiceDate": "2026-01-07",
+    "DueDate": "2026-02-15",
+    "InvoiceAmt": 2509.63,
+    "AmountPaid": 2509.63,
+    "ChangedDate": "2026-01-07"
+  },
+  {
+    "InvoiceNum": 80359,
+    "OrderNum": 50359,
+    "CustNum": "C1007",
+    "InvoiceDate": "2026-01-18",
+    "DueDate": "2026-02-17",
+    "InvoiceAmt": 2640.7,
+    "AmountPaid": 2640.7,
+    "ChangedDate": "2026-01-09"
+  },
+  {
+    "InvoiceNum": 80360,
+    "OrderNum": 50360,
+    "CustNum": "C1004",
+    "InvoiceDate": "2026-01-16",
+    "DueDate": "2026-02-20",
+    "InvoiceAmt": 273.51,
+    "AmountPaid": 273.51,
+    "ChangedDate": "2026-01-12"
+  },
+  {
+    "InvoiceNum": 80361,
+    "OrderNum": 50361,
+    "CustNum": "C1002",
+    "InvoiceDate": "2026-01-17",
+    "DueDate": "2026-02-24",
+    "InvoiceAmt": 214.4,
+    "AmountPaid": 214.4,
+    "ChangedDate": "2026-01-16"
+  },
+  {
+    "InvoiceNum": 80362,
+    "OrderNum": 50362,
+    "CustNum": "C1006",
+    "InvoiceDate": "2026-02-05",
+    "DueDate": "2026-03-08",
+    "InvoiceAmt": 7103.44,
+    "AmountPaid": 7103.44,
+    "ChangedDate": "2026-01-28"
+  },
+  {
+    "InvoiceNum": 80363,
+    "OrderNum": 50363,
+    "CustNum": "C1001",
+    "InvoiceDate": "2026-01-17",
+    "DueDate": "2026-02-25",
+    "InvoiceAmt": 5277.59,
+    "AmountPaid": 5277.59,
+    "ChangedDate": "2026-01-17"
+  },
+  {
+    "InvoiceNum": 80364,
+    "OrderNum": 50364,
+    "CustNum": "C1007",
+    "InvoiceDate": "2026-01-26",
+    "DueDate": "2026-03-02",
+    "InvoiceAmt": 1182.05,
+    "AmountPaid": 1182.05,
+    "ChangedDate": "2026-01-22"
+  },
+  {
+    "InvoiceNum": 80365,
+    "OrderNum": 50365,
+    "CustNum": "C1001",
+    "InvoiceDate": "2026-01-18",
+    "DueDate": "2026-02-19",
+    "InvoiceAmt": 2264.11,
+    "AmountPaid": 654.86,
+    "ChangedDate": "2026-01-11"
+  },
+  {
+    "InvoiceNum": 80366,
+    "OrderNum": 50366,
+    "CustNum": "C1002",
+    "InvoiceDate": "2026-01-27",
+    "DueDate": "2026-03-02",
+    "InvoiceAmt": 2181.53,
+    "AmountPaid": 2181.53,
+    "ChangedDate": "2026-01-22"
+  },
+  {
+    "InvoiceNum": 80367,
+    "OrderNum": 50367,
+    "CustNum": "C1001",
+    "InvoiceDate": "2026-01-15",
+    "DueDate": "2026-02-14",
+    "InvoiceAmt": 641.25,
+    "AmountPaid": 641.25,
+    "ChangedDate": "2026-01-06"
+  },
+  {
+    "InvoiceNum": 80368,
+    "OrderNum": 50368,
+    "CustNum": "C1006",
+    "InvoiceDate": "2026-01-07",
+    "DueDate": "2026-02-15",
+    "InvoiceAmt": 7962.53,
+    "AmountPaid": 7962.53,
+    "ChangedDate": "2026-01-07"
+  },
+  {
+    "InvoiceNum": 80369,
+    "OrderNum": 50369,
+    "CustNum": "C1003",
+    "InvoiceDate": "2026-01-11",
+    "DueDate": "2026-02-12",
+    "InvoiceAmt": 2346.63,
+    "AmountPaid": 1605.57,
+    "ChangedDate": "2026-01-04"
+  },
+  {
+    "InvoiceNum": 80370,
+    "OrderNum": 50370,
+    "CustNum": "C1004",
+    "InvoiceDate": "2026-01-27",
+    "DueDate": "2026-03-06",
+    "InvoiceAmt": 615.2,
+    "AmountPaid": 340.46,
+    "ChangedDate": "2026-01-26"
+  },
+  {
+    "InvoiceNum": 80371,
+    "OrderNum": 50371,
+    "CustNum": "C1000",
+    "InvoiceDate": "2026-01-15",
+    "DueDate": "2026-02-19",
+    "InvoiceAmt": 752.4,
+    "AmountPaid": 752.4,
+    "ChangedDate": "2026-01-11"
+  },
+  {
+    "InvoiceNum": 80372,
+    "OrderNum": 50372,
+    "CustNum": "C1000",
+    "InvoiceDate": "2026-01-22",
+    "DueDate": "2026-02-28",
+    "InvoiceAmt": 1086.49,
+    "AmountPaid": 1086.49,
+    "ChangedDate": "2026-01-20"
+  },
+  {
+    "InvoiceNum": 80373,
+    "OrderNum": 50373,
+    "CustNum": "C1004",
+    "InvoiceDate": "2026-01-07",
+    "DueDate": "2026-02-13",
+    "InvoiceAmt": 4762.8,
+    "AmountPaid": 351.06,
+    "ChangedDate": "2026-01-05"
+  },
+  {
+    "InvoiceNum": 80374,
+    "OrderNum": 50374,
+    "CustNum": "C1004",
+    "InvoiceDate": "2026-01-20",
+    "DueDate": "2026-02-28",
+    "InvoiceAmt": 494.2,
+    "AmountPaid": 494.2,
+    "ChangedDate": "2026-01-20"
+  },
+  {
+    "InvoiceNum": 80375,
+    "OrderNum": 50375,
+    "CustNum": "C1001",
+    "InvoiceDate": "2026-01-23",
+    "DueDate": "2026-02-22",
+    "InvoiceAmt": 999.44,
+    "AmountPaid": 999.44,
+    "ChangedDate": "2026-01-14"
+  },
+  {
+    "InvoiceNum": 80376,
+    "OrderNum": 50376,
+    "CustNum": "C1007",
+    "InvoiceDate": "2026-01-28",
+    "DueDate": "2026-03-01",
+    "InvoiceAmt": 1131.64,
+    "AmountPaid": 1131.64,
+    "ChangedDate": "2026-01-21"
+  },
+  {
+    "InvoiceNum": 80377,
+    "OrderNum": 50377,
+    "CustNum": "C1007",
+    "InvoiceDate": "2026-01-16",
+    "DueDate": "2026-02-17",
+    "InvoiceAmt": 720.66,
+    "AmountPaid": 440.98,
+    "ChangedDate": "2026-01-09"
+  },
+  {
+    "InvoiceNum": 80378,
+    "OrderNum": 50378,
+    "CustNum": "C1001",
+    "InvoiceDate": "2026-01-16",
+    "DueDate": "2026-02-21",
+    "InvoiceAmt": 2900.16,
+    "AmountPaid": 2900.16,
+    "ChangedDate": "2026-01-13"
+  },
+  {
+    "InvoiceNum": 80379,
+    "OrderNum": 50379,
+    "CustNum": "C1003",
+    "InvoiceDate": "2026-01-27",
+    "DueDate": "2026-02-27",
+    "InvoiceAmt": 3371.82,
+    "AmountPaid": 3371.82,
+    "ChangedDate": "2026-01-19"
+  },
+  {
+    "InvoiceNum": 80380,
+    "OrderNum": 50380,
+    "CustNum": "C1001",
+    "InvoiceDate": "2026-01-29",
+    "DueDate": "2026-03-08",
+    "InvoiceAmt": 980.62,
+    "AmountPaid": 980.62,
+    "ChangedDate": "2026-01-28"
+  },
+  {
+    "InvoiceNum": 80381,
+    "OrderNum": 50381,
+    "CustNum": "C1003",
+    "InvoiceDate": "2026-02-06",
+    "DueDate": "2026-03-08",
+    "InvoiceAmt": 462.6,
+    "AmountPaid": 462.6,
+    "ChangedDate": "2026-01-28"
+  },
+  {
+    "InvoiceNum": 80382,
+    "OrderNum": 50382,
+    "CustNum": "C1007",
+    "InvoiceDate": "2026-01-16",
+    "DueDate": "2026-02-16",
+    "InvoiceAmt": 1412.73,
+    "AmountPaid": 1412.73,
+    "ChangedDate": "2026-01-08"
+  },
+  {
+    "InvoiceNum": 80383,
+    "OrderNum": 50383,
+    "CustNum": "C1000",
+    "InvoiceDate": "2026-01-08",
+    "DueDate": "2026-02-10",
+    "InvoiceAmt": 14.72,
+    "AmountPaid": 1.86,
+    "ChangedDate": "2026-01-02"
+  },
+  {
+    "InvoiceNum": 80384,
+    "OrderNum": 50384,
+    "CustNum": "C1005",
+    "InvoiceDate": "2026-01-26",
+    "DueDate": "2026-03-04",
+    "InvoiceAmt": 2834.41,
+    "AmountPaid": 1903.83,
+    "ChangedDate": "2026-01-24"
+  },
+  {
+    "InvoiceNum": 80385,
+    "OrderNum": 50385,
+    "CustNum": "C1007",
+    "InvoiceDate": "2026-01-30",
+    "DueDate": "2026-03-03",
+    "InvoiceAmt": 2692.83,
+    "AmountPaid": 2692.83,
+    "ChangedDate": "2026-01-23"
+  },
+  {
+    "InvoiceNum": 80386,
+    "OrderNum": 50386,
+    "CustNum": "C1006",
+    "InvoiceDate": "2026-01-20",
+    "DueDate": "2026-02-27",
+    "InvoiceAmt": 1766.07,
+    "AmountPaid": 1766.07,
+    "ChangedDate": "2026-01-19"
+  },
+  {
+    "InvoiceNum": 80387,
+    "OrderNum": 50387,
+    "CustNum": "C1002",
+    "InvoiceDate": "2026-02-03",
+    "DueDate": "2026-03-05",
+    "InvoiceAmt": 1255.35,
+    "AmountPaid": 1255.35,
+    "ChangedDate": "2026-01-25"
+  },
+  {
+    "InvoiceNum": 80388,
+    "OrderNum": 50388,
+    "CustNum": "C1005",
+    "InvoiceDate": "2026-01-24",
+    "DueDate": "2026-02-23",
+    "InvoiceAmt": 2122.46,
+    "AmountPaid": 508.75,
+    "ChangedDate": "2026-01-15"
+  },
+  {
+    "InvoiceNum": 80389,
+    "OrderNum": 50389,
+    "CustNum": "C1000",
+    "InvoiceDate": "2026-01-15",
+    "DueDate": "2026-02-19",
+    "InvoiceAmt": 1574.1,
+    "AmountPaid": 1574.1,
+    "ChangedDate": "2026-01-11"
+  },
+  {
+    "InvoiceNum": 80390,
+    "OrderNum": 50390,
+    "CustNum": "C1002",
+    "InvoiceDate": "2026-01-21",
+    "DueDate": "2026-03-01",
+    "InvoiceAmt": 5772.92,
+    "AmountPaid": 2995.56,
+    "ChangedDate": "2026-01-21"
+  },
+  {
+    "InvoiceNum": 80391,
+    "OrderNum": 50391,
+    "CustNum": "C1005",
+    "InvoiceDate": "2026-01-09",
+    "DueDate": "2026-02-12",
+    "InvoiceAmt": 2602.81,
+    "AmountPaid": 828.23,
+    "ChangedDate": "2026-01-04"
+  },
+  {
+    "InvoiceNum": 80392,
+    "OrderNum": 50392,
+    "CustNum": "C1000",
+    "InvoiceDate": "2026-01-29",
+    "DueDate": "2026-03-02",
+    "InvoiceAmt": 95.37,
+    "AmountPaid": 95.37,
+    "ChangedDate": "2026-01-22"
+  },
+  {
+    "InvoiceNum": 80393,
+    "OrderNum": 50393,
+    "CustNum": "C1003",
+    "InvoiceDate": "2026-01-19",
+    "DueDate": "2026-02-22",
+    "InvoiceAmt": 1786.61,
+    "AmountPaid": 1786.61,
+    "ChangedDate": "2026-01-14"
+  },
+  {
+    "InvoiceNum": 80394,
+    "OrderNum": 50394,
+    "CustNum": "C1004",
+    "InvoiceDate": "2026-01-11",
+    "DueDate": "2026-02-18",
+    "InvoiceAmt": 6693.08,
+    "AmountPaid": 1000.14,
+    "ChangedDate": "2026-01-10"
+  },
+  {
+    "InvoiceNum": 80395,
+    "OrderNum": 50395,
+    "CustNum": "C1000",
+    "InvoiceDate": "2026-01-18",
+    "DueDate": "2026-02-23",
+    "InvoiceAmt": 1627.02,
+    "AmountPaid": 1627.02,
+    "ChangedDate": "2026-01-15"
+  },
+  {
+    "InvoiceNum": 80396,
+    "OrderNum": 50396,
+    "CustNum": "C1000",
+    "InvoiceDate": "2026-01-03",
+    "DueDate": "2026-02-10",
+    "InvoiceAmt": 5181.15,
+    "AmountPaid": 5181.15,
+    "ChangedDate": "2026-01-02"
+  },
+  {
+    "InvoiceNum": 80397,
+    "OrderNum": 50397,
+    "CustNum": "C1001",
+    "InvoiceDate": "2026-01-29",
+    "DueDate": "2026-03-09",
+    "InvoiceAmt": 1355.53,
+    "AmountPaid": 1355.53,
+    "ChangedDate": "2026-01-29"
+  },
+  {
+    "InvoiceNum": 80398,
+    "OrderNum": 50398,
+    "CustNum": "C1006",
+    "InvoiceDate": "2026-01-17",
+    "DueDate": "2026-02-22",
+    "InvoiceAmt": 125.63,
+    "AmountPaid": 71.1,
+    "ChangedDate": "2026-01-14"
+  },
+  {
+    "InvoiceNum": 80399,
+    "OrderNum": 50399,
+    "CustNum": "C1006",
+    "InvoiceDate": "2026-01-08",
+    "DueDate": "2026-02-15",
+    "InvoiceAmt": 1576.75,
+    "AmountPaid": 1576.75,
+    "ChangedDate": "2026-01-07"
+  },
+  {
+    "InvoiceNum": 80400,
+    "OrderNum": 50400,
+    "CustNum": "C1007",
+    "InvoiceDate": "2026-01-31",
+    "DueDate": "2026-03-04",
+    "InvoiceAmt": 44.75,
+    "AmountPaid": 44.75,
+    "ChangedDate": "2026-01-24"
+  },
+  {
+    "InvoiceNum": 80401,
+    "OrderNum": 50401,
+    "CustNum": "C1000",
+    "InvoiceDate": "2026-01-23",
+    "DueDate": "2026-02-25",
+    "InvoiceAmt": 220.25,
+    "AmountPaid": 32.61,
+    "ChangedDate": "2026-01-17"
+  },
+  {
+    "InvoiceNum": 80402,
+    "OrderNum": 50402,
+    "CustNum": "C1000",
+    "InvoiceDate": "2026-01-19",
+    "DueDate": "2026-02-26",
+    "InvoiceAmt": 2435.12,
+    "AmountPaid": 1293.13,
+    "ChangedDate": "2026-01-18"
+  },
+  {
+    "InvoiceNum": 80403,
+    "OrderNum": 50403,
+    "CustNum": "C1005",
+    "InvoiceDate": "2026-01-19",
+    "DueDate": "2026-02-27",
+    "InvoiceAmt": 1297.13,
+    "AmountPaid": 1297.13,
+    "ChangedDate": "2026-01-19"
+  },
+  {
+    "InvoiceNum": 80404,
+    "OrderNum": 50404,
+    "CustNum": "C1006",
+    "InvoiceDate": "2026-01-30",
+    "DueDate": "2026-03-03",
+    "InvoiceAmt": 823.24,
+    "AmountPaid": 823.24,
+    "ChangedDate": "2026-01-23"
+  },
+  {
+    "InvoiceNum": 80405,
+    "OrderNum": 50405,
+    "CustNum": "C1006",
+    "InvoiceDate": "2026-01-04",
+    "DueDate": "2026-02-12",
+    "InvoiceAmt": 2896.19,
+    "AmountPaid": 287.35,
+    "ChangedDate": "2026-01-04"
+  },
+  {
+    "InvoiceNum": 80406,
+    "OrderNum": 50406,
+    "CustNum": "C1007",
+    "InvoiceDate": "2026-01-30",
+    "DueDate": "2026-03-01",
+    "InvoiceAmt": 97.95,
+    "AmountPaid": 97.95,
+    "ChangedDate": "2026-01-21"
+  },
+  {
+    "InvoiceNum": 80407,
+    "OrderNum": 50407,
+    "CustNum": "C1001",
+    "InvoiceDate": "2026-01-31",
+    "DueDate": "2026-03-08",
+    "InvoiceAmt": 2628.6,
+    "AmountPaid": 1607.77,
+    "ChangedDate": "2026-01-28"
+  },
+  {
+    "InvoiceNum": 80408,
+    "OrderNum": 50408,
+    "CustNum": "C1002",
+    "InvoiceDate": "2026-02-18",
+    "DueDate": "2026-03-23",
+    "InvoiceAmt": 1050.72,
+    "AmountPaid": 1050.72,
+    "ChangedDate": "2026-02-12"
+  },
+  {
+    "InvoiceNum": 80409,
+    "OrderNum": 50409,
+    "CustNum": "C1002",
+    "InvoiceDate": "2026-03-03",
+    "DueDate": "2026-04-04",
+    "InvoiceAmt": 1493.52,
+    "AmountPaid": 1493.52,
+    "ChangedDate": "2026-02-24"
+  },
+  {
+    "InvoiceNum": 80410,
+    "OrderNum": 50410,
+    "CustNum": "C1001",
+    "InvoiceDate": "2026-02-10",
+    "DueDate": "2026-03-13",
+    "InvoiceAmt": 1025.65,
+    "AmountPaid": 641.19,
+    "ChangedDate": "2026-02-02"
+  },
+  {
+    "InvoiceNum": 80411,
+    "OrderNum": 50411,
+    "CustNum": "C1007",
+    "InvoiceDate": "2026-02-18",
+    "DueDate": "2026-03-26",
+    "InvoiceAmt": 559.73,
+    "AmountPaid": 21.06,
+    "ChangedDate": "2026-02-15"
+  },
+  {
+    "InvoiceNum": 80412,
+    "OrderNum": 50412,
+    "CustNum": "C1003",
+    "InvoiceDate": "2026-02-05",
+    "DueDate": "2026-03-16",
+    "InvoiceAmt": 6241.98,
+    "AmountPaid": 6241.98,
+    "ChangedDate": "2026-02-05"
+  },
+  {
+    "InvoiceNum": 80413,
+    "OrderNum": 50413,
+    "CustNum": "C1000",
+    "InvoiceDate": "2026-02-23",
+    "DueDate": "2026-04-02",
+    "InvoiceAmt": 4550.02,
+    "AmountPaid": 4550.02,
+    "ChangedDate": "2026-02-22"
+  },
+  {
+    "InvoiceNum": 80414,
+    "OrderNum": 50414,
+    "CustNum": "C1001",
+    "InvoiceDate": "2026-02-16",
+    "DueDate": "2026-03-20",
+    "InvoiceAmt": 2059.3,
+    "AmountPaid": 2059.3,
+    "ChangedDate": "2026-02-09"
+  },
+  {
+    "InvoiceNum": 80415,
+    "OrderNum": 50415,
+    "CustNum": "C1007",
+    "InvoiceDate": "2026-02-07",
+    "DueDate": "2026-03-14",
+    "InvoiceAmt": 6753.2,
+    "AmountPaid": 6753.2,
+    "ChangedDate": "2026-02-03"
+  },
+  {
+    "InvoiceNum": 80416,
+    "OrderNum": 50416,
+    "CustNum": "C1003",
+    "InvoiceDate": "2026-02-19",
+    "DueDate": "2026-03-23",
+    "InvoiceAmt": 160.2,
+    "AmountPaid": 105.63,
+    "ChangedDate": "2026-02-12"
+  },
+  {
+    "InvoiceNum": 80417,
+    "OrderNum": 50417,
+    "CustNum": "C1006",
+    "InvoiceDate": "2026-02-08",
+    "DueDate": "2026-03-18",
+    "InvoiceAmt": 1926.98,
+    "AmountPaid": 1926.98,
+    "ChangedDate": "2026-02-07"
+  },
+  {
+    "InvoiceNum": 80418,
+    "OrderNum": 50418,
+    "CustNum": "C1006",
+    "InvoiceDate": "2026-03-10",
+    "DueDate": "2026-04-09",
+    "InvoiceAmt": 4292.98,
+    "AmountPaid": 4292.98,
+    "ChangedDate": "2026-03-01"
+  },
+  {
+    "InvoiceNum": 80419,
+    "OrderNum": 50419,
+    "CustNum": "C1002",
+    "InvoiceDate": "2026-02-24",
+    "DueDate": "2026-03-31",
+    "InvoiceAmt": 797.11,
+    "AmountPaid": 797.11,
+    "ChangedDate": "2026-02-20"
+  },
+  {
+    "InvoiceNum": 80420,
+    "OrderNum": 50420,
+    "CustNum": "C1003",
+    "InvoiceDate": "2026-03-03",
+    "DueDate": "2026-04-02",
+    "InvoiceAmt": 1421.4,
+    "AmountPaid": 1421.4,
+    "ChangedDate": "2026-02-22"
+  },
+  {
+    "InvoiceNum": 80421,
+    "OrderNum": 50421,
+    "CustNum": "C1000",
+    "InvoiceDate": "2026-02-21",
+    "DueDate": "2026-03-27",
+    "InvoiceAmt": 505.52,
+    "AmountPaid": 505.52,
+    "ChangedDate": "2026-02-16"
+  },
+  {
+    "InvoiceNum": 80422,
+    "OrderNum": 50422,
+    "CustNum": "C1000",
+    "InvoiceDate": "2026-02-11",
+    "DueDate": "2026-03-22",
+    "InvoiceAmt": 1142.62,
+    "AmountPaid": 1142.62,
+    "ChangedDate": "2026-02-11"
+  },
+  {
+    "InvoiceNum": 80423,
+    "OrderNum": 50423,
+    "CustNum": "C1005",
+    "InvoiceDate": "2026-02-14",
+    "DueDate": "2026-03-24",
+    "InvoiceAmt": 1161.09,
+    "AmountPaid": 1161.09,
+    "ChangedDate": "2026-02-13"
+  },
+  {
+    "InvoiceNum": 80424,
+    "OrderNum": 50424,
+    "CustNum": "C1007",
+    "InvoiceDate": "2026-03-04",
+    "DueDate": "2026-04-05",
+    "InvoiceAmt": 1275.32,
+    "AmountPaid": 1275.32,
+    "ChangedDate": "2026-02-25"
+  },
+  {
+    "InvoiceNum": 80425,
+    "OrderNum": 50425,
+    "CustNum": "C1007",
+    "InvoiceDate": "2026-02-20",
+    "DueDate": "2026-03-29",
+    "InvoiceAmt": 681.11,
+    "AmountPaid": 681.11,
+    "ChangedDate": "2026-02-18"
+  },
+  {
+    "InvoiceNum": 80426,
+    "OrderNum": 50426,
+    "CustNum": "C1007",
+    "InvoiceDate": "2026-02-08",
+    "DueDate": "2026-03-17",
+    "InvoiceAmt": 186.84,
+    "AmountPaid": 186.84,
+    "ChangedDate": "2026-02-06"
+  },
+  {
+    "InvoiceNum": 80427,
+    "OrderNum": 50427,
+    "CustNum": "C1007",
+    "InvoiceDate": "2026-02-17",
+    "DueDate": "2026-03-24",
+    "InvoiceAmt": 7335.31,
+    "AmountPaid": 3710.98,
+    "ChangedDate": "2026-02-13"
+  },
+  {
+    "InvoiceNum": 80428,
+    "OrderNum": 50428,
+    "CustNum": "C1002",
+    "InvoiceDate": "2026-03-01",
+    "DueDate": "2026-04-07",
+    "InvoiceAmt": 1681.34,
+    "AmountPaid": 1681.34,
+    "ChangedDate": "2026-02-27"
+  },
+  {
+    "InvoiceNum": 80429,
+    "OrderNum": 50429,
+    "CustNum": "C1002",
+    "InvoiceDate": "2026-02-26",
+    "DueDate": "2026-04-04",
+    "InvoiceAmt": 1462.81,
+    "AmountPaid": 679.98,
+    "ChangedDate": "2026-02-24"
+  },
+  {
+    "InvoiceNum": 80430,
+    "OrderNum": 50430,
+    "CustNum": "C1003",
+    "InvoiceDate": "2026-02-24",
+    "DueDate": "2026-03-30",
+    "InvoiceAmt": 3072.5,
+    "AmountPaid": 3072.5,
+    "ChangedDate": "2026-02-19"
+  },
+  {
+    "InvoiceNum": 80431,
+    "OrderNum": 50431,
+    "CustNum": "C1002",
+    "InvoiceDate": "2026-02-04",
+    "DueDate": "2026-03-13",
+    "InvoiceAmt": 3137.74,
+    "AmountPaid": 3137.74,
+    "ChangedDate": "2026-02-02"
+  },
+  {
+    "InvoiceNum": 80432,
+    "OrderNum": 50432,
+    "CustNum": "C1001",
+    "InvoiceDate": "2026-02-18",
+    "DueDate": "2026-03-22",
+    "InvoiceAmt": 9535.45,
+    "AmountPaid": 9535.45,
+    "ChangedDate": "2026-02-11"
+  },
+  {
+    "InvoiceNum": 80433,
+    "OrderNum": 50433,
+    "CustNum": "C1005",
+    "InvoiceDate": "2026-02-28",
+    "DueDate": "2026-04-01",
+    "InvoiceAmt": 1505.16,
+    "AmountPaid": 1505.16,
+    "ChangedDate": "2026-02-21"
+  },
+  {
+    "InvoiceNum": 80434,
+    "OrderNum": 50434,
+    "CustNum": "C1006",
+    "InvoiceDate": "2026-03-05",
+    "DueDate": "2026-04-07",
+    "InvoiceAmt": 1498.7,
+    "AmountPaid": 940.51,
+    "ChangedDate": "2026-02-27"
+  },
+  {
+    "InvoiceNum": 80435,
+    "OrderNum": 50435,
+    "CustNum": "C1001",
+    "InvoiceDate": "2026-02-11",
+    "DueDate": "2026-03-13",
+    "InvoiceAmt": 1263.79,
+    "AmountPaid": 1263.79,
+    "ChangedDate": "2026-02-02"
+  },
+  {
+    "InvoiceNum": 80436,
+    "OrderNum": 50436,
+    "CustNum": "C1004",
+    "InvoiceDate": "2026-02-23",
+    "DueDate": "2026-03-28",
+    "InvoiceAmt": 554.73,
+    "AmountPaid": 554.73,
+    "ChangedDate": "2026-02-17"
+  },
+  {
+    "InvoiceNum": 80437,
+    "OrderNum": 50437,
+    "CustNum": "C1002",
+    "InvoiceDate": "2026-02-26",
+    "DueDate": "2026-03-28",
+    "InvoiceAmt": 190.26,
+    "AmountPaid": 190.26,
+    "ChangedDate": "2026-02-17"
+  },
+  {
+    "InvoiceNum": 80438,
+    "OrderNum": 50438,
+    "CustNum": "C1005",
+    "InvoiceDate": "2026-02-25",
+    "DueDate": "2026-03-31",
+    "InvoiceAmt": 1761.49,
+    "AmountPaid": 1761.49,
+    "ChangedDate": "2026-02-20"
+  },
+  {
+    "InvoiceNum": 80439,
+    "OrderNum": 50439,
+    "CustNum": "C1006",
+    "InvoiceDate": "2026-03-02",
+    "DueDate": "2026-04-02",
+    "InvoiceAmt": 136.42,
+    "AmountPaid": 136.42,
+    "ChangedDate": "2026-02-22"
+  },
+  {
+    "InvoiceNum": 80440,
+    "OrderNum": 50440,
+    "CustNum": "C1003",
+    "InvoiceDate": "2026-03-02",
+    "DueDate": "2026-04-06",
+    "InvoiceAmt": 1636.6,
+    "AmountPaid": 1636.6,
+    "ChangedDate": "2026-02-26"
+  },
+  {
+    "InvoiceNum": 80441,
+    "OrderNum": 50441,
+    "CustNum": "C1004",
+    "InvoiceDate": "2026-02-28",
+    "DueDate": "2026-04-03",
+    "InvoiceAmt": 269.7,
+    "AmountPaid": 269.7,
+    "ChangedDate": "2026-02-23"
+  },
+  {
+    "InvoiceNum": 80442,
+    "OrderNum": 50442,
+    "CustNum": "C1007",
+    "InvoiceDate": "2026-02-23",
+    "DueDate": "2026-03-26",
+    "InvoiceAmt": 4944.72,
+    "AmountPaid": 4944.72,
+    "ChangedDate": "2026-02-15"
+  },
+  {
+    "InvoiceNum": 80443,
+    "OrderNum": 50443,
+    "CustNum": "C1001",
+    "InvoiceDate": "2026-02-19",
+    "DueDate": "2026-03-26",
+    "InvoiceAmt": 91.71,
+    "AmountPaid": 91.71,
+    "ChangedDate": "2026-02-15"
+  },
+  {
+    "InvoiceNum": 80444,
+    "OrderNum": 50444,
+    "CustNum": "C1005",
+    "InvoiceDate": "2026-02-07",
+    "DueDate": "2026-03-17",
+    "InvoiceAmt": 4903.4,
+    "AmountPaid": 4903.4,
+    "ChangedDate": "2026-02-06"
+  },
+  {
+    "InvoiceNum": 80445,
+    "OrderNum": 50445,
+    "CustNum": "C1006",
+    "InvoiceDate": "2026-02-25",
+    "DueDate": "2026-04-04",
+    "InvoiceAmt": 261.95,
+    "AmountPaid": 261.95,
+    "ChangedDate": "2026-02-24"
+  },
+  {
+    "InvoiceNum": 80446,
+    "OrderNum": 50446,
+    "CustNum": "C1000",
+    "InvoiceDate": "2026-03-03",
+    "DueDate": "2026-04-07",
+    "InvoiceAmt": 5235.58,
+    "AmountPaid": 5235.58,
+    "ChangedDate": "2026-02-27"
+  },
+  {
+    "InvoiceNum": 80447,
+    "OrderNum": 50447,
+    "CustNum": "C1005",
+    "InvoiceDate": "2026-02-21",
+    "DueDate": "2026-03-24",
+    "InvoiceAmt": 1751.56,
+    "AmountPaid": 1751.56,
+    "ChangedDate": "2026-02-13"
+  },
+  {
+    "InvoiceNum": 80448,
+    "OrderNum": 50448,
+    "CustNum": "C1000",
+    "InvoiceDate": "2026-03-03",
+    "DueDate": "2026-04-05",
+    "InvoiceAmt": 1754.76,
+    "AmountPaid": 915.98,
+    "ChangedDate": "2026-02-25"
+  },
+  {
+    "InvoiceNum": 80449,
+    "OrderNum": 50449,
+    "CustNum": "C1003",
+    "InvoiceDate": "2026-02-25",
+    "DueDate": "2026-03-29",
+    "InvoiceAmt": 1937.69,
+    "AmountPaid": 944.65,
+    "ChangedDate": "2026-02-18"
+  },
+  {
+    "InvoiceNum": 80450,
+    "OrderNum": 50450,
+    "CustNum": "C1003",
+    "InvoiceDate": "2026-02-20",
+    "DueDate": "2026-03-30",
+    "InvoiceAmt": 2663.61,
+    "AmountPaid": 2663.61,
+    "ChangedDate": "2026-02-19"
+  },
+  {
+    "InvoiceNum": 80451,
+    "OrderNum": 50451,
+    "CustNum": "C1001",
+    "InvoiceDate": "2026-02-12",
+    "DueDate": "2026-03-17",
+    "InvoiceAmt": 879.79,
+    "AmountPaid": 879.79,
+    "ChangedDate": "2026-02-06"
+  },
+  {
+    "InvoiceNum": 80452,
+    "OrderNum": 50452,
+    "CustNum": "C1005",
+    "InvoiceDate": "2026-02-23",
+    "DueDate": "2026-03-28",
+    "InvoiceAmt": 728.84,
+    "AmountPaid": 107.02,
+    "ChangedDate": "2026-02-17"
+  },
+  {
+    "InvoiceNum": 80453,
+    "OrderNum": 50453,
+    "CustNum": "C1005",
+    "InvoiceDate": "2026-02-09",
+    "DueDate": "2026-03-17",
+    "InvoiceAmt": 350.88,
+    "AmountPaid": 166.93,
+    "ChangedDate": "2026-02-06"
+  },
+  {
+    "InvoiceNum": 80454,
+    "OrderNum": 50454,
+    "CustNum": "C1004",
+    "InvoiceDate": "2026-02-27",
+    "DueDate": "2026-04-03",
+    "InvoiceAmt": 2698.72,
+    "AmountPaid": 2698.72,
+    "ChangedDate": "2026-02-23"
+  },
+  {
+    "InvoiceNum": 80455,
+    "OrderNum": 50455,
+    "CustNum": "C1002",
+    "InvoiceDate": "2026-02-24",
+    "DueDate": "2026-03-28",
+    "InvoiceAmt": 2630.05,
+    "AmountPaid": 2630.05,
+    "ChangedDate": "2026-02-17"
+  },
+  {
+    "InvoiceNum": 80456,
+    "OrderNum": 50456,
+    "CustNum": "C1002",
+    "InvoiceDate": "2026-02-23",
+    "DueDate": "2026-03-29",
+    "InvoiceAmt": 996.35,
+    "AmountPaid": 996.35,
+    "ChangedDate": "2026-02-18"
+  },
+  {
+    "InvoiceNum": 80457,
+    "OrderNum": 50457,
+    "CustNum": "C1006",
+    "InvoiceDate": "2026-02-21",
+    "DueDate": "2026-03-24",
+    "InvoiceAmt": 2341.84,
+    "AmountPaid": 2341.84,
+    "ChangedDate": "2026-02-13"
+  },
+  {
+    "InvoiceNum": 80458,
+    "OrderNum": 50458,
+    "CustNum": "C1005",
+    "InvoiceDate": "2026-02-08",
+    "DueDate": "2026-03-14",
+    "InvoiceAmt": 2062.49,
+    "AmountPaid": 2062.49,
+    "ChangedDate": "2026-02-03"
+  },
+  {
+    "InvoiceNum": 80459,
+    "OrderNum": 50459,
+    "CustNum": "C1002",
+    "InvoiceDate": "2026-02-22",
+    "DueDate": "2026-04-01",
+    "InvoiceAmt": 1133.82,
+    "AmountPaid": 1133.82,
+    "ChangedDate": "2026-02-21"
+  },
+  {
+    "InvoiceNum": 80460,
+    "OrderNum": 50460,
+    "CustNum": "C1001",
+    "InvoiceDate": "2026-02-28",
+    "DueDate": "2026-03-31",
+    "InvoiceAmt": 3627.46,
+    "AmountPaid": 1267.4,
+    "ChangedDate": "2026-02-20"
+  },
+  {
+    "InvoiceNum": 80461,
+    "OrderNum": 50461,
+    "CustNum": "C1005",
+    "InvoiceDate": "2026-02-17",
+    "DueDate": "2026-03-19",
+    "InvoiceAmt": 3282.54,
+    "AmountPaid": 3282.54,
+    "ChangedDate": "2026-02-08"
+  },
+  {
+    "InvoiceNum": 80462,
+    "OrderNum": 50462,
+    "CustNum": "C1006",
+    "InvoiceDate": "2026-02-21",
+    "DueDate": "2026-03-31",
+    "InvoiceAmt": 1003.4,
+    "AmountPaid": 1003.4,
+    "ChangedDate": "2026-02-20"
+  },
+  {
+    "InvoiceNum": 80463,
+    "OrderNum": 50463,
+    "CustNum": "C1003",
+    "InvoiceDate": "2026-03-07",
+    "DueDate": "2026-04-09",
+    "InvoiceAmt": 3395.25,
+    "AmountPaid": 3395.25,
+    "ChangedDate": "2026-03-01"
+  },
+  {
+    "InvoiceNum": 80464,
+    "OrderNum": 50464,
+    "CustNum": "C1006",
+    "InvoiceDate": "2026-03-01",
+    "DueDate": "2026-04-02",
+    "InvoiceAmt": 1120.68,
+    "AmountPaid": 1120.68,
+    "ChangedDate": "2026-02-22"
+  },
+  {
+    "InvoiceNum": 80465,
+    "OrderNum": 50465,
+    "CustNum": "C1001",
+    "InvoiceDate": "2026-03-15",
+    "DueDate": "2026-04-22",
+    "InvoiceAmt": 605.99,
+    "AmountPaid": 605.99,
+    "ChangedDate": "2026-03-14"
+  },
+  {
+    "InvoiceNum": 80466,
+    "OrderNum": 50466,
+    "CustNum": "C1005",
+    "InvoiceDate": "2026-03-12",
+    "DueDate": "2026-04-20",
+    "InvoiceAmt": 749.95,
+    "AmountPaid": 749.95,
+    "ChangedDate": "2026-03-12"
+  },
+  {
+    "InvoiceNum": 80467,
+    "OrderNum": 50467,
+    "CustNum": "C1007",
+    "InvoiceDate": "2026-03-23",
+    "DueDate": "2026-04-27",
+    "InvoiceAmt": 912.8,
+    "AmountPaid": 912.8,
+    "ChangedDate": "2026-03-19"
+  },
+  {
+    "InvoiceNum": 80468,
+    "OrderNum": 50468,
+    "CustNum": "C1002",
+    "InvoiceDate": "2026-03-18",
+    "DueDate": "2026-04-21",
+    "InvoiceAmt": 2322.99,
+    "AmountPaid": 2322.99,
+    "ChangedDate": "2026-03-13"
+  },
+  {
+    "InvoiceNum": 80469,
+    "OrderNum": 50469,
+    "CustNum": "C1001",
+    "InvoiceDate": "2026-03-25",
+    "DueDate": "2026-04-27",
+    "InvoiceAmt": 4343.49,
+    "AmountPaid": 4343.49,
+    "ChangedDate": "2026-03-19"
+  },
+  {
+    "InvoiceNum": 80470,
+    "OrderNum": 50470,
+    "CustNum": "C1000",
+    "InvoiceDate": "2026-03-12",
+    "DueDate": "2026-04-18",
+    "InvoiceAmt": 3064.32,
+    "AmountPaid": 3064.32,
+    "ChangedDate": "2026-03-10"
+  },
+  {
+    "InvoiceNum": 80471,
+    "OrderNum": 50471,
+    "CustNum": "C1007",
+    "InvoiceDate": "2026-03-28",
+    "DueDate": "2026-05-05",
+    "InvoiceAmt": 481.52,
+    "AmountPaid": 481.52,
+    "ChangedDate": "2026-03-27"
+  },
+  {
+    "InvoiceNum": 80472,
+    "OrderNum": 50472,
+    "CustNum": "C1001",
+    "InvoiceDate": "2026-03-12",
+    "DueDate": "2026-04-15",
+    "InvoiceAmt": 1594.0,
+    "AmountPaid": 486.35,
+    "ChangedDate": "2026-03-07"
+  },
+  {
+    "InvoiceNum": 80473,
+    "OrderNum": 50473,
+    "CustNum": "C1004",
+    "InvoiceDate": "2026-03-12",
+    "DueDate": "2026-04-16",
+    "InvoiceAmt": 1532.94,
+    "AmountPaid": 1532.94,
+    "ChangedDate": "2026-03-08"
+  },
+  {
+    "InvoiceNum": 80474,
+    "OrderNum": 50474,
+    "CustNum": "C1002",
+    "InvoiceDate": "2026-03-07",
+    "DueDate": "2026-04-12",
+    "InvoiceAmt": 2292.61,
+    "AmountPaid": 2292.61,
+    "ChangedDate": "2026-03-04"
+  },
+  {
+    "InvoiceNum": 80475,
+    "OrderNum": 50475,
+    "CustNum": "C1004",
+    "InvoiceDate": "2026-03-18",
+    "DueDate": "2026-04-19",
+    "InvoiceAmt": 2557.83,
+    "AmountPaid": 2557.83,
+    "ChangedDate": "2026-03-11"
+  },
+  {
+    "InvoiceNum": 80476,
+    "OrderNum": 50476,
+    "CustNum": "C1001",
+    "InvoiceDate": "2026-03-02",
+    "DueDate": "2026-04-10",
+    "InvoiceAmt": 2153.32,
+    "AmountPaid": 2153.32,
+    "ChangedDate": "2026-03-02"
+  },
+  {
+    "InvoiceNum": 80477,
+    "OrderNum": 50477,
+    "CustNum": "C1000",
+    "InvoiceDate": "2026-03-19",
+    "DueDate": "2026-04-20",
+    "InvoiceAmt": 1504.31,
+    "AmountPaid": 1504.31,
+    "ChangedDate": "2026-03-12"
+  },
+  {
+    "InvoiceNum": 80478,
+    "OrderNum": 50478,
+    "CustNum": "C1005",
+    "InvoiceDate": "2026-03-21",
+    "DueDate": "2026-04-24",
+    "InvoiceAmt": 886.04,
+    "AmountPaid": 886.04,
+    "ChangedDate": "2026-03-16"
+  },
+  {
+    "InvoiceNum": 80479,
+    "OrderNum": 50479,
+    "CustNum": "C1000",
+    "InvoiceDate": "2026-03-13",
+    "DueDate": "2026-04-14",
+    "InvoiceAmt": 1798.66,
+    "AmountPaid": 1798.66,
+    "ChangedDate": "2026-03-06"
+  },
+  {
+    "InvoiceNum": 80480,
+    "OrderNum": 50480,
+    "CustNum": "C1000",
+    "InvoiceDate": "2026-03-15",
+    "DueDate": "2026-04-16",
+    "InvoiceAmt": 1675.2,
+    "AmountPaid": 102.75,
+    "ChangedDate": "2026-03-08"
+  },
+  {
+    "InvoiceNum": 80481,
+    "OrderNum": 50481,
+    "CustNum": "C1006",
+    "InvoiceDate": "2026-03-12",
+    "DueDate": "2026-04-13",
+    "InvoiceAmt": 1524.9,
+    "AmountPaid": 1524.9,
+    "ChangedDate": "2026-03-05"
+  },
+  {
+    "InvoiceNum": 80482,
+    "OrderNum": 50482,
+    "CustNum": "C1007",
+    "InvoiceDate": "2026-03-07",
+    "DueDate": "2026-04-13",
+    "InvoiceAmt": 159.36,
+    "AmountPaid": 1.83,
+    "ChangedDate": "2026-03-05"
+  },
+  {
+    "InvoiceNum": 80483,
+    "OrderNum": 50483,
+    "CustNum": "C1004",
+    "InvoiceDate": "2026-03-27",
+    "DueDate": "2026-04-28",
+    "InvoiceAmt": 1200.69,
+    "AmountPaid": 1200.69,
+    "ChangedDate": "2026-03-20"
+  },
+  {
+    "InvoiceNum": 80484,
+    "OrderNum": 50484,
+    "CustNum": "C1001",
+    "InvoiceDate": "2026-03-12",
+    "DueDate": "2026-04-20",
+    "InvoiceAmt": 2556.88,
+    "AmountPaid": 1342.26,
+    "ChangedDate": "2026-03-12"
+  },
+  {
+    "InvoiceNum": 80485,
+    "OrderNum": 50485,
+    "CustNum": "C1005",
+    "InvoiceDate": "2026-03-09",
+    "DueDate": "2026-04-11",
+    "InvoiceAmt": 999.64,
+    "AmountPaid": 999.64,
+    "ChangedDate": "2026-03-03"
+  },
+  {
+    "InvoiceNum": 80486,
+    "OrderNum": 50486,
+    "CustNum": "C1001",
+    "InvoiceDate": "2026-03-06",
+    "DueDate": "2026-04-10",
+    "InvoiceAmt": 1365.66,
+    "AmountPaid": 1365.66,
+    "ChangedDate": "2026-03-02"
+  },
+  {
+    "InvoiceNum": 80487,
+    "OrderNum": 50487,
+    "CustNum": "C1002",
+    "InvoiceDate": "2026-03-19",
+    "DueDate": "2026-04-21",
+    "InvoiceAmt": 5474.42,
+    "AmountPaid": 5474.42,
+    "ChangedDate": "2026-03-13"
+  },
+  {
+    "InvoiceNum": 80488,
+    "OrderNum": 50488,
+    "CustNum": "C1001",
+    "InvoiceDate": "2026-03-03",
+    "DueDate": "2026-04-11",
+    "InvoiceAmt": 3034.85,
+    "AmountPaid": 3034.85,
+    "ChangedDate": "2026-03-03"
+  },
+  {
+    "InvoiceNum": 80489,
+    "OrderNum": 50489,
+    "CustNum": "C1001",
+    "InvoiceDate": "2026-03-07",
+    "DueDate": "2026-04-11",
+    "InvoiceAmt": 1743.24,
+    "AmountPaid": 1743.24,
+    "ChangedDate": "2026-03-03"
+  },
+  {
+    "InvoiceNum": 80490,
+    "OrderNum": 50490,
+    "CustNum": "C1005",
+    "InvoiceDate": "2026-03-27",
+    "DueDate": "2026-04-28",
+    "InvoiceAmt": 1176.66,
+    "AmountPaid": 1176.66,
+    "ChangedDate": "2026-03-20"
+  },
+  {
+    "InvoiceNum": 80491,
+    "OrderNum": 50491,
+    "CustNum": "C1006",
+    "InvoiceDate": "2026-04-01",
+    "DueDate": "2026-05-07",
+    "InvoiceAmt": 979.35,
+    "AmountPaid": 979.35,
+    "ChangedDate": "2026-03-29"
+  },
+  {
+    "InvoiceNum": 80492,
+    "OrderNum": 50492,
+    "CustNum": "C1006",
+    "InvoiceDate": "2026-03-29",
+    "DueDate": "2026-05-06",
+    "InvoiceAmt": 222.3,
+    "AmountPaid": 120.89,
+    "ChangedDate": "2026-03-28"
+  },
+  {
+    "InvoiceNum": 80493,
+    "OrderNum": 50493,
+    "CustNum": "C1002",
+    "InvoiceDate": "2026-03-15",
+    "DueDate": "2026-04-14",
+    "InvoiceAmt": 3852.11,
+    "AmountPaid": 3852.11,
+    "ChangedDate": "2026-03-06"
+  },
+  {
+    "InvoiceNum": 80494,
+    "OrderNum": 50494,
+    "CustNum": "C1004",
+    "InvoiceDate": "2026-03-08",
+    "DueDate": "2026-04-11",
+    "InvoiceAmt": 5886.36,
+    "AmountPaid": 3528.52,
+    "ChangedDate": "2026-03-03"
+  },
+  {
+    "InvoiceNum": 80495,
+    "OrderNum": 50495,
+    "CustNum": "C1007",
+    "InvoiceDate": "2026-03-31",
+    "DueDate": "2026-05-02",
+    "InvoiceAmt": 858.99,
+    "AmountPaid": 858.99,
+    "ChangedDate": "2026-03-24"
+  },
+  {
+    "InvoiceNum": 80496,
+    "OrderNum": 50496,
+    "CustNum": "C1003",
+    "InvoiceDate": "2026-03-27",
+    "DueDate": "2026-04-26",
+    "InvoiceAmt": 2368.36,
+    "AmountPaid": 2368.36,
+    "ChangedDate": "2026-03-18"
+  },
+  {
+    "InvoiceNum": 80497,
+    "OrderNum": 50497,
+    "CustNum": "C1003",
+    "InvoiceDate": "2026-03-19",
+    "DueDate": "2026-04-19",
+    "InvoiceAmt": 3159.9,
+    "AmountPaid": 3159.9,
+    "ChangedDate": "2026-03-11"
+  },
+  {
+    "InvoiceNum": 80498,
+    "OrderNum": 50498,
+    "CustNum": "C1000",
+    "InvoiceDate": "2026-03-29",
+    "DueDate": "2026-05-05",
+    "InvoiceAmt": 4760.1,
+    "AmountPaid": 4760.1,
+    "ChangedDate": "2026-03-27"
+  },
+  {
+    "InvoiceNum": 80499,
+    "OrderNum": 50499,
+    "CustNum": "C1001",
+    "InvoiceDate": "2026-03-25",
+    "DueDate": "2026-05-02",
+    "InvoiceAmt": 1272.64,
+    "AmountPaid": 1272.64,
+    "ChangedDate": "2026-03-24"
+  },
+  {
+    "InvoiceNum": 80500,
+    "OrderNum": 50500,
+    "CustNum": "C1002",
+    "InvoiceDate": "2026-03-27",
+    "DueDate": "2026-04-30",
+    "InvoiceAmt": 888.44,
+    "AmountPaid": 888.44,
+    "ChangedDate": "2026-03-22"
+  },
+  {
+    "InvoiceNum": 80501,
+    "OrderNum": 50501,
+    "CustNum": "C1006",
+    "InvoiceDate": "2026-03-18",
+    "DueDate": "2026-04-21",
+    "InvoiceAmt": 1659.45,
+    "AmountPaid": 1659.45,
+    "ChangedDate": "2026-03-13"
+  },
+  {
+    "InvoiceNum": 80502,
+    "OrderNum": 50502,
+    "CustNum": "C1000",
+    "InvoiceDate": "2026-03-18",
+    "DueDate": "2026-04-24",
+    "InvoiceAmt": 64.2,
+    "AmountPaid": 64.2,
+    "ChangedDate": "2026-03-16"
+  },
+  {
+    "InvoiceNum": 80503,
+    "OrderNum": 50503,
+    "CustNum": "C1006",
+    "InvoiceDate": "2026-03-11",
+    "DueDate": "2026-04-11",
+    "InvoiceAmt": 1767.86,
+    "AmountPaid": 1767.86,
+    "ChangedDate": "2026-03-03"
+  },
+  {
+    "InvoiceNum": 80504,
+    "OrderNum": 50504,
+    "CustNum": "C1004",
+    "InvoiceDate": "2026-03-21",
+    "DueDate": "2026-04-23",
+    "InvoiceAmt": 3362.55,
+    "AmountPaid": 3362.55,
+    "ChangedDate": "2026-03-15"
+  },
+  {
+    "InvoiceNum": 80505,
+    "OrderNum": 50505,
+    "CustNum": "C1003",
+    "InvoiceDate": "2026-03-13",
+    "DueDate": "2026-04-19",
+    "InvoiceAmt": 635.75,
+    "AmountPaid": 635.75,
+    "ChangedDate": "2026-03-11"
+  },
+  {
+    "InvoiceNum": 80506,
+    "OrderNum": 50506,
+    "CustNum": "C1004",
+    "InvoiceDate": "2026-03-13",
+    "DueDate": "2026-04-16",
+    "InvoiceAmt": 1684.23,
+    "AmountPaid": 1684.23,
+    "ChangedDate": "2026-03-08"
+  },
+  {
+    "InvoiceNum": 80507,
+    "OrderNum": 50507,
+    "CustNum": "C1004",
+    "InvoiceDate": "2026-03-22",
+    "DueDate": "2026-04-30",
+    "InvoiceAmt": 69.44,
+    "AmountPaid": 69.44,
+    "ChangedDate": "2026-03-22"
+  },
+  {
+    "InvoiceNum": 80508,
+    "OrderNum": 50508,
+    "CustNum": "C1007",
+    "InvoiceDate": "2026-03-17",
+    "DueDate": "2026-04-20",
+    "InvoiceAmt": 1677.8,
+    "AmountPaid": 1677.8,
+    "ChangedDate": "2026-03-12"
+  },
+  {
+    "InvoiceNum": 80509,
+    "OrderNum": 50509,
+    "CustNum": "C1003",
+    "InvoiceDate": "2026-04-01",
+    "DueDate": "2026-05-06",
+    "InvoiceAmt": 2557.3,
+    "AmountPaid": 2557.3,
+    "ChangedDate": "2026-03-28"
+  },
+  {
+    "InvoiceNum": 80510,
+    "OrderNum": 50510,
+    "CustNum": "C1007",
+    "InvoiceDate": "2026-03-31",
+    "DueDate": "2026-04-30",
+    "InvoiceAmt": 5089.67,
+    "AmountPaid": 5089.67,
+    "ChangedDate": "2026-03-22"
+  },
+  {
+    "InvoiceNum": 80511,
+    "OrderNum": 50511,
+    "CustNum": "C1006",
+    "InvoiceDate": "2026-03-09",
+    "DueDate": "2026-04-13",
+    "InvoiceAmt": 647.15,
+    "AmountPaid": 647.15,
+    "ChangedDate": "2026-03-05"
+  },
+  {
+    "InvoiceNum": 80512,
+    "OrderNum": 50512,
+    "CustNum": "C1004",
+    "InvoiceDate": "2026-03-15",
+    "DueDate": "2026-04-16",
+    "InvoiceAmt": 2201.97,
+    "AmountPaid": 1401.2,
+    "ChangedDate": "2026-03-08"
+  },
+  {
+    "InvoiceNum": 80513,
+    "OrderNum": 50513,
+    "CustNum": "C1007",
+    "InvoiceDate": "2026-03-14",
+    "DueDate": "2026-04-14",
+    "InvoiceAmt": 956.75,
+    "AmountPaid": 17.58,
+    "ChangedDate": "2026-03-06"
+  },
+  {
+    "InvoiceNum": 80514,
+    "OrderNum": 50514,
+    "CustNum": "C1000",
+    "InvoiceDate": "2026-03-23",
+    "DueDate": "2026-05-01",
+    "InvoiceAmt": 502.22,
+    "AmountPaid": 502.22,
+    "ChangedDate": "2026-03-23"
+  },
+  {
+    "InvoiceNum": 80515,
+    "OrderNum": 50515,
+    "CustNum": "C1003",
+    "InvoiceDate": "2026-03-29",
+    "DueDate": "2026-05-04",
+    "InvoiceAmt": 379.4,
+    "AmountPaid": 379.4,
+    "ChangedDate": "2026-03-26"
+  },
+  {
+    "InvoiceNum": 80516,
+    "OrderNum": 50516,
+    "CustNum": "C1000",
+    "InvoiceDate": "2026-04-21",
+    "DueDate": "2026-05-26",
+    "InvoiceAmt": 1493.27,
+    "AmountPaid": 1493.27,
+    "ChangedDate": "2026-04-17"
+  },
+  {
+    "InvoiceNum": 80517,
+    "OrderNum": 50517,
+    "CustNum": "C1001",
+    "InvoiceDate": "2026-04-15",
+    "DueDate": "2026-05-15",
+    "InvoiceAmt": 1464.39,
+    "AmountPaid": 1464.39,
+    "ChangedDate": "2026-04-06"
+  },
+  {
+    "InvoiceNum": 80518,
+    "OrderNum": 50518,
+    "CustNum": "C1003",
+    "InvoiceDate": "2026-04-18",
+    "DueDate": "2026-05-26",
+    "InvoiceAmt": 29.24,
+    "AmountPaid": 29.24,
+    "ChangedDate": "2026-04-17"
+  },
+  {
+    "InvoiceNum": 80519,
+    "OrderNum": 50519,
+    "CustNum": "C1007",
+    "InvoiceDate": "2026-04-04",
+    "DueDate": "2026-05-11",
+    "InvoiceAmt": 320.08,
+    "AmountPaid": 128.2,
+    "ChangedDate": "2026-04-02"
+  },
+  {
+    "InvoiceNum": 80520,
+    "OrderNum": 50520,
+    "CustNum": "C1004",
+    "InvoiceDate": "2026-04-20",
+    "DueDate": "2026-05-29",
+    "InvoiceAmt": 5393.95,
+    "AmountPaid": 5393.95,
+    "ChangedDate": "2026-04-20"
+  },
+  {
+    "InvoiceNum": 80521,
+    "OrderNum": 50521,
+    "CustNum": "C1000",
+    "InvoiceDate": "2026-04-19",
+    "DueDate": "2026-05-26",
+    "InvoiceAmt": 1077.11,
+    "AmountPaid": 1077.11,
+    "ChangedDate": "2026-04-17"
+  },
+  {
+    "InvoiceNum": 80522,
+    "OrderNum": 50522,
+    "CustNum": "C1004",
+    "InvoiceDate": "2026-04-17",
+    "DueDate": "2026-05-24",
+    "InvoiceAmt": 4414.36,
+    "AmountPaid": 4414.36,
+    "ChangedDate": "2026-04-15"
+  },
+  {
+    "InvoiceNum": 80523,
+    "OrderNum": 50523,
+    "CustNum": "C1000",
+    "InvoiceDate": "2026-04-28",
+    "DueDate": "2026-05-30",
+    "InvoiceAmt": 104.4,
+    "AmountPaid": 104.4,
+    "ChangedDate": "2026-04-21"
+  },
+  {
+    "InvoiceNum": 80524,
+    "OrderNum": 50524,
+    "CustNum": "C1006",
+    "InvoiceDate": "2026-04-25",
+    "DueDate": "2026-05-28",
+    "InvoiceAmt": 247.08,
+    "AmountPaid": 247.08,
+    "ChangedDate": "2026-04-19"
+  },
+  {
+    "InvoiceNum": 80525,
+    "OrderNum": 50525,
+    "CustNum": "C1005",
+    "InvoiceDate": "2026-04-14",
+    "DueDate": "2026-05-23",
+    "InvoiceAmt": 320.1,
+    "AmountPaid": 208.82,
+    "ChangedDate": "2026-04-14"
+  },
+  {
+    "InvoiceNum": 80526,
+    "OrderNum": 50526,
+    "CustNum": "C1003",
+    "InvoiceDate": "2026-05-04",
+    "DueDate": "2026-06-03",
+    "InvoiceAmt": 538.1,
+    "AmountPaid": 538.1,
+    "ChangedDate": "2026-04-25"
+  },
+  {
+    "InvoiceNum": 80527,
+    "OrderNum": 50527,
+    "CustNum": "C1003",
+    "InvoiceDate": "2026-04-10",
+    "DueDate": "2026-05-11",
+    "InvoiceAmt": 6074.23,
+    "AmountPaid": 6074.23,
+    "ChangedDate": "2026-04-02"
+  },
+  {
+    "InvoiceNum": 80528,
+    "OrderNum": 50528,
+    "CustNum": "C1004",
+    "InvoiceDate": "2026-04-13",
+    "DueDate": "2026-05-17",
+    "InvoiceAmt": 305.81,
+    "AmountPaid": 305.81,
+    "ChangedDate": "2026-04-08"
+  },
+  {
+    "InvoiceNum": 80529,
+    "OrderNum": 50529,
+    "CustNum": "C1000",
+    "InvoiceDate": "2026-05-01",
+    "DueDate": "2026-06-03",
+    "InvoiceAmt": 193.86,
+    "AmountPaid": 193.86,
+    "ChangedDate": "2026-04-25"
+  },
+  {
+    "InvoiceNum": 80530,
+    "OrderNum": 50530,
+    "CustNum": "C1003",
+    "InvoiceDate": "2026-04-15",
+    "DueDate": "2026-05-21",
+    "InvoiceAmt": 3619.56,
+    "AmountPaid": 3619.56,
+    "ChangedDate": "2026-04-12"
+  },
+  {
+    "InvoiceNum": 80531,
+    "OrderNum": 50531,
+    "CustNum": "C1002",
+    "InvoiceDate": "2026-04-21",
+    "DueDate": "2026-05-21",
+    "InvoiceAmt": 21.16,
+    "AmountPaid": 21.16,
+    "ChangedDate": "2026-04-12"
+  },
+  {
+    "InvoiceNum": 80532,
+    "OrderNum": 50532,
+    "CustNum": "C1005",
+    "InvoiceDate": "2026-04-29",
+    "DueDate": "2026-06-06",
+    "InvoiceAmt": 524.35,
+    "AmountPaid": 84.78,
+    "ChangedDate": "2026-04-28"
+  },
+  {
+    "InvoiceNum": 80533,
+    "OrderNum": 50533,
+    "CustNum": "C1007",
+    "InvoiceDate": "2026-04-26",
+    "DueDate": "2026-06-04",
+    "InvoiceAmt": 1284.14,
+    "AmountPaid": 1284.14,
+    "ChangedDate": "2026-04-26"
+  },
+  {
+    "InvoiceNum": 80534,
+    "OrderNum": 50534,
+    "CustNum": "C1000",
+    "InvoiceDate": "2026-04-12",
+    "DueDate": "2026-05-20",
+    "InvoiceAmt": 1163.56,
+    "AmountPaid": 96.41,
+    "ChangedDate": "2026-04-11"
+  },
+  {
+    "InvoiceNum": 80535,
+    "OrderNum": 50535,
+    "CustNum": "C1001",
+    "InvoiceDate": "2026-04-02",
+    "DueDate": "2026-05-11",
+    "InvoiceAmt": 2398.86,
+    "AmountPaid": 2398.86,
+    "ChangedDate": "2026-04-02"
+  },
+  {
+    "InvoiceNum": 80536,
+    "OrderNum": 50536,
+    "CustNum": "C1002",
+    "InvoiceDate": "2026-04-13",
+    "DueDate": "2026-05-20",
+    "InvoiceAmt": 1741.85,
+    "AmountPaid": 1741.85,
+    "ChangedDate": "2026-04-11"
+  },
+  {
+    "InvoiceNum": 80537,
+    "OrderNum": 50537,
+    "CustNum": "C1000",
+    "InvoiceDate": "2026-04-10",
+    "DueDate": "2026-05-18",
+    "InvoiceAmt": 4710.81,
+    "AmountPaid": 4710.81,
+    "ChangedDate": "2026-04-09"
+  },
+  {
+    "InvoiceNum": 80538,
+    "OrderNum": 50538,
+    "CustNum": "C1007",
+    "InvoiceDate": "2026-05-05",
+    "DueDate": "2026-06-05",
+    "InvoiceAmt": 3843.41,
+    "AmountPaid": 3843.41,
+    "ChangedDate": "2026-04-27"
+  },
+  {
+    "InvoiceNum": 80539,
+    "OrderNum": 50539,
+    "CustNum": "C1001",
+    "InvoiceDate": "2026-04-07",
+    "DueDate": "2026-05-15",
+    "InvoiceAmt": 5757.38,
+    "AmountPaid": 5757.38,
+    "ChangedDate": "2026-04-06"
+  },
+  {
+    "InvoiceNum": 80540,
+    "OrderNum": 50540,
+    "CustNum": "C1000",
+    "InvoiceDate": "2026-05-03",
+    "DueDate": "2026-06-06",
+    "InvoiceAmt": 4173.81,
+    "AmountPaid": 941.96,
+    "ChangedDate": "2026-04-28"
+  },
+  {
+    "InvoiceNum": 80541,
+    "OrderNum": 50541,
+    "CustNum": "C1005",
+    "InvoiceDate": "2026-04-25",
+    "DueDate": "2026-05-30",
+    "InvoiceAmt": 416.2,
+    "AmountPaid": 7.47,
+    "ChangedDate": "2026-04-21"
+  },
+  {
+    "InvoiceNum": 80542,
+    "OrderNum": 50542,
+    "CustNum": "C1002",
+    "InvoiceDate": "2026-05-07",
+    "DueDate": "2026-06-07",
+    "InvoiceAmt": 1854.13,
+    "AmountPaid": 999.42,
+    "ChangedDate": "2026-04-29"
+  },
+  {
+    "InvoiceNum": 80543,
+    "OrderNum": 50543,
+    "CustNum": "C1005",
+    "InvoiceDate": "2026-04-26",
+    "DueDate": "2026-05-26",
+    "InvoiceAmt": 2804.59,
+    "AmountPaid": 1213.46,
+    "ChangedDate": "2026-04-17"
+  },
+  {
+    "InvoiceNum": 80544,
+    "OrderNum": 50544,
+    "CustNum": "C1000",
+    "InvoiceDate": "2026-04-12",
+    "DueDate": "2026-05-17",
+    "InvoiceAmt": 2540.39,
+    "AmountPaid": 2540.39,
+    "ChangedDate": "2026-04-08"
+  },
+  {
+    "InvoiceNum": 80545,
+    "OrderNum": 50545,
+    "CustNum": "C1001",
+    "InvoiceDate": "2026-04-11",
+    "DueDate": "2026-05-15",
+    "InvoiceAmt": 6586.76,
+    "AmountPaid": 6586.76,
+    "ChangedDate": "2026-04-06"
+  },
+  {
+    "InvoiceNum": 80546,
+    "OrderNum": 50546,
+    "CustNum": "C1004",
+    "InvoiceDate": "2026-04-15",
+    "DueDate": "2026-05-23",
+    "InvoiceAmt": 1251.99,
+    "AmountPaid": 1251.99,
+    "ChangedDate": "2026-04-14"
+  },
+  {
+    "InvoiceNum": 80547,
+    "OrderNum": 50547,
+    "CustNum": "C1004",
+    "InvoiceDate": "2026-04-12",
+    "DueDate": "2026-05-18",
+    "InvoiceAmt": 263.28,
+    "AmountPaid": 135.3,
+    "ChangedDate": "2026-04-09"
+  },
+  {
+    "InvoiceNum": 80548,
+    "OrderNum": 50548,
+    "CustNum": "C1005",
+    "InvoiceDate": "2026-04-10",
+    "DueDate": "2026-05-19",
+    "InvoiceAmt": 5679.98,
+    "AmountPaid": 5679.98,
+    "ChangedDate": "2026-04-10"
+  },
+  {
+    "InvoiceNum": 80549,
+    "OrderNum": 50549,
+    "CustNum": "C1007",
+    "InvoiceDate": "2026-04-25",
+    "DueDate": "2026-05-31",
+    "InvoiceAmt": 12294.68,
+    "AmountPaid": 12294.68,
+    "ChangedDate": "2026-04-22"
+  },
+  {
+    "InvoiceNum": 80550,
+    "OrderNum": 50550,
+    "CustNum": "C1007",
+    "InvoiceDate": "2026-04-22",
+    "DueDate": "2026-05-25",
+    "InvoiceAmt": 2312.47,
+    "AmountPaid": 2312.47,
+    "ChangedDate": "2026-04-16"
+  },
+  {
+    "InvoiceNum": 80551,
+    "OrderNum": 50551,
+    "CustNum": "C1004",
+    "InvoiceDate": "2026-04-21",
+    "DueDate": "2026-05-21",
+    "InvoiceAmt": 442.5,
+    "AmountPaid": 202.12,
+    "ChangedDate": "2026-04-12"
+  },
+  {
+    "InvoiceNum": 80552,
+    "OrderNum": 50552,
+    "CustNum": "C1006",
+    "InvoiceDate": "2026-04-14",
+    "DueDate": "2026-05-23",
+    "InvoiceAmt": 1474.03,
+    "AmountPaid": 200.0,
+    "ChangedDate": "2026-04-14"
+  },
+  {
+    "InvoiceNum": 80553,
+    "OrderNum": 50553,
+    "CustNum": "C1002",
+    "InvoiceDate": "2026-04-09",
+    "DueDate": "2026-05-17",
+    "InvoiceAmt": 1750.24,
+    "AmountPaid": 1750.24,
+    "ChangedDate": "2026-04-08"
+  },
+  {
+    "InvoiceNum": 80554,
+    "OrderNum": 50554,
+    "CustNum": "C1006",
+    "InvoiceDate": "2026-05-08",
+    "DueDate": "2026-06-07",
+    "InvoiceAmt": 3456.92,
+    "AmountPaid": 3456.92,
+    "ChangedDate": "2026-04-29"
+  },
+  {
+    "InvoiceNum": 80555,
+    "OrderNum": 50555,
+    "CustNum": "C1003",
+    "InvoiceDate": "2026-04-19",
+    "DueDate": "2026-05-27",
+    "InvoiceAmt": 3631.52,
+    "AmountPaid": 3631.52,
+    "ChangedDate": "2026-04-18"
+  },
+  {
+    "InvoiceNum": 80556,
+    "OrderNum": 50556,
+    "CustNum": "C1004",
+    "InvoiceDate": "2026-05-01",
+    "DueDate": "2026-05-31",
+    "InvoiceAmt": 2589.46,
+    "AmountPaid": 2589.46,
+    "ChangedDate": "2026-04-22"
+  },
+  {
+    "InvoiceNum": 80557,
+    "OrderNum": 50557,
+    "CustNum": "C1001",
+    "InvoiceDate": "2026-04-22",
+    "DueDate": "2026-05-23",
+    "InvoiceAmt": 945.78,
+    "AmountPaid": 945.78,
+    "ChangedDate": "2026-04-14"
+  },
+  {
+    "InvoiceNum": 80558,
+    "OrderNum": 50558,
+    "CustNum": "C1001",
+    "InvoiceDate": "2026-04-21",
+    "DueDate": "2026-05-22",
+    "InvoiceAmt": 702.81,
+    "AmountPaid": 40.82,
+    "ChangedDate": "2026-04-13"
+  },
+  {
+    "InvoiceNum": 80559,
+    "OrderNum": 50559,
+    "CustNum": "C1000",
+    "InvoiceDate": "2026-04-19",
+    "DueDate": "2026-05-25",
+    "InvoiceAmt": 1750.5,
+    "AmountPaid": 28.36,
+    "ChangedDate": "2026-04-16"
+  },
+  {
+    "InvoiceNum": 80560,
+    "OrderNum": 50560,
+    "CustNum": "C1006",
+    "InvoiceDate": "2026-04-05",
+    "DueDate": "2026-05-12",
+    "InvoiceAmt": 6259.16,
+    "AmountPaid": 6259.16,
+    "ChangedDate": "2026-04-03"
+  },
+  {
+    "InvoiceNum": 80561,
+    "OrderNum": 50561,
+    "CustNum": "C1002",
+    "InvoiceDate": "2026-04-30",
+    "DueDate": "2026-06-06",
+    "InvoiceAmt": 902.88,
+    "AmountPaid": 902.88,
+    "ChangedDate": "2026-04-28"
+  },
+  {
+    "InvoiceNum": 80562,
+    "OrderNum": 50562,
+    "CustNum": "C1001",
+    "InvoiceDate": "2026-05-02",
+    "DueDate": "2026-06-01",
+    "InvoiceAmt": 1921.13,
+    "AmountPaid": 1246.89,
+    "ChangedDate": "2026-04-23"
+  },
+  {
+    "InvoiceNum": 80563,
+    "OrderNum": 50563,
+    "CustNum": "C1000",
+    "InvoiceDate": "2026-04-06",
+    "DueDate": "2026-05-12",
+    "InvoiceAmt": 3358.14,
+    "AmountPaid": 333.41,
+    "ChangedDate": "2026-04-03"
+  },
+  {
+    "InvoiceNum": 80564,
+    "OrderNum": 50564,
+    "CustNum": "C1001",
+    "InvoiceDate": "2026-04-12",
+    "DueDate": "2026-05-18",
+    "InvoiceAmt": 680.79,
+    "AmountPaid": 680.79,
+    "ChangedDate": "2026-04-09"
+  },
+  {
+    "InvoiceNum": 80565,
+    "OrderNum": 50565,
+    "CustNum": "C1006",
+    "InvoiceDate": "2026-04-18",
+    "DueDate": "2026-05-24",
+    "InvoiceAmt": 1770.23,
+    "AmountPaid": 95.89,
+    "ChangedDate": "2026-04-15"
+  },
+  {
+    "InvoiceNum": 80566,
+    "OrderNum": 50566,
+    "CustNum": "C1001",
+    "InvoiceDate": "2026-04-29",
+    "DueDate": "2026-06-01",
+    "InvoiceAmt": 1270.54,
+    "AmountPaid": 1270.54,
+    "ChangedDate": "2026-04-23"
+  },
+  {
+    "InvoiceNum": 80567,
+    "OrderNum": 50567,
+    "CustNum": "C1002",
+    "InvoiceDate": "2026-04-13",
+    "DueDate": "2026-05-21",
+    "InvoiceAmt": 2211.55,
+    "AmountPaid": 2211.55,
+    "ChangedDate": "2026-04-12"
+  },
+  {
+    "InvoiceNum": 80568,
+    "OrderNum": 50568,
+    "CustNum": "C1004",
+    "InvoiceDate": "2026-04-12",
+    "DueDate": "2026-05-18",
+    "InvoiceAmt": 1401.42,
+    "AmountPaid": 98.76,
+    "ChangedDate": "2026-04-09"
+  },
+  {
+    "InvoiceNum": 80569,
+    "OrderNum": 50569,
+    "CustNum": "C1007",
+    "InvoiceDate": "2026-04-30",
+    "DueDate": "2026-06-03",
+    "InvoiceAmt": 845.85,
+    "AmountPaid": 845.85,
+    "ChangedDate": "2026-04-25"
+  },
+  {
+    "InvoiceNum": 80570,
+    "OrderNum": 50570,
+    "CustNum": "C1005",
+    "InvoiceDate": "2026-04-14",
+    "DueDate": "2026-05-18",
+    "InvoiceAmt": 1997.85,
+    "AmountPaid": 1997.85,
+    "ChangedDate": "2026-04-09"
+  },
+  {
+    "InvoiceNum": 80571,
+    "OrderNum": 50571,
+    "CustNum": "C1002",
+    "InvoiceDate": "2026-04-18",
+    "DueDate": "2026-05-25",
+    "InvoiceAmt": 332.55,
+    "AmountPaid": 332.55,
+    "ChangedDate": "2026-04-16"
+  },
+  {
+    "InvoiceNum": 80572,
+    "OrderNum": 50572,
+    "CustNum": "C1003",
+    "InvoiceDate": "2026-04-12",
+    "DueDate": "2026-05-15",
+    "InvoiceAmt": 3570.12,
+    "AmountPaid": 3570.12,
+    "ChangedDate": "2026-04-06"
+  },
+  {
+    "InvoiceNum": 80573,
+    "OrderNum": 50573,
+    "CustNum": "C1002",
+    "InvoiceDate": "2026-04-29",
+    "DueDate": "2026-05-30",
+    "InvoiceAmt": 1460.46,
+    "AmountPaid": 429.28,
+    "ChangedDate": "2026-04-21"
+  },
+  {
+    "InvoiceNum": 80574,
+    "OrderNum": 50574,
+    "CustNum": "C1002",
+    "InvoiceDate": "2026-05-27",
+    "DueDate": "2026-06-27",
+    "InvoiceAmt": 2261.9,
+    "AmountPaid": 2261.9,
+    "ChangedDate": "2026-05-19"
+  },
+  {
+    "InvoiceNum": 80575,
+    "OrderNum": 50575,
+    "CustNum": "C1005",
+    "InvoiceDate": "2026-05-22",
+    "DueDate": "2026-06-25",
+    "InvoiceAmt": 1668.89,
+    "AmountPaid": 1668.89,
+    "ChangedDate": "2026-05-17"
+  },
+  {
+    "InvoiceNum": 80576,
+    "OrderNum": 50576,
+    "CustNum": "C1007",
+    "InvoiceDate": "2026-05-22",
+    "DueDate": "2026-06-30",
+    "InvoiceAmt": 831.04,
+    "AmountPaid": 831.04,
+    "ChangedDate": "2026-05-22"
+  },
+  {
+    "InvoiceNum": 80577,
+    "OrderNum": 50577,
+    "CustNum": "C1005",
+    "InvoiceDate": "2026-05-24",
+    "DueDate": "2026-06-30",
+    "InvoiceAmt": 321.96,
+    "AmountPaid": 67.33,
+    "ChangedDate": "2026-05-22"
+  },
+  {
+    "InvoiceNum": 80578,
+    "OrderNum": 50578,
+    "CustNum": "C1000",
+    "InvoiceDate": "2026-05-06",
+    "DueDate": "2026-06-13",
+    "InvoiceAmt": 5624.61,
+    "AmountPaid": 5624.61,
+    "ChangedDate": "2026-05-05"
+  },
+  {
+    "InvoiceNum": 80579,
+    "OrderNum": 50579,
+    "CustNum": "C1001",
+    "InvoiceDate": "2026-05-22",
+    "DueDate": "2026-06-30",
+    "InvoiceAmt": 83.82,
+    "AmountPaid": 83.82,
+    "ChangedDate": "2026-05-22"
+  },
+  {
+    "InvoiceNum": 80580,
+    "OrderNum": 50580,
+    "CustNum": "C1001",
+    "InvoiceDate": "2026-05-07",
+    "DueDate": "2026-06-12",
+    "InvoiceAmt": 1329.45,
+    "AmountPaid": 1329.45,
+    "ChangedDate": "2026-05-04"
+  },
+  {
+    "InvoiceNum": 80581,
+    "OrderNum": 50581,
+    "CustNum": "C1004",
+    "InvoiceDate": "2026-06-07",
+    "DueDate": "2026-07-07",
+    "InvoiceAmt": 3678.96,
+    "AmountPaid": 3678.96,
+    "ChangedDate": "2026-05-29"
+  },
+  {
+    "InvoiceNum": 80582,
+    "OrderNum": 50582,
+    "CustNum": "C1000",
+    "InvoiceDate": "2026-05-09",
+    "DueDate": "2026-06-13",
+    "InvoiceAmt": 1184.04,
+    "AmountPaid": 284.13,
+    "ChangedDate": "2026-05-05"
+  },
+  {
+    "InvoiceNum": 80583,
+    "OrderNum": 50583,
+    "CustNum": "C1007",
+    "InvoiceDate": "2026-05-23",
+    "DueDate": "2026-06-25",
+    "InvoiceAmt": 2244.75,
+    "AmountPaid": 2244.75,
+    "ChangedDate": "2026-05-17"
+  },
+  {
+    "InvoiceNum": 80584,
+    "OrderNum": 50584,
+    "CustNum": "C1002",
+    "InvoiceDate": "2026-05-07",
+    "DueDate": "2026-06-10",
+    "InvoiceAmt": 4545.08,
+    "AmountPaid": 4545.08,
+    "ChangedDate": "2026-05-02"
+  },
+  {
+    "InvoiceNum": 80585,
+    "OrderNum": 50585,
+    "CustNum": "C1007",
+    "InvoiceDate": "2026-05-17",
+    "DueDate": "2026-06-17",
+    "InvoiceAmt": 1696.17,
+    "AmountPaid": 1696.17,
+    "ChangedDate": "2026-05-09"
+  },
+  {
+    "InvoiceNum": 80586,
+    "OrderNum": 50586,
+    "CustNum": "C1007",
+    "InvoiceDate": "2026-05-08",
+    "DueDate": "2026-06-15",
+    "InvoiceAmt": 2017.75,
+    "AmountPaid": 736.93,
+    "ChangedDate": "2026-05-07"
+  },
+  {
+    "InvoiceNum": 80587,
+    "OrderNum": 50587,
+    "CustNum": "C1001",
+    "InvoiceDate": "2026-05-17",
+    "DueDate": "2026-06-23",
+    "InvoiceAmt": 684.98,
+    "AmountPaid": 684.98,
+    "ChangedDate": "2026-05-15"
+  },
+  {
+    "InvoiceNum": 80588,
+    "OrderNum": 50588,
+    "CustNum": "C1007",
+    "InvoiceDate": "2026-05-07",
+    "DueDate": "2026-06-12",
+    "InvoiceAmt": 1234.1,
+    "AmountPaid": 523.6,
+    "ChangedDate": "2026-05-04"
+  },
+  {
+    "InvoiceNum": 80589,
+    "OrderNum": 50589,
+    "CustNum": "C1003",
+    "InvoiceDate": "2026-05-10",
+    "DueDate": "2026-06-18",
+    "InvoiceAmt": 1460.81,
+    "AmountPaid": 1460.81,
+    "ChangedDate": "2026-05-10"
+  },
+  {
+    "InvoiceNum": 80590,
+    "OrderNum": 50590,
+    "CustNum": "C1003",
+    "InvoiceDate": "2026-06-01",
+    "DueDate": "2026-07-07",
+    "InvoiceAmt": 2179.68,
+    "AmountPaid": 2179.68,
+    "ChangedDate": "2026-05-29"
+  },
+  {
+    "InvoiceNum": 80591,
+    "OrderNum": 50591,
+    "CustNum": "C1007",
+    "InvoiceDate": "2026-05-24",
+    "DueDate": "2026-07-01",
+    "InvoiceAmt": 335.85,
+    "AmountPaid": 335.85,
+    "ChangedDate": "2026-05-23"
+  },
+  {
+    "InvoiceNum": 80592,
+    "OrderNum": 50592,
+    "CustNum": "C1004",
+    "InvoiceDate": "2026-06-01",
+    "DueDate": "2026-07-07",
+    "InvoiceAmt": 1248.12,
+    "AmountPaid": 318.8,
+    "ChangedDate": "2026-05-29"
+  },
+  {
+    "InvoiceNum": 80593,
+    "OrderNum": 50593,
+    "CustNum": "C1000",
+    "InvoiceDate": "2026-06-06",
+    "DueDate": "2026-07-07",
+    "InvoiceAmt": 2019.23,
+    "AmountPaid": 2019.23,
+    "ChangedDate": "2026-05-29"
+  },
+  {
+    "InvoiceNum": 80594,
+    "OrderNum": 50594,
+    "CustNum": "C1006",
+    "InvoiceDate": "2026-05-05",
+    "DueDate": "2026-06-13",
+    "InvoiceAmt": 1744.29,
+    "AmountPaid": 169.19,
+    "ChangedDate": "2026-05-05"
+  },
+  {
+    "InvoiceNum": 80595,
+    "OrderNum": 50595,
+    "CustNum": "C1005",
+    "InvoiceDate": "2026-05-25",
+    "DueDate": "2026-07-03",
+    "InvoiceAmt": 885.92,
+    "AmountPaid": 428.89,
+    "ChangedDate": "2026-05-25"
+  },
+  {
+    "InvoiceNum": 80596,
+    "OrderNum": 50596,
+    "CustNum": "C1001",
+    "InvoiceDate": "2026-05-22",
+    "DueDate": "2026-06-26",
+    "InvoiceAmt": 3149.5,
+    "AmountPaid": 603.34,
+    "ChangedDate": "2026-05-18"
+  },
+  {
+    "InvoiceNum": 80597,
+    "OrderNum": 50597,
+    "CustNum": "C1007",
+    "InvoiceDate": "2026-05-21",
+    "DueDate": "2026-06-21",
+    "InvoiceAmt": 53.46,
+    "AmountPaid": 3.44,
+    "ChangedDate": "2026-05-13"
+  },
+  {
+    "InvoiceNum": 80598,
+    "OrderNum": 50598,
+    "CustNum": "C1003",
+    "InvoiceDate": "2026-05-02",
+    "DueDate": "2026-06-10",
+    "InvoiceAmt": 1250.78,
+    "AmountPaid": 1250.78,
+    "ChangedDate": "2026-05-02"
+  },
+  {
+    "InvoiceNum": 80599,
+    "OrderNum": 50599,
+    "CustNum": "C1006",
+    "InvoiceDate": "2026-05-21",
+    "DueDate": "2026-06-27",
+    "InvoiceAmt": 114.38,
+    "AmountPaid": 114.38,
+    "ChangedDate": "2026-05-19"
+  },
+  {
+    "InvoiceNum": 80600,
+    "OrderNum": 50600,
+    "CustNum": "C1002",
+    "InvoiceDate": "2026-05-07",
+    "DueDate": "2026-06-10",
+    "InvoiceAmt": 289.95,
+    "AmountPaid": 289.95,
+    "ChangedDate": "2026-05-02"
+  },
+  {
+    "InvoiceNum": 80601,
+    "OrderNum": 50601,
+    "CustNum": "C1002",
+    "InvoiceDate": "2026-05-20",
+    "DueDate": "2026-06-23",
+    "InvoiceAmt": 222.54,
+    "AmountPaid": 222.54,
+    "ChangedDate": "2026-05-15"
+  },
+  {
+    "InvoiceNum": 80602,
+    "OrderNum": 50602,
+    "CustNum": "C1005",
+    "InvoiceDate": "2026-05-24",
+    "DueDate": "2026-06-29",
+    "InvoiceAmt": 117.6,
+    "AmountPaid": 117.6,
+    "ChangedDate": "2026-05-21"
+  },
+  {
+    "InvoiceNum": 80603,
+    "OrderNum": 50603,
+    "CustNum": "C1002",
+    "InvoiceDate": "2026-05-27",
+    "DueDate": "2026-06-29",
+    "InvoiceAmt": 1103.63,
+    "AmountPaid": 1103.63,
+    "ChangedDate": "2026-05-21"
+  },
+  {
+    "InvoiceNum": 80604,
+    "OrderNum": 50604,
+    "CustNum": "C1002",
+    "InvoiceDate": "2026-05-27",
+    "DueDate": "2026-06-27",
+    "InvoiceAmt": 74.36,
+    "AmountPaid": 74.36,
+    "ChangedDate": "2026-05-19"
+  },
+  {
+    "InvoiceNum": 80605,
+    "OrderNum": 50605,
+    "CustNum": "C1002",
+    "InvoiceDate": "2026-05-20",
+    "DueDate": "2026-06-23",
+    "InvoiceAmt": 1112.63,
+    "AmountPaid": 1112.63,
+    "ChangedDate": "2026-05-15"
+  },
+  {
+    "InvoiceNum": 80606,
+    "OrderNum": 50606,
+    "CustNum": "C1004",
+    "InvoiceDate": "2026-05-14",
+    "DueDate": "2026-06-14",
+    "InvoiceAmt": 471.63,
+    "AmountPaid": 279.31,
+    "ChangedDate": "2026-05-06"
+  },
+  {
+    "InvoiceNum": 80607,
+    "OrderNum": 50607,
+    "CustNum": "C1005",
+    "InvoiceDate": "2026-06-01",
+    "DueDate": "2026-07-02",
+    "InvoiceAmt": 1340.31,
+    "AmountPaid": 1340.31,
+    "ChangedDate": "2026-05-24"
+  },
+  {
+    "InvoiceNum": 80608,
+    "OrderNum": 50608,
+    "CustNum": "C1002",
+    "InvoiceDate": "2026-05-30",
+    "DueDate": "2026-07-01",
+    "InvoiceAmt": 1429.41,
+    "AmountPaid": 1429.41,
+    "ChangedDate": "2026-05-23"
+  },
+  {
+    "InvoiceNum": 80609,
+    "OrderNum": 50609,
+    "CustNum": "C1002",
+    "InvoiceDate": "2026-05-18",
+    "DueDate": "2026-06-24",
+    "InvoiceAmt": 2449.57,
+    "AmountPaid": 1360.02,
+    "ChangedDate": "2026-05-16"
+  },
+  {
+    "InvoiceNum": 80610,
+    "OrderNum": 50610,
+    "CustNum": "C1000",
+    "InvoiceDate": "2026-05-07",
+    "DueDate": "2026-06-12",
+    "InvoiceAmt": 1780.49,
+    "AmountPaid": 1780.49,
+    "ChangedDate": "2026-05-04"
+  },
+  {
+    "InvoiceNum": 80611,
+    "OrderNum": 50611,
+    "CustNum": "C1000",
+    "InvoiceDate": "2026-05-26",
+    "DueDate": "2026-06-29",
+    "InvoiceAmt": 1452.44,
+    "AmountPaid": 209.27,
+    "ChangedDate": "2026-05-21"
+  },
+  {
+    "InvoiceNum": 80612,
+    "OrderNum": 50612,
+    "CustNum": "C1001",
+    "InvoiceDate": "2026-05-12",
+    "DueDate": "2026-06-20",
+    "InvoiceAmt": 117.2,
+    "AmountPaid": 117.2,
+    "ChangedDate": "2026-05-12"
+  },
+  {
+    "InvoiceNum": 80613,
+    "OrderNum": 50613,
+    "CustNum": "C1006",
+    "InvoiceDate": "2026-05-08",
+    "DueDate": "2026-06-16",
+    "InvoiceAmt": 2166.0,
+    "AmountPaid": 2166.0,
+    "ChangedDate": "2026-05-08"
+  },
+  {
+    "InvoiceNum": 80614,
+    "OrderNum": 50614,
+    "CustNum": "C1007",
+    "InvoiceDate": "2026-05-18",
+    "DueDate": "2026-06-20",
+    "InvoiceAmt": 1396.78,
+    "AmountPaid": 1396.78,
+    "ChangedDate": "2026-05-12"
+  },
+  {
+    "InvoiceNum": 80615,
+    "OrderNum": 50615,
+    "CustNum": "C1001",
+    "InvoiceDate": "2026-05-21",
+    "DueDate": "2026-06-25",
+    "InvoiceAmt": 653.93,
+    "AmountPaid": 653.93,
+    "ChangedDate": "2026-05-17"
+  },
+  {
+    "InvoiceNum": 80616,
+    "OrderNum": 50616,
+    "CustNum": "C1001",
+    "InvoiceDate": "2026-05-22",
+    "DueDate": "2026-06-24",
+    "InvoiceAmt": 1740.71,
+    "AmountPaid": 1740.71,
+    "ChangedDate": "2026-05-16"
+  },
+  {
+    "InvoiceNum": 80617,
+    "OrderNum": 50617,
+    "CustNum": "C1006",
+    "InvoiceDate": "2026-05-29",
+    "DueDate": "2026-07-03",
+    "InvoiceAmt": 464.36,
+    "AmountPaid": 464.36,
+    "ChangedDate": "2026-05-25"
+  },
+  {
+    "InvoiceNum": 80618,
+    "OrderNum": 50618,
+    "CustNum": "C1001",
+    "InvoiceDate": "2026-05-18",
+    "DueDate": "2026-06-23",
+    "InvoiceAmt": 2096.7,
+    "AmountPaid": 562.19,
+    "ChangedDate": "2026-05-15"
+  },
+  {
+    "InvoiceNum": 80619,
+    "OrderNum": 50619,
+    "CustNum": "C1000",
+    "InvoiceDate": "2026-05-30",
+    "DueDate": "2026-07-01",
+    "InvoiceAmt": 1147.72,
+    "AmountPaid": 283.53,
+    "ChangedDate": "2026-05-23"
+  },
+  {
+    "InvoiceNum": 80620,
+    "OrderNum": 50620,
+    "CustNum": "C1001",
+    "InvoiceDate": "2026-06-02",
+    "DueDate": "2026-07-02",
+    "InvoiceAmt": 656.17,
+    "AmountPaid": 656.17,
+    "ChangedDate": "2026-05-24"
+  },
+  {
+    "InvoiceNum": 80621,
+    "OrderNum": 50621,
+    "CustNum": "C1003",
+    "InvoiceDate": "2026-05-04",
+    "DueDate": "2026-06-12",
+    "InvoiceAmt": 2975.81,
+    "AmountPaid": 2975.81,
+    "ChangedDate": "2026-05-04"
+  },
+  {
+    "InvoiceNum": 80622,
+    "OrderNum": 50622,
+    "CustNum": "C1002",
+    "InvoiceDate": "2026-05-12",
+    "DueDate": "2026-06-11",
+    "InvoiceAmt": 301.28,
+    "AmountPaid": 301.28,
+    "ChangedDate": "2026-05-03"
+  }
+]

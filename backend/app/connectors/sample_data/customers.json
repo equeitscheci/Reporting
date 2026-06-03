@@ -1,0 +1,58 @@
+[
+  {
+    "CustNum": "C1000",
+    "CustName": "Ridgeline Builders",
+    "Region": "West",
+    "Segment": "Construction",
+    "ChangedDate": "2025-01-01"
+  },
+  {
+    "CustNum": "C1001",
+    "CustName": "Apex Distributors",
+    "Region": "Midwest",
+    "Segment": "Distribution",
+    "ChangedDate": "2025-01-01"
+  },
+  {
+    "CustNum": "C1002",
+    "CustName": "Northgate Mfg",
+    "Region": "Northeast",
+    "Segment": "OEM",
+    "ChangedDate": "2025-01-01"
+  },
+  {
+    "CustNum": "C1003",
+    "CustName": "Summit Supply Co",
+    "Region": "South",
+    "Segment": "Distribution",
+    "ChangedDate": "2025-01-01"
+  },
+  {
+    "CustNum": "C1004",
+    "CustName": "Cedar Field Services",
+    "Region": "West",
+    "Segment": "Service",
+    "ChangedDate": "2025-01-01"
+  },
+  {
+    "CustNum": "C1005",
+    "CustName": "Harbor Equipment",
+    "Region": "Northeast",
+    "Segment": "Dealer",
+    "ChangedDate": "2025-01-01"
+  },
+  {
+    "CustNum": "C1006",
+    "CustName": "Lone Star Fabrication",
+    "Region": "South",
+    "Segment": "OEM",
+    "ChangedDate": "2025-01-01"
+  },
+  {
+    "CustNum": "C1007",
+    "CustName": "Cascade Wholesale",
+    "Region": "West",
+    "Segment": "Distribution",
+    "ChangedDate": "2025-01-01"
+  }
+]

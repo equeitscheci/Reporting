@@ -1,0 +1,25 @@
+# Sample ERP connector (offline). Swap `type: sample` → `rest`/`jdbc` and fill `options`/`auth`
+# to point at a real ERP — the streams + mappings stay the same.
+id: acme-erp
+type: sample
+options:
+  source_system: acme_erp
+auth:
+  kind: none
+streams:
+  - name: customers
+    primary_key: [CustNum]
+    cursor_field: ChangedDate
+  - name: products
+    primary_key: [PartNum]
+    cursor_field: ChangedDate
+  - name: sales_orders
+    primary_key: [OrderNum]
+    cursor_field: ChangedDate
+  - name: order_lines
+    primary_key: [OrderNum, LineNum]
+  - name: invoices
+    primary_key: [InvoiceNum]
+    cursor_field: ChangedDate
+  - name: inventory_snapshots
+    primary_key: [PartNum, SnapshotDate]

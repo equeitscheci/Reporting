@@ -1,0 +1,23 @@
+name: insightforge
+version: "0.1.0"
+config-version: 2
+profile: insightforge
+
+model-paths: ["models"]
+seed-paths: ["seeds"]
+macro-paths: ["macros"]
+test-paths: ["tests"]
+
+# Per-tenant schema is injected at runtime via the `tenant` var, e.g.:
+#   dbt run --vars '{tenant: acme_mfg}'
+vars:
+  tenant: acme_mfg
+
+models:
+  insightforge:
+    staging:
+      +materialized: view
+      +schema: canonical
+    marts:
+      +materialized: table
+      +schema: marts

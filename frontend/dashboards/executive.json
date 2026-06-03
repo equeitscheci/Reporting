@@ -1,0 +1,75 @@
+{
+  "id": "exec-overview",
+  "title": "Executive — Revenue, Margin & Cash",
+  "industry": "all",
+  "filters": {},
+  "layout": { "columns": 12 },
+  "widgets": [
+    {
+      "id": "kpi-revenue",
+      "type": "kpi",
+      "title": "Revenue",
+      "metric": "revenue",
+      "dimensions": [],
+      "grid": { "x": 0, "y": 0, "w": 3, "h": 2 }
+    },
+    {
+      "id": "kpi-margin-dollars",
+      "type": "kpi",
+      "title": "Gross Margin $",
+      "metric": "gross_margin",
+      "dimensions": [],
+      "grid": { "x": 3, "y": 0, "w": 3, "h": 2 }
+    },
+    {
+      "id": "kpi-margin-pct",
+      "type": "kpi",
+      "title": "Gross Margin %",
+      "metric": "gross_margin_pct",
+      "dimensions": [],
+      "grid": { "x": 6, "y": 0, "w": 3, "h": 2 }
+    },
+    {
+      "id": "kpi-ar",
+      "type": "kpi",
+      "title": "AR Open Balance",
+      "metric": "ar_open_balance",
+      "dimensions": [],
+      "grid": { "x": 9, "y": 0, "w": 3, "h": 2 }
+    },
+    {
+      "id": "revenue-trend",
+      "type": "line",
+      "title": "Revenue & Margin Trend",
+      "metric": "revenue",
+      "dimensions": ["month"],
+      "grid": { "x": 0, "y": 2, "w": 8, "h": 4 }
+    },
+    {
+      "id": "revenue-by-region",
+      "type": "bar",
+      "title": "Revenue by Region",
+      "metric": "revenue",
+      "dimensions": ["region"],
+      "order_by": "value",
+      "grid": { "x": 8, "y": 2, "w": 4, "h": 4 }
+    },
+    {
+      "id": "margin-trend",
+      "type": "line",
+      "title": "Gross Margin % Trend",
+      "metric": "gross_margin_pct",
+      "dimensions": ["month"],
+      "grid": { "x": 0, "y": 6, "w": 6, "h": 4 }
+    },
+    {
+      "id": "revenue-by-segment",
+      "type": "bar",
+      "title": "Revenue by Segment",
+      "metric": "revenue",
+      "dimensions": ["segment"],
+      "order_by": "value",
+      "grid": { "x": 6, "y": 6, "w": 6, "h": 4 }
+    }
+  ]
+}

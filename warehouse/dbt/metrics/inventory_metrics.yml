@@ -1,0 +1,50 @@
+version: 2
+
+semantic_models:
+  - name: inventory
+    description: "Inventory snapshots at (sku, location, date) grain."
+    model: ref('fact_inventory_snapshot')
+    defaults:
+      agg_time_dimension: snapshot_day
+    entities:
+      - name: inventory
+        type: primary
+        expr: inventory_key
+      - name: product
+        type: foreign
+        expr: product_key
+    dimensions:
+      - name: snapshot_day
+        type: time
+        type_params: { time_granularity: day }
+        expr: to_date(cast(date_key as varchar), 'YYYYMMDD')
+      - name: product_group
+        type: categorical
+      - name: location
+        type: categorical
+    measures:
+      - name: inventory_value
+        agg: sum
+        expr: inventory_value
+      - name: qty_on_hand
+        agg: sum
+        expr: qty_on_hand
+
+metrics:
+  - name: inventory_value
+    label: "Inventory Value"
+    type: simple
+    type_params: { measure: inventory_value }
+  - name: qty_on_hand
+    label: "Qty On Hand"
+    type: simple
+    type_params: { measure: qty_on_hand }
+  # Inventory turns = annualized COGS / average inventory value (derived metric joining sales).
+  - name: inventory_turns
+    label: "Inventory Turns"
+    type: derived
+    type_params:
+      expr: (cogs * 12) / nullif(inventory_value, 0)
+      metrics:
+        - name: cogs
+        - name: inventory_value
