@@ -1,0 +1,76 @@
+{
+  "id": "dist-overview",
+  "title": "Distribution — Inventory, Fulfillment & Margin",
+  "industry": "distribution",
+  "filters": {},
+  "layout": { "columns": 12 },
+  "widgets": [
+    {
+      "id": "kpi-fill",
+      "type": "kpi",
+      "title": "Fill Rate %",
+      "metric": "fill_rate",
+      "dimensions": [],
+      "grid": { "x": 0, "y": 0, "w": 3, "h": 2 }
+    },
+    {
+      "id": "kpi-inv-value",
+      "type": "kpi",
+      "title": "Inventory Value",
+      "metric": "inventory_value",
+      "dimensions": [],
+      "grid": { "x": 3, "y": 0, "w": 3, "h": 2 }
+    },
+    {
+      "id": "kpi-revenue",
+      "type": "kpi",
+      "title": "Revenue",
+      "metric": "revenue",
+      "dimensions": [],
+      "grid": { "x": 6, "y": 0, "w": 3, "h": 2 }
+    },
+    {
+      "id": "kpi-margin",
+      "type": "kpi",
+      "title": "Gross Margin %",
+      "metric": "gross_margin_pct",
+      "dimensions": [],
+      "grid": { "x": 9, "y": 0, "w": 3, "h": 2 }
+    },
+    {
+      "id": "inv-trend",
+      "type": "line",
+      "title": "Inventory Value Over Time (turns signal)",
+      "metric": "inventory_value",
+      "dimensions": ["month"],
+      "grid": { "x": 0, "y": 2, "w": 6, "h": 4 }
+    },
+    {
+      "id": "fill-trend",
+      "type": "line",
+      "title": "Fill Rate % Over Time",
+      "metric": "fill_rate",
+      "dimensions": ["month"],
+      "grid": { "x": 6, "y": 2, "w": 6, "h": 4 }
+    },
+    {
+      "id": "margin-by-customer",
+      "type": "bar",
+      "title": "Gross Margin % by Customer",
+      "metric": "gross_margin_pct",
+      "dimensions": ["customer_name"],
+      "order_by": "value",
+      "limit": 8,
+      "grid": { "x": 0, "y": 6, "w": 6, "h": 4 }
+    },
+    {
+      "id": "inv-by-group",
+      "type": "bar",
+      "title": "Inventory Value by Product Group",
+      "metric": "inventory_value",
+      "dimensions": ["product_group"],
+      "order_by": "value",
+      "grid": { "x": 6, "y": 6, "w": 6, "h": 4 }
+    }
+  ]
+}
