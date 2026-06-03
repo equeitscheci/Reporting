@@ -71,6 +71,43 @@ When configured, `POST /insights/ask` sends the tenant id, question, local gover
 metric catalog to the agent. If the agent is unavailable or not configured, the endpoint falls back
 to the local semantic NLQ answer so the interface remains testable.
 
+## ECI AI Studio widget
+
+The React UI also loads the ECI AI Studio CDN widget in floating-action-button mode:
+
+```html
+<script src="https://global-ui.ecinexus.com/eci-ui-cdn-assets/ai-elements/latest/bootstrap.js"></script>
+```
+
+The widget is mounted by `frontend/src/components/ECIAgentWidget.tsx` with these default public
+values:
+
+```bash
+VITE_ECI_AI_WIDGET_BASE_URL=https://ai-api.ecinexus.com
+VITE_ECI_AI_WIDGET_INTEGRATION_ID=3875399b-3089-4239-9d86-9ec7d5d98c91
+VITE_ECI_AI_WIDGET_AGENT_ID=1fce2ec2-9097-424f-b5b2-f5ea430a248d
+VITE_ECI_AI_WIDGET_MODE=fab
+VITE_ECI_AI_WIDGET_TOKEN_ENDPOINT=/api/.ai/token
+```
+
+The frontend never stores token-exchange secrets. The widget calls `GET /api/.ai/token`, which
+proxies to the backend route `GET /.ai/token`. Configure the backend token broker with either:
+
+```bash
+# Preferred for real environments
+INSIGHTFORGE_AI_WIDGET_TOKEN_URL=https://...
+INSIGHTFORGE_AI_WIDGET_CLIENT_ID=...
+INSIGHTFORGE_AI_WIDGET_CLIENT_SECRET=...
+INSIGHTFORGE_AI_WIDGET_SCOPE=...
+INSIGHTFORGE_AI_WIDGET_AUDIENCE=...
+```
+
+or, for a short-lived local demo only:
+
+```bash
+INSIGHTFORGE_AI_WIDGET_ACCESS_TOKEN=...
+```
+
 See [`ARCHITECTURE.md`](./ARCHITECTURE.md) for the deep dive and [`ROADMAP.md`](./ROADMAP.md) for scope.
 
 ## Design principles
