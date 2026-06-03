@@ -1,0 +1,9 @@
+tenant_id: acme-mfg
+name: Acme Manufacturing Co.
+primary_vertical: manufacturing
+industry_packs:
+  - manufacturing
+  - distribution
+  - finance
+data_residency: us
+# warehouse_schema defaults to marts_acme_mfg

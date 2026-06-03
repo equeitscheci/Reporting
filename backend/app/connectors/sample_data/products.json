@@ -1,0 +1,66 @@
+[
+  {
+    "PartNum": "P200",
+    "Description": "Steel Bracket A",
+    "ProductGroup": "Brackets",
+    "StdUnitCost": 4.5,
+    "ListPrice": 9.0,
+    "ChangedDate": "2025-01-01"
+  },
+  {
+    "PartNum": "P201",
+    "Description": "Steel Bracket B",
+    "ProductGroup": "Brackets",
+    "StdUnitCost": 5.25,
+    "ListPrice": 11.0,
+    "ChangedDate": "2025-01-01"
+  },
+  {
+    "PartNum": "P202",
+    "Description": "Hydraulic Valve",
+    "ProductGroup": "Valves",
+    "StdUnitCost": 22.0,
+    "ListPrice": 48.0,
+    "ChangedDate": "2025-01-01"
+  },
+  {
+    "PartNum": "P203",
+    "Description": "Control Module",
+    "ProductGroup": "Electronics",
+    "StdUnitCost": 65.0,
+    "ListPrice": 140.0,
+    "ChangedDate": "2025-01-01"
+  },
+  {
+    "PartNum": "P204",
+    "Description": "Drive Belt 1in",
+    "ProductGroup": "Belts",
+    "StdUnitCost": 3.1,
+    "ListPrice": 7.5,
+    "ChangedDate": "2025-01-01"
+  },
+  {
+    "PartNum": "P205",
+    "Description": "Bearing Assembly",
+    "ProductGroup": "Bearings",
+    "StdUnitCost": 12.4,
+    "ListPrice": 27.0,
+    "ChangedDate": "2025-01-01"
+  },
+  {
+    "PartNum": "P206",
+    "Description": "Conveyor Roller",
+    "ProductGroup": "Rollers",
+    "StdUnitCost": 18.0,
+    "ListPrice": 39.0,
+    "ChangedDate": "2025-01-01"
+  },
+  {
+    "PartNum": "P207",
+    "Description": "Panel Enclosure",
+    "ProductGroup": "Enclosures",
+    "StdUnitCost": 33.0,
+    "ListPrice": 72.0,
+    "ChangedDate": "2025-01-01"
+  }
+]

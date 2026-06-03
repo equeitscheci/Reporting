@@ -1,0 +1,674 @@
+[
+  {
+    "PartNum": "P200",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2025-06-28",
+    "QtyOnHand": 374,
+    "UnitCost": 4.5
+  },
+  {
+    "PartNum": "P201",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2025-06-28",
+    "QtyOnHand": 101,
+    "UnitCost": 5.25
+  },
+  {
+    "PartNum": "P202",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2025-06-28",
+    "QtyOnHand": 277,
+    "UnitCost": 22.0
+  },
+  {
+    "PartNum": "P203",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2025-06-28",
+    "QtyOnHand": 135,
+    "UnitCost": 65.0
+  },
+  {
+    "PartNum": "P204",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2025-06-28",
+    "QtyOnHand": 203,
+    "UnitCost": 3.1
+  },
+  {
+    "PartNum": "P205",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2025-06-28",
+    "QtyOnHand": 64,
+    "UnitCost": 12.4
+  },
+  {
+    "PartNum": "P206",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2025-06-28",
+    "QtyOnHand": 73,
+    "UnitCost": 18.0
+  },
+  {
+    "PartNum": "P207",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2025-06-28",
+    "QtyOnHand": 216,
+    "UnitCost": 33.0
+  },
+  {
+    "PartNum": "P200",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2025-07-28",
+    "QtyOnHand": 241,
+    "UnitCost": 4.5
+  },
+  {
+    "PartNum": "P201",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2025-07-28",
+    "QtyOnHand": 164,
+    "UnitCost": 5.25
+  },
+  {
+    "PartNum": "P202",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2025-07-28",
+    "QtyOnHand": 64,
+    "UnitCost": 22.0
+  },
+  {
+    "PartNum": "P203",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2025-07-28",
+    "QtyOnHand": 213,
+    "UnitCost": 65.0
+  },
+  {
+    "PartNum": "P204",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2025-07-28",
+    "QtyOnHand": 100,
+    "UnitCost": 3.1
+  },
+  {
+    "PartNum": "P205",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2025-07-28",
+    "QtyOnHand": 382,
+    "UnitCost": 12.4
+  },
+  {
+    "PartNum": "P206",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2025-07-28",
+    "QtyOnHand": 221,
+    "UnitCost": 18.0
+  },
+  {
+    "PartNum": "P207",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2025-07-28",
+    "QtyOnHand": 124,
+    "UnitCost": 33.0
+  },
+  {
+    "PartNum": "P200",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2025-08-28",
+    "QtyOnHand": 173,
+    "UnitCost": 4.5
+  },
+  {
+    "PartNum": "P201",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2025-08-28",
+    "QtyOnHand": 155,
+    "UnitCost": 5.25
+  },
+  {
+    "PartNum": "P202",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2025-08-28",
+    "QtyOnHand": 84,
+    "UnitCost": 22.0
+  },
+  {
+    "PartNum": "P203",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2025-08-28",
+    "QtyOnHand": 101,
+    "UnitCost": 65.0
+  },
+  {
+    "PartNum": "P204",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2025-08-28",
+    "QtyOnHand": 354,
+    "UnitCost": 3.1
+  },
+  {
+    "PartNum": "P205",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2025-08-28",
+    "QtyOnHand": 67,
+    "UnitCost": 12.4
+  },
+  {
+    "PartNum": "P206",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2025-08-28",
+    "QtyOnHand": 278,
+    "UnitCost": 18.0
+  },
+  {
+    "PartNum": "P207",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2025-08-28",
+    "QtyOnHand": 356,
+    "UnitCost": 33.0
+  },
+  {
+    "PartNum": "P200",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2025-09-28",
+    "QtyOnHand": 159,
+    "UnitCost": 4.5
+  },
+  {
+    "PartNum": "P201",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2025-09-28",
+    "QtyOnHand": 294,
+    "UnitCost": 5.25
+  },
+  {
+    "PartNum": "P202",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2025-09-28",
+    "QtyOnHand": 89,
+    "UnitCost": 22.0
+  },
+  {
+    "PartNum": "P203",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2025-09-28",
+    "QtyOnHand": 117,
+    "UnitCost": 65.0
+  },
+  {
+    "PartNum": "P204",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2025-09-28",
+    "QtyOnHand": 353,
+    "UnitCost": 3.1
+  },
+  {
+    "PartNum": "P205",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2025-09-28",
+    "QtyOnHand": 165,
+    "UnitCost": 12.4
+  },
+  {
+    "PartNum": "P206",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2025-09-28",
+    "QtyOnHand": 315,
+    "UnitCost": 18.0
+  },
+  {
+    "PartNum": "P207",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2025-09-28",
+    "QtyOnHand": 398,
+    "UnitCost": 33.0
+  },
+  {
+    "PartNum": "P200",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2025-10-28",
+    "QtyOnHand": 299,
+    "UnitCost": 4.5
+  },
+  {
+    "PartNum": "P201",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2025-10-28",
+    "QtyOnHand": 220,
+    "UnitCost": 5.25
+  },
+  {
+    "PartNum": "P202",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2025-10-28",
+    "QtyOnHand": 373,
+    "UnitCost": 22.0
+  },
+  {
+    "PartNum": "P203",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2025-10-28",
+    "QtyOnHand": 140,
+    "UnitCost": 65.0
+  },
+  {
+    "PartNum": "P204",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2025-10-28",
+    "QtyOnHand": 210,
+    "UnitCost": 3.1
+  },
+  {
+    "PartNum": "P205",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2025-10-28",
+    "QtyOnHand": 374,
+    "UnitCost": 12.4
+  },
+  {
+    "PartNum": "P206",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2025-10-28",
+    "QtyOnHand": 79,
+    "UnitCost": 18.0
+  },
+  {
+    "PartNum": "P207",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2025-10-28",
+    "QtyOnHand": 52,
+    "UnitCost": 33.0
+  },
+  {
+    "PartNum": "P200",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2025-11-28",
+    "QtyOnHand": 184,
+    "UnitCost": 4.5
+  },
+  {
+    "PartNum": "P201",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2025-11-28",
+    "QtyOnHand": 163,
+    "UnitCost": 5.25
+  },
+  {
+    "PartNum": "P202",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2025-11-28",
+    "QtyOnHand": 239,
+    "UnitCost": 22.0
+  },
+  {
+    "PartNum": "P203",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2025-11-28",
+    "QtyOnHand": 90,
+    "UnitCost": 65.0
+  },
+  {
+    "PartNum": "P204",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2025-11-28",
+    "QtyOnHand": 361,
+    "UnitCost": 3.1
+  },
+  {
+    "PartNum": "P205",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2025-11-28",
+    "QtyOnHand": 69,
+    "UnitCost": 12.4
+  },
+  {
+    "PartNum": "P206",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2025-11-28",
+    "QtyOnHand": 246,
+    "UnitCost": 18.0
+  },
+  {
+    "PartNum": "P207",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2025-11-28",
+    "QtyOnHand": 255,
+    "UnitCost": 33.0
+  },
+  {
+    "PartNum": "P200",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2025-12-28",
+    "QtyOnHand": 354,
+    "UnitCost": 4.5
+  },
+  {
+    "PartNum": "P201",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2025-12-28",
+    "QtyOnHand": 324,
+    "UnitCost": 5.25
+  },
+  {
+    "PartNum": "P202",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2025-12-28",
+    "QtyOnHand": 318,
+    "UnitCost": 22.0
+  },
+  {
+    "PartNum": "P203",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2025-12-28",
+    "QtyOnHand": 378,
+    "UnitCost": 65.0
+  },
+  {
+    "PartNum": "P204",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2025-12-28",
+    "QtyOnHand": 69,
+    "UnitCost": 3.1
+  },
+  {
+    "PartNum": "P205",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2025-12-28",
+    "QtyOnHand": 316,
+    "UnitCost": 12.4
+  },
+  {
+    "PartNum": "P206",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2025-12-28",
+    "QtyOnHand": 105,
+    "UnitCost": 18.0
+  },
+  {
+    "PartNum": "P207",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2025-12-28",
+    "QtyOnHand": 281,
+    "UnitCost": 33.0
+  },
+  {
+    "PartNum": "P200",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2026-01-28",
+    "QtyOnHand": 268,
+    "UnitCost": 4.5
+  },
+  {
+    "PartNum": "P201",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2026-01-28",
+    "QtyOnHand": 222,
+    "UnitCost": 5.25
+  },
+  {
+    "PartNum": "P202",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2026-01-28",
+    "QtyOnHand": 397,
+    "UnitCost": 22.0
+  },
+  {
+    "PartNum": "P203",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2026-01-28",
+    "QtyOnHand": 255,
+    "UnitCost": 65.0
+  },
+  {
+    "PartNum": "P204",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2026-01-28",
+    "QtyOnHand": 216,
+    "UnitCost": 3.1
+  },
+  {
+    "PartNum": "P205",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2026-01-28",
+    "QtyOnHand": 111,
+    "UnitCost": 12.4
+  },
+  {
+    "PartNum": "P206",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2026-01-28",
+    "QtyOnHand": 400,
+    "UnitCost": 18.0
+  },
+  {
+    "PartNum": "P207",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2026-01-28",
+    "QtyOnHand": 344,
+    "UnitCost": 33.0
+  },
+  {
+    "PartNum": "P200",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2026-02-28",
+    "QtyOnHand": 60,
+    "UnitCost": 4.5
+  },
+  {
+    "PartNum": "P201",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2026-02-28",
+    "QtyOnHand": 78,
+    "UnitCost": 5.25
+  },
+  {
+    "PartNum": "P202",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2026-02-28",
+    "QtyOnHand": 92,
+    "UnitCost": 22.0
+  },
+  {
+    "PartNum": "P203",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2026-02-28",
+    "QtyOnHand": 210,
+    "UnitCost": 65.0
+  },
+  {
+    "PartNum": "P204",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2026-02-28",
+    "QtyOnHand": 358,
+    "UnitCost": 3.1
+  },
+  {
+    "PartNum": "P205",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2026-02-28",
+    "QtyOnHand": 202,
+    "UnitCost": 12.4
+  },
+  {
+    "PartNum": "P206",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2026-02-28",
+    "QtyOnHand": 82,
+    "UnitCost": 18.0
+  },
+  {
+    "PartNum": "P207",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2026-02-28",
+    "QtyOnHand": 258,
+    "UnitCost": 33.0
+  },
+  {
+    "PartNum": "P200",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2026-03-28",
+    "QtyOnHand": 175,
+    "UnitCost": 4.5
+  },
+  {
+    "PartNum": "P201",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2026-03-28",
+    "QtyOnHand": 346,
+    "UnitCost": 5.25
+  },
+  {
+    "PartNum": "P202",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2026-03-28",
+    "QtyOnHand": 277,
+    "UnitCost": 22.0
+  },
+  {
+    "PartNum": "P203",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2026-03-28",
+    "QtyOnHand": 93,
+    "UnitCost": 65.0
+  },
+  {
+    "PartNum": "P204",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2026-03-28",
+    "QtyOnHand": 323,
+    "UnitCost": 3.1
+  },
+  {
+    "PartNum": "P205",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2026-03-28",
+    "QtyOnHand": 360,
+    "UnitCost": 12.4
+  },
+  {
+    "PartNum": "P206",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2026-03-28",
+    "QtyOnHand": 214,
+    "UnitCost": 18.0
+  },
+  {
+    "PartNum": "P207",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2026-03-28",
+    "QtyOnHand": 255,
+    "UnitCost": 33.0
+  },
+  {
+    "PartNum": "P200",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2026-04-28",
+    "QtyOnHand": 362,
+    "UnitCost": 4.5
+  },
+  {
+    "PartNum": "P201",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2026-04-28",
+    "QtyOnHand": 271,
+    "UnitCost": 5.25
+  },
+  {
+    "PartNum": "P202",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2026-04-28",
+    "QtyOnHand": 129,
+    "UnitCost": 22.0
+  },
+  {
+    "PartNum": "P203",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2026-04-28",
+    "QtyOnHand": 296,
+    "UnitCost": 65.0
+  },
+  {
+    "PartNum": "P204",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2026-04-28",
+    "QtyOnHand": 60,
+    "UnitCost": 3.1
+  },
+  {
+    "PartNum": "P205",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2026-04-28",
+    "QtyOnHand": 245,
+    "UnitCost": 12.4
+  },
+  {
+    "PartNum": "P206",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2026-04-28",
+    "QtyOnHand": 268,
+    "UnitCost": 18.0
+  },
+  {
+    "PartNum": "P207",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2026-04-28",
+    "QtyOnHand": 92,
+    "UnitCost": 33.0
+  },
+  {
+    "PartNum": "P200",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2026-05-28",
+    "QtyOnHand": 101,
+    "UnitCost": 4.5
+  },
+  {
+    "PartNum": "P201",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2026-05-28",
+    "QtyOnHand": 270,
+    "UnitCost": 5.25
+  },
+  {
+    "PartNum": "P202",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2026-05-28",
+    "QtyOnHand": 144,
+    "UnitCost": 22.0
+  },
+  {
+    "PartNum": "P203",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2026-05-28",
+    "QtyOnHand": 179,
+    "UnitCost": 65.0
+  },
+  {
+    "PartNum": "P204",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2026-05-28",
+    "QtyOnHand": 301,
+    "UnitCost": 3.1
+  },
+  {
+    "PartNum": "P205",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2026-05-28",
+    "QtyOnHand": 236,
+    "UnitCost": 12.4
+  },
+  {
+    "PartNum": "P206",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2026-05-28",
+    "QtyOnHand": 884,
+    "UnitCost": 18.0
+  },
+  {
+    "PartNum": "P207",
+    "Warehouse": "MAIN",
+    "SnapshotDate": "2026-05-28",
+    "QtyOnHand": 820,
+    "UnitCost": 33.0
+  }
+]
