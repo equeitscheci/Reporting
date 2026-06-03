@@ -9,7 +9,8 @@ from pydantic import BaseModel, Field
 
 class MetricQueryRequest(BaseModel):
     metric: str
-    dimensions: list[str] = Field(default_factory=list)
+    # None => the metric's default dimensions; [] => grand total (no grouping).
+    dimensions: list[str] | None = None
     filters: dict[str, Any] = Field(default_factory=dict)
     order_by: str | None = None
     limit: int | None = None

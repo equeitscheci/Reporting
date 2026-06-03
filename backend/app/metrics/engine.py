@@ -20,7 +20,8 @@ from app.store.memory import CanonicalStore
 @dataclass
 class MetricQuery:
     metric: str
-    dimensions: list[str] = field(default_factory=list)
+    # None => use the metric's default dimensions; [] => no grouping (grand total).
+    dimensions: list[str] | None = None
     filters: dict[str, Any] = field(default_factory=dict)
     time_grain: str | None = None  # None uses the metric's stored 'month' column as-is
     order_by: str | None = None
@@ -64,7 +65,8 @@ class MetricEngine:
         if mdef is None:
             raise KeyError(f"Unknown metric '{q.metric}'. Known: {sorted(METRICS)}")
         df = self.fact(tenant_id, mdef.fact)
-        dims = q.dimensions or mdef.default_dimensions
+        # None => metric default dims; explicit [] => grand total (no grouping).
+        dims = q.dimensions if q.dimensions is not None else mdef.default_dimensions
 
         if df.empty:
             return MetricResult(mdef.name, mdef.label, mdef.unit, dims, [])
