@@ -1,0 +1,14 @@
+# Copy to ~/.dbt/profiles.yml (or set DBT_PROFILES_DIR). Swap `type` to snowflake/bigquery at scale —
+# the model SQL is portable; only this profile changes.
+insightforge:
+  target: dev
+  outputs:
+    dev:
+      type: postgres
+      host: "{{ env_var('PGHOST', 'localhost') }}"
+      port: 5432
+      user: "{{ env_var('PGUSER', 'insightforge') }}"
+      password: "{{ env_var('PGPASSWORD', 'insightforge') }}"
+      dbname: "{{ env_var('PGDATABASE', 'insightforge') }}"
+      schema: marts
+      threads: 4
