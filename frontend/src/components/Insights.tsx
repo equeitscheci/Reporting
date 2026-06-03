@@ -36,6 +36,12 @@ export function Insights() {
         {answer && (
           <div className="answer">
             <p className="answer-text">{answer.answer}</p>
+            {answer.source && (
+              <p className="answer-source">
+                Source: {answer.source === "eci_ai_studio" ? "ECI AI Studio agent" : "local semantic NLQ"}
+                {answer.agent?.status && ` (${answer.agent.status})`}
+              </p>
+            )}
             <p className="answer-meta">
               Resolved to metric <code>{answer.resolved_query.metric}</code> (intent:{" "}
               {answer.resolved_query.intent}). {answer.explanation}

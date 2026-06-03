@@ -80,4 +80,6 @@ export interface NLAnswer {
   answer: string;
   data: MetricRow[];
   explanation: string;
+  source?: "local" | "eci_ai_studio";
+  agent?: { provider: string; status: string; agent_id?: string | null };
 }

@@ -99,6 +99,7 @@ main { padding: 24px; max-width: 1240px; margin: 0 auto; }
 .ask-row button { background: var(--accent); color: white; border: none; border-radius: 8px; padding: 10px 20px; cursor: pointer; }
 .answer { margin-top: 14px; background: var(--panel-2); border: 1px solid var(--border); border-radius: 8px; padding: 14px; }
 .answer-text { font-size: 15px; margin: 0 0 8px; }
+.answer-source { font-size: 11px; color: var(--accent-2); margin: 0 0 8px; text-transform: uppercase; letter-spacing: 0.04em; }
 .answer-meta { font-size: 12px; color: var(--muted); margin: 0; }
 .answer-meta code { color: var(--accent-2); }
 

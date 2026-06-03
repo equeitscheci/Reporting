@@ -27,13 +27,15 @@ from app.api.schemas import (
 )
 from app.core.security import Principal, get_principal
 from app.core.tenancy import list_tenants, load_tenant
+from app.insights.ai_studio import answer_with_optional_ai_studio
 from app.insights.engine import InsightsEngine
 from app.insights.nlq import NLQueryEngine
 from app.insights.recommendations import generate_recommendations
+from app.insights.widget_token import get_widget_access_token
 from app.metrics.definitions import METRICS, metrics_for_industry
 from app.metrics.engine import MetricQuery
 from app.reports.runner import run_report_spec
-from app.services import metric_engine, secret_resolver, seed_tenant, store
+from app.services import metric_engine, secret_resolver, seed_tenant
 
 router = APIRouter()
 
@@ -41,6 +43,12 @@ router = APIRouter()
 @router.get("/health")
 def health() -> dict[str, str]:
     return {"status": "ok"}
+
+
+@router.get("/.ai/token")
+def get_ai_widget_token(principal: Principal = Depends(get_principal)) -> dict[str, str]:
+    principal.require("insights:read")
+    return {"access_token": get_widget_access_token()}
 
 
 @router.get("/tenants")
@@ -151,5 +159,12 @@ def get_recommendations(principal: Principal = Depends(get_principal)) -> dict[s
 @router.post("/insights/ask")
 def ask(req: NLQRequest, principal: Principal = Depends(get_principal)) -> dict[str, Any]:
     principal.require("insights:read")
+    cfg = load_tenant(principal.tenant_id)
     nlq = NLQueryEngine(metric_engine)
-    return nlq.answer(principal.tenant_id, req.question).as_dict()
+    local_answer = nlq.answer(principal.tenant_id, req.question)
+    return answer_with_optional_ai_studio(
+        tenant_id=principal.tenant_id,
+        question=req.question,
+        local_answer=local_answer,
+        industry=cfg.profile.primary_vertical,
+    )

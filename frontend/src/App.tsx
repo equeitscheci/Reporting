@@ -1,5 +1,6 @@
 import { useState } from "react";
 import { Dashboard } from "./components/Dashboard";
+import { ECIAgentWidget } from "./components/ECIAgentWidget";
 import { Insights } from "./components/Insights";
 import { ReportBuilder } from "./builder/ReportBuilder";
 import { api } from "./api";
@@ -45,6 +46,7 @@ export default function App() {
         {view === "builder" && <ReportBuilder />}
         {view === "insights" && <Insights />}
       </main>
+      <ECIAgentWidget />
     </div>
   );
 }

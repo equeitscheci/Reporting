@@ -30,5 +30,22 @@ class Settings(BaseSettings):
     jwt_audience: str = "insightforge"
     auth_disabled: bool = True  # dev convenience; MUST be False in prod
 
+    # Optional ECI AI Studio agent bridge. When ai_studio_agent_url is unset, the app uses the
+    # built-in deterministic NLQ engine only.
+    ai_studio_agent_url: str | None = None
+    ai_studio_api_key: str | None = None
+    ai_studio_agent_id: str | None = None
+    ai_studio_timeout_seconds: float = 15.0
+
+    # Token broker for the ECI AI Studio browser widget. Never expose client credentials directly
+    # to the frontend; the widget calls /.ai/token and this backend performs the exchange.
+    ai_widget_access_token: str | None = None  # dev-only escape hatch
+    ai_widget_token_url: str | None = None
+    ai_widget_client_id: str | None = None
+    ai_widget_client_secret: str | None = None
+    ai_widget_scope: str | None = None
+    ai_widget_audience: str | None = None
+    ai_widget_timeout_seconds: float = 10.0
+
 
 settings = Settings()
