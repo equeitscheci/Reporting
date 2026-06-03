@@ -30,5 +30,12 @@ class Settings(BaseSettings):
     jwt_audience: str = "insightforge"
     auth_disabled: bool = True  # dev convenience; MUST be False in prod
 
+    # Optional ECI AI Studio agent bridge. When ai_studio_agent_url is unset, the app uses the
+    # built-in deterministic NLQ engine only.
+    ai_studio_agent_url: str | None = None
+    ai_studio_api_key: str | None = None
+    ai_studio_agent_id: str | None = None
+    ai_studio_timeout_seconds: float = 15.0
+
 
 settings = Settings()

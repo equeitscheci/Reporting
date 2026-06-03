@@ -55,6 +55,22 @@ pytest -q
 docker compose up --build
 ```
 
+## Optional ECI AI Studio agent
+
+The **Insights → Ask a question** flow works locally by default: the backend parses the question,
+runs governed semantic metric queries, and returns a deterministic answer. To delegate that answer
+composition to an ECI AI Studio agent, configure the backend with:
+
+```bash
+INSIGHTFORGE_AI_STUDIO_AGENT_URL=https://...
+INSIGHTFORGE_AI_STUDIO_API_KEY=...
+INSIGHTFORGE_AI_STUDIO_AGENT_ID=...
+```
+
+When configured, `POST /insights/ask` sends the tenant id, question, local governed answer, and
+metric catalog to the agent. If the agent is unavailable or not configured, the endpoint falls back
+to the local semantic NLQ answer so the interface remains testable.
+
 See [`ARCHITECTURE.md`](./ARCHITECTURE.md) for the deep dive and [`ROADMAP.md`](./ROADMAP.md) for scope.
 
 ## Design principles
