@@ -1,0 +1,52 @@
+{
+  "id": "construction-overview",
+  "title": "Construction — Project Profitability & Budget vs Actual",
+  "industry": "construction",
+  "note": "Template dashboard. With the construction pack enabled (Project/Budget/Schedule entities), these widgets bind to project-level metrics (project_margin, budget_vs_actual, schedule_variance). Shown here against shared metrics as a working preview.",
+  "filters": {},
+  "layout": { "columns": 12 },
+  "widgets": [
+    {
+      "id": "kpi-revenue",
+      "type": "kpi",
+      "title": "Contract Revenue",
+      "metric": "revenue",
+      "dimensions": [],
+      "grid": { "x": 0, "y": 0, "w": 4, "h": 2 }
+    },
+    {
+      "id": "kpi-margin",
+      "type": "kpi",
+      "title": "Project Margin %",
+      "metric": "gross_margin_pct",
+      "dimensions": [],
+      "grid": { "x": 4, "y": 0, "w": 4, "h": 2 }
+    },
+    {
+      "id": "kpi-ar",
+      "type": "kpi",
+      "title": "AR Open Balance",
+      "metric": "ar_open_balance",
+      "dimensions": [],
+      "grid": { "x": 8, "y": 0, "w": 4, "h": 2 }
+    },
+    {
+      "id": "project-profit",
+      "type": "bar",
+      "title": "Project Margin % by Customer (proxy for project)",
+      "metric": "gross_margin_pct",
+      "dimensions": ["customer_name"],
+      "order_by": "value",
+      "limit": 10,
+      "grid": { "x": 0, "y": 2, "w": 7, "h": 4 }
+    },
+    {
+      "id": "revenue-trend",
+      "type": "line",
+      "title": "Revenue Trend (budget vs actual when pack enabled)",
+      "metric": "revenue",
+      "dimensions": ["month"],
+      "grid": { "x": 7, "y": 2, "w": 5, "h": 4 }
+    }
+  ]
+}

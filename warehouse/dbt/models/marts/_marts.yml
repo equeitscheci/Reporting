@@ -1,0 +1,27 @@
+version: 2
+
+models:
+  - name: fact_sales
+    description: "Order-line grain sales fact with conformed customer/product dims."
+    columns:
+      - name: sales_key
+        tests: [unique, not_null]
+      - name: tenant_id
+        tests: [not_null]
+      - name: revenue
+        tests:
+          - dbt_utils.accepted_range:
+              min_value: 0
+              inclusive: true
+  - name: dim_customer
+    columns:
+      - name: customer_key
+        tests: [unique, not_null]
+  - name: dim_product
+    columns:
+      - name: product_key
+        tests: [unique, not_null]
+  - name: fact_inventory_snapshot
+    columns:
+      - name: inventory_key
+        tests: [unique, not_null]

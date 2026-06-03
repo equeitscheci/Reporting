@@ -1,0 +1,85 @@
+# dbt Semantic Layer — semantic model + metrics over fact_sales.
+# This is the single source of truth for sales/margin metrics; the backend's Python metric registry
+# is kept in lock-step (and in production is generated from these definitions).
+version: 2
+
+semantic_models:
+  - name: sales
+    description: "Order-line grain sales."
+    model: ref('fact_sales')
+    defaults:
+      agg_time_dimension: order_day
+    entities:
+      - name: sales
+        type: primary
+        expr: sales_key
+      - name: customer
+        type: foreign
+        expr: customer_key
+      - name: product
+        type: foreign
+        expr: product_key
+    dimensions:
+      - name: order_day
+        type: time
+        type_params: { time_granularity: day }
+        expr: to_date(cast(date_key as varchar), 'YYYYMMDD')
+      - name: region
+        type: categorical
+      - name: segment
+        type: categorical
+      - name: product_group
+        type: categorical
+      - name: customer_name
+        type: categorical
+    measures:
+      - name: revenue
+        agg: sum
+        expr: revenue
+      - name: cogs
+        agg: sum
+        expr: cost
+      - name: gross_margin_amount
+        agg: sum
+        expr: gross_margin
+      - name: order_qty
+        agg: sum
+        expr: order_qty
+      - name: ship_qty
+        agg: sum
+        expr: ship_qty
+      - name: order_count
+        agg: count_distinct
+        expr: order_number
+
+metrics:
+  - name: revenue
+    label: "Revenue"
+    type: simple
+    type_params: { measure: revenue }
+  - name: cogs
+    label: "COGS"
+    type: simple
+    type_params: { measure: cogs }
+  - name: gross_margin
+    label: "Gross Margin $"
+    type: simple
+    type_params: { measure: gross_margin_amount }
+  - name: gross_margin_pct
+    label: "Gross Margin %"
+    type: ratio
+    type_params:
+      numerator: gross_margin_amount
+      denominator: revenue
+  - name: fill_rate
+    label: "Fill Rate %"
+    type: ratio
+    type_params:
+      numerator: ship_qty
+      denominator: order_qty
+  - name: avg_order_value
+    label: "Average Order Value"
+    type: ratio
+    type_params:
+      numerator: revenue
+      denominator: order_count

@@ -1,0 +1,14 @@
+version: 2
+
+sources:
+  - name: canonical
+    description: "Silver layer — canonical entities written by the mapping engine."
+    schema: "canonical_{{ var('tenant') }}"
+    tables:
+      - name: customer
+      - name: product
+      - name: order
+      - name: order_line
+      - name: invoice
+      - name: inventory_level
+      - name: job_cost
